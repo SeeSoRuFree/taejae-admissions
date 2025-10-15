@@ -1,5 +1,7 @@
 import React, { useState, useMemo } from 'react';
 import '../styles/EventsContactsPage.css';
+import { submitEventApplication } from '../api/eventsApi';
+import Toast from './Toast';
 
 const EventsContactsPage = ({ onNavigate }) => {
   const [selectedEvent, setSelectedEvent] = useState(null);
@@ -8,6 +10,7 @@ const EventsContactsPage = ({ onNavigate }) => {
   const [privacyAgreed, setPrivacyAgreed] = useState(false);
   const [showSuccess, setShowSuccess] = useState(false);
   const [showMapModal, setShowMapModal] = useState(false);
+  const [toast, setToast] = useState(null);
 
 
   const events = [
@@ -117,12 +120,12 @@ const EventsContactsPage = ({ onNavigate }) => {
     
     // Event-specific required fields
     const eventRequiredFields = [];
-    if (selectedEvent.id === 'teacher') {
+    if (selectedEvent.id === 'teacher' || selectedEvent.id === 'comeAndSee') {
       eventRequiredFields.push('school');
-    } else if (selectedEvent.id !== 'teacher') {
+    } else if (selectedEvent.id === 'visiting' || selectedEvent.id === 'online' || selectedEvent.id === 'consultation') {
       eventRequiredFields.push('organization');
     }
-    if (selectedEvent.id === 'comeAndSee') {
+    if (selectedEvent.id === 'comeAndSee' || selectedEvent.id === 'online') {
       eventRequiredFields.push('participantType');
     }
     if (selectedEvent.id === 'consultation') {
@@ -157,32 +160,62 @@ const EventsContactsPage = ({ onNavigate }) => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     if (!isFormValid) {
-      alert('모든 필수 항목을 입력해 주세요.');
+      setToast({
+        message: '모든 필수 항목을 입력해 주세요.',
+        type: 'error'
+      });
       return;
     }
 
     setIsSubmitting(true);
-    // Simulate API call
-    await new Promise(resolve => setTimeout(resolve, 1000));
-    
-    // Show success message
-    setShowSuccess(true);
-    setIsSubmitting(false);
-    
-    // Auto close modal after 3 seconds
-    setTimeout(() => {
-      setShowSuccess(false);
-      setSelectedEvent(null);
-      setFormData({});
-      setPrivacyAgreed(false);
-    }, 3000);
+
+    try {
+      // API 호출
+      const result = await submitEventApplication(selectedEvent.id, formData);
+
+      setIsSubmitting(false);
+
+      if (result.success) {
+        // 성공 시
+        setShowSuccess(true);
+        setToast({
+          message: '신청이 완료되었습니다! 빠른 시간 내에 연락드리겠습니다.',
+          type: 'success',
+          duration: 3000
+        });
+
+        // Auto close modal after 3 seconds
+        setTimeout(() => {
+          setShowSuccess(false);
+          setSelectedEvent(null);
+          setFormData({});
+          setPrivacyAgreed(false);
+        }, 3000);
+      } else {
+        // 실패 시 - 명확한 에러 메시지 표시
+        setToast({
+          message: result.error || '신청 처리 중 오류가 발생했습니다.',
+          type: 'error',
+          duration: 5000
+        });
+      }
+    } catch (error) {
+      setIsSubmitting(false);
+      // 예상치 못한 에러 처리
+      setToast({
+        message: '신청 처리 중 오류가 발생했습니다. 잠시 후 다시 시도해주세요.',
+        type: 'error',
+        duration: 5000
+      });
+      console.error('Submission error:', error);
+    }
   };
 
   const renderFormField = (field) => {
-    const isRequired = ['name', 'email', 'phone', 'participants', 'preferredDates'].includes(field) || 
-                      (field === 'school' && selectedEvent?.id === 'teacher') ||
-                      (field === 'organization' && selectedEvent?.id !== 'teacher') ||
-                      (field === 'participantType' && selectedEvent?.id === 'comeAndSee') ||
+    const isRequired = ['name', 'email', 'phone', 'participants', 'preferredDates'].includes(field) ||
+                      (field === 'school' && (selectedEvent?.id === 'teacher' || selectedEvent?.id === 'comeAndSee')) ||
+                      (field === 'organization' && (selectedEvent?.id === 'visiting' || selectedEvent?.id === 'online' || selectedEvent?.id === 'consultation')) ||
+                      (field === 'participantType' && (selectedEvent?.id === 'comeAndSee' || selectedEvent?.id === 'online')) ||
                       (field === 'consultationType' && selectedEvent?.id === 'consultation');
 
     switch (field) {
@@ -568,6 +601,16 @@ const EventsContactsPage = ({ onNavigate }) => {
             </div>
           </div>
         </div>
+      )}
+
+      {/* Toast 알림 */}
+      {toast && (
+        <Toast
+          message={toast.message}
+          type={toast.type}
+          duration={toast.duration || 3000}
+          onClose={() => setToast(null)}
+        />
       )}
 
     </div>
