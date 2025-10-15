@@ -154,6 +154,49 @@ export const submitComeAndSeeProgram = async (formData) => {
 };
 
 /**
+ * 1:1 입학 상담 신청
+ * POST /api/admission/public/v1/consultations
+ */
+export const submitConsultation = async (formData) => {
+  const [datetime1, datetime2, datetime3] = extractPreferredDatetimes(formData);
+
+  // consultationType을 API 형식에 맞게 변환
+  const consultationTypeMap = {
+    'online': 'ONLINE',
+    'offline': 'OFFLINE'
+  };
+
+  // applicantType을 API 형식에 맞게 변환
+  const applicantTypeMap = {
+    'student': 'STUDENT',
+    'parent': 'PARENT',
+    'teacher': 'HIGH_SCHOOL_TEACHER',
+    'other': 'ETC'
+  };
+
+  const payload = {
+    applicantName: formData.name,
+    organization: formData.organization,
+    consultationType: consultationTypeMap[formData.consultationType] || 'INDIVIDUAL',
+    email: formData.email,
+    contact: formData.phone,
+    applicantType: applicantTypeMap[formData.participantType] || 'STUDENT',
+    participantCount: parseInt(formData.participants, 10),
+    preferredDatetime1: datetime1,
+    preferredDatetime2: datetime2,
+    preferredDatetime3: datetime3,
+    preQuestions: formData.questions || '',
+    privacyAgreed: true
+  };
+
+  return await request({
+    method: 'POST',
+    url: '/admission/public/v1/consultations',
+    data: payload
+  });
+};
+
+/**
  * 이벤트 타입에 따라 적절한 API 함수 호출
  * @param {string} eventId - 이벤트 ID (teacher, comeAndSee, visiting, online, consultation)
  * @param {Object} formData - 폼 데이터
@@ -170,11 +213,7 @@ export const submitEventApplication = async (eventId, formData) => {
     case 'online':
       return await submitOnlineSession(formData);
     case 'consultation':
-      // consultation API가 아직 제공되지 않음
-      return {
-        success: false,
-        error: '1:1 입학 상담 신청은 준비 중입니다. 전화(02-3676-5556) 또는 이메일(osra@taejae.ac.kr)로 문의해주세요.'
-      };
+      return await submitConsultation(formData);
     default:
       return {
         success: false,
