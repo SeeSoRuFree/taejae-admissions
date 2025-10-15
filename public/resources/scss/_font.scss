@@ -1,0 +1,95 @@
+@charset "utf-8";
+
+//$font-path-poppins : '/font/poppins/';
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  src: local("Poppins Light"), local("Poppins-Light"),
+    url($font-path-poppins + "Poppins-Light.woff2") format("woff2"),
+    url($font-path-poppins + "Poppins-Light.woff") format("woff"),
+    url($font-path-poppins + "Poppins-Light.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Poppins Regular"), local("Poppins-Regular"),
+    url($font-path-poppins + "Poppins-Regular.woff2") format("woff2"),
+    url($font-path-poppins + "Poppins-Regular.woff") format("woff"),
+    url($font-path-poppins + "Poppins-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  src: local("Poppins Medium"), local("Poppins-Medium"),
+    url($font-path-poppins + "Poppins-Medium.woff2") format("woff2"),
+    url($font-path-poppins + "Poppins-Medium.woff") format("woff"),
+    url($font-path-poppins + "Poppins-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  src: local("Poppins SemiBold"), local("Poppins-SemiBold"),
+    url($font-path-poppins + "Poppins-SemiBold.woff2") format("woff2"),
+    url($font-path-poppins + "Poppins-SemiBold.woff") format("woff"),
+    url($font-path-poppins + "Poppins-SemiBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  src: local("Poppins Bold"), local("Poppins-Bold"),
+    url($font-path-poppins + "Poppins-Bold.woff2") format("woff2"),
+    url($font-path-poppins + "Poppins-Bold.woff") format("woff"),
+    url($font-path-poppins + "Poppins-Bold.ttf") format("truetype");
+}
+
+//$font-path-suit : '/font/suit/';
+@font-face {
+  font-family: "Suit";
+  font-style: normal;
+  font-weight: 300;
+  src: local("Suit Light"), local("SUIT-Light"),
+    url($font-path-suit + "SUIT-Light.woff2") format("woff2"),
+    url($font-path-suit + "SUIT-Light.woff") format("woff"),
+    url($font-path-suit + "SUIT-Light.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Suit";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Suit Regular"), local("SUIT-Regular"),
+    url($font-path-suit + "SUIT-Regular.woff2") format("woff2"),
+    url($font-path-suit + "SUIT-Regular.woff") format("woff"),
+    url($font-path-suit + "SUIT-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Suit";
+  font-style: normal;
+  font-weight: 500;
+  src: local("Suit Medium"), local("SUIT-Medium"),
+    url($font-path-suit + "SUIT-Medium.woff2") format("woff2"),
+    url($font-path-suit + "SUIT-Medium.woff") format("woff"),
+    url($font-path-suit + "SUIT-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Suit";
+  font-style: normal;
+  font-weight: 600;
+  src: local("Suit SemiBold"), local("SUIT-SemiBold"),
+    url($font-path-suit + "SUIT-SemiBold.woff2") format("woff2"),
+    url($font-path-suit + "SUIT-SemiBold.woff") format("woff"),
+    url($font-path-suit + "SUIT-SemiBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Suit";
+  font-style: normal;
+  font-weight: 700;
+  src: local("Suit Bold"), local("SUIT-Bold"),
+    url($font-path-suit + "SUIT-Bold.woff2") format("woff2"),
+    url($font-path-suit + "SUIT-Bold.woff") format("woff"),
+    url($font-path-suit + "SUIT-Bold.ttf") format("truetype");
+}

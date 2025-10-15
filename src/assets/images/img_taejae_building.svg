@@ -1,0 +1,618 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1056" height="640" viewBox="0 0 1056 640">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="mask" width="428" height="640" transform="translate(436)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="108" height="34.209" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect width="98" height="34.209" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect width="97.75" height="16" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="img_taejae_building" data-name="img/taejae/building" transform="translate(-1)">
+    <g id="building" transform="translate(527 112)">
+      <g id="roof" transform="translate(7 0)">
+        <line id="line" y2="42" transform="translate(97.5 4)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-2" data-name="line" y2="42" transform="translate(151.5 4)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-3" data-name="line" y2="42" transform="translate(208.5 4)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <g id="box" transform="translate(262)" fill="none" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="6" height="50" stroke="none"/>
+          <rect x="0.25" y="0.25" width="5.5" height="49.5" fill="none"/>
+        </g>
+        <g id="box-2" data-name="box" fill="#bfbfbf" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="268" height="4" stroke="none"/>
+          <rect x="0.25" y="0.25" width="267.5" height="3.5" fill="none"/>
+        </g>
+      </g>
+      <g id="_5f" data-name="5f" transform="translate(45 46)">
+        <line id="line-4" data-name="line" y2="52" transform="translate(80.5 4)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-5" data-name="line" y2="52" transform="translate(162.5 4)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-6" data-name="line" y2="52" transform="translate(243.5 4)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <g id="box-3" data-name="box" transform="translate(294)" fill="none" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="6" height="56" stroke="none"/>
+          <rect x="0.25" y="0.25" width="5.5" height="55.5" fill="none"/>
+        </g>
+        <g id="box-4" data-name="box" fill="#bfbfbf" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="300" height="4" stroke="none"/>
+          <rect x="0.25" y="0.25" width="299.5" height="3.5" fill="none"/>
+        </g>
+      </g>
+      <g id="_4f" data-name="4f" transform="translate(0 98)">
+        <line id="line-7" data-name="line" y2="68" transform="translate(45.5 4)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-8" data-name="line" y2="68" transform="translate(125.5 4)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-9" data-name="line" y2="68" transform="translate(207.5 4)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-10" data-name="line" y2="68" transform="translate(288.5 4)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-11" data-name="line" y2="68" transform="translate(369.5 4)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <g id="box-5" data-name="box" transform="translate(0 62)" fill="none" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="452" height="10" stroke="none"/>
+          <rect x="0.25" y="0.25" width="451.5" height="9.5" fill="none"/>
+        </g>
+        <g id="box-6" data-name="box" transform="translate(446)" fill="none" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="6" height="72" stroke="none"/>
+          <rect x="0.25" y="0.25" width="5.5" height="71.5" fill="none"/>
+        </g>
+        <g id="box-7" data-name="box" transform="translate(32)" fill="#bfbfbf" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="420" height="4" stroke="none"/>
+          <rect x="0.25" y="0.25" width="419.5" height="3.5" fill="none"/>
+        </g>
+      </g>
+      <g id="_3f" data-name="3f" transform="translate(0 169)">
+        <line id="line-12" data-name="line" y2="150" transform="translate(86.5 4)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-13" data-name="line" y2="150" transform="translate(91.5 4)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-14" data-name="line" y2="158" transform="translate(192.5 4)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-15" data-name="line" y2="158" transform="translate(294.5 4)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-16" data-name="line" y2="158" transform="translate(395.5 4)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-17" data-name="line" x1="413.5" transform="translate(86.5 62.5)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <g id="box-8" data-name="box" transform="translate(494)" fill="none" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="6" height="162" stroke="none"/>
+          <rect x="0.25" y="0.25" width="5.5" height="161.5" fill="none"/>
+        </g>
+        <g id="box-9" data-name="box" fill="#bfbfbf" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="500" height="10" stroke="none"/>
+          <rect x="0.25" y="0.25" width="499.5" height="9.5" fill="none"/>
+        </g>
+      </g>
+      <g id="_2f" data-name="2f" transform="translate(29 321)">
+        <line id="line-18" data-name="line" y2="130" transform="translate(37.5 8)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-19" data-name="line" y2="130" transform="translate(163.5 8)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-20" data-name="line" y2="126" transform="translate(265.5 12)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-21" data-name="line" y2="126" transform="translate(366.5 12)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <g id="box-10" data-name="box" transform="translate(465 8)" fill="none" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="6" height="130" stroke="none"/>
+          <rect x="0.25" y="0.25" width="5.5" height="129.5" fill="none"/>
+        </g>
+        <g id="box-11" data-name="box" transform="translate(235 8)" fill="#bfbfbf" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="236" height="4" stroke="none"/>
+          <rect x="0.25" y="0.25" width="235.5" height="3.5" fill="none"/>
+        </g>
+        <g id="box-12" data-name="box" transform="translate(228 7)" fill="#bfbfbf" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="8" height="190" stroke="none"/>
+          <rect x="0.25" y="0.25" width="7.5" height="189.5" fill="none"/>
+        </g>
+        <g id="box-13" data-name="box" fill="#bfbfbf" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="236" height="8" stroke="none"/>
+          <rect x="0.25" y="0.25" width="235.5" height="7.5" fill="none"/>
+        </g>
+      </g>
+      <g id="_1f" data-name="1f" transform="translate(30 457)">
+        <line id="line-22" data-name="line" y2="60" transform="translate(57.5 0.5)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-23" data-name="line" y2="60" transform="translate(162.5 0.5)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-24" data-name="line" y2="60" transform="translate(264.5 0.5)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-25" data-name="line" y2="60" transform="translate(365.5 0.5)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-26" data-name="line" y2="60" transform="translate(463.5 0.5)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <g id="box-14" data-name="box" transform="translate(494)" fill="none" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="6" height="64" stroke="none"/>
+          <rect x="0.25" y="0.25" width="5.5" height="63.5" fill="none"/>
+        </g>
+        <g id="box-15" data-name="box" fill="#bfbfbf" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="500" height="4" stroke="none"/>
+          <rect x="0.25" y="0.25" width="499.5" height="3.5" fill="none"/>
+        </g>
+        <g id="box-16" data-name="box" transform="translate(0 60)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="500" height="4" stroke="none"/>
+          <rect x="0.25" y="0.25" width="499.5" height="3.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="building-2" data-name="building" transform="translate(0 113.76)">
+      <g id="roof-2" data-name="roof">
+        <line id="line-27" data-name="line" y2="42" transform="translate(426.5 2.24)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-28" data-name="line" y2="42" transform="translate(372.5 2.24)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-29" data-name="line" y2="42" transform="translate(315.5 2.24)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <g id="box-17" data-name="box" transform="translate(256 -1.76)" fill="none" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="6" height="50" stroke="none"/>
+          <rect x="0.25" y="0.25" width="5.5" height="49.5" fill="none"/>
+        </g>
+        <g id="box-18" data-name="box" transform="translate(256 -1.76)" fill="#bfbfbf" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="268" height="4" stroke="none"/>
+          <rect x="0.25" y="0.25" width="267.5" height="3.5" fill="none"/>
+        </g>
+      </g>
+      <g id="_5f-2" data-name="5f" transform="translate(-70 46)">
+        <line id="line-30" data-name="line" y2="52" transform="translate(475.5 2.24)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-31" data-name="line" y2="52" transform="translate(393.5 2.24)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-32" data-name="line" y2="52" transform="translate(312.5 2.24)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <g id="box-19" data-name="box" transform="translate(256 -1.76)" fill="none" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="6" height="56" stroke="none"/>
+          <rect x="0.25" y="0.25" width="5.5" height="55.5" fill="none"/>
+        </g>
+        <g id="box-20" data-name="box" transform="translate(256 -1.76)" fill="#bfbfbf" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="300" height="4" stroke="none"/>
+          <rect x="0.25" y="0.25" width="299.5" height="3.5" fill="none"/>
+        </g>
+      </g>
+      <g id="_4f-2" data-name="4f" transform="translate(-177 98)">
+        <line id="line-33" data-name="line" y2="68" transform="translate(662.5 2.24)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-34" data-name="line" y2="68" transform="translate(582.5 2.24)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-35" data-name="line" y2="68" transform="translate(500.5 2.24)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-36" data-name="line" y2="68" transform="translate(419.5 2.24)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-37" data-name="line" y2="68" transform="translate(338.5 2.24)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <g id="box-21" data-name="box" transform="translate(256 60.24)" fill="none" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="452" height="10" stroke="none"/>
+          <rect x="0.25" y="0.25" width="451.5" height="9.5" fill="none"/>
+        </g>
+        <g id="box-22" data-name="box" transform="translate(256 -1.76)" fill="none" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="6" height="72" stroke="none"/>
+          <rect x="0.25" y="0.25" width="5.5" height="71.5" fill="none"/>
+        </g>
+        <g id="box-23" data-name="box" transform="translate(256 -1.76)" fill="#bfbfbf" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="420" height="4" stroke="none"/>
+          <rect x="0.25" y="0.25" width="419.5" height="3.5" fill="none"/>
+        </g>
+      </g>
+      <g id="_3f-2" data-name="3f" transform="translate(-225 169)">
+        <line id="line-38" data-name="line" y2="150" transform="translate(669.5 2.24)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-39" data-name="line" y2="150" transform="translate(664.5 2.24)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-40" data-name="line" y2="158" transform="translate(563.5 2.24)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-41" data-name="line" y2="158" transform="translate(461.5 2.24)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-42" data-name="line" y2="158" transform="translate(360.5 2.24)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-43" data-name="line" x2="413.5" transform="translate(256 60.74)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <g id="box-24" data-name="box" transform="translate(256 -1.76)" fill="none" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="6" height="162" stroke="none"/>
+          <rect x="0.25" y="0.25" width="5.5" height="161.5" fill="none"/>
+        </g>
+        <g id="box-25" data-name="box" transform="translate(256 -1.76)" fill="#bfbfbf" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="500" height="10" stroke="none"/>
+          <rect x="0.25" y="0.25" width="499.5" height="9.5" fill="none"/>
+        </g>
+      </g>
+      <g id="_2f-2" data-name="2f" transform="translate(-225 329)">
+        <line id="line-44" data-name="line" y2="130" transform="translate(689.5 -1.76)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-45" data-name="line" y2="130" transform="translate(563.5 -1.76)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-46" data-name="line" y2="126" transform="translate(461.5 2.24)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-47" data-name="line" y2="126" transform="translate(360.5 2.24)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <g id="box-26" data-name="box" transform="translate(256 -1.76)" fill="none" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="6" height="130" stroke="none"/>
+          <rect x="0.25" y="0.25" width="5.5" height="129.5" fill="none"/>
+        </g>
+        <g id="box-27" data-name="box" transform="translate(256 -1.76)" fill="#bfbfbf" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="236" height="4" stroke="none"/>
+          <rect x="0.25" y="0.25" width="235.5" height="3.5" fill="none"/>
+        </g>
+        <g id="box-28" data-name="box" transform="translate(491 -2.76)" fill="#bfbfbf" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="8" height="190" stroke="none"/>
+          <rect x="0.25" y="0.25" width="7.5" height="189.5" fill="none"/>
+        </g>
+        <g id="box-29" data-name="box" transform="translate(491 -9.76)" fill="#bfbfbf" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="236" height="8" stroke="none"/>
+          <rect x="0.25" y="0.25" width="235.5" height="7.5" fill="none"/>
+        </g>
+      </g>
+      <g id="_1f-2" data-name="1f" transform="translate(-255 457)">
+        <line id="line-48" data-name="line" y2="60" transform="translate(698.5 -1.26)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-49" data-name="line" y2="60" transform="translate(593.5 -1.26)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-50" data-name="line" y2="60" transform="translate(491.5 -1.26)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-51" data-name="line" y2="60" transform="translate(390.5 -1.26)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <line id="line-52" data-name="line" y2="60" transform="translate(292.5 -1.26)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+        <g id="box-30" data-name="box" transform="translate(256 -1.76)" fill="none" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="6" height="64" stroke="none"/>
+          <rect x="0.25" y="0.25" width="5.5" height="63.5" fill="none"/>
+        </g>
+        <g id="box-31" data-name="box" transform="translate(256 -1.76)" fill="#bfbfbf" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="500" height="4" stroke="none"/>
+          <rect x="0.25" y="0.25" width="499.5" height="3.5" fill="none"/>
+        </g>
+        <g id="box-32" data-name="box" transform="translate(256 58.24)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="500" height="4" stroke="none"/>
+          <rect x="0.25" y="0.25" width="499.5" height="3.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="hanok" transform="translate(-8)" clip-path="url(#clip-path)">
+      <g id="Hanok-2" data-name="Hanok" transform="translate(438.884 1)">
+        <ellipse id="타원_12" data-name="타원 12" cx="10.836" cy="6.159" rx="10.836" ry="6.159" transform="matrix(0.382, -0.924, 0.924, 0.382, 22.813, 187.497)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <path id="패스_29265" data-name="패스 29265" d="M716.807,241.948c-2.288,5.53-6.691,8.958-9.834,7.658s-3.837-6.838-1.549-12.368,7.644-7.108,10.787-5.807S719.1,236.418,716.807,241.948Z" transform="translate(-683.755 -70.328)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_13" data-name="타원 13" cx="10.836" cy="6.079" rx="10.836" ry="6.079" transform="matrix(0.382, -0.924, 0.924, 0.382, 29.305, 199.192)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_14" data-name="타원 14" cx="10.836" cy="6.079" rx="10.836" ry="6.079" transform="translate(36.411 210.436) rotate(-65.276)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_15" data-name="타원 15" cx="9.396" cy="5.271" rx="9.396" ry="5.271" transform="translate(43.24 223.114) rotate(-74.302)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_16" data-name="타원 16" cx="9.396" cy="5.271" rx="9.396" ry="5.271" transform="translate(48.173 232.262) rotate(-71.588)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_17" data-name="타원 17" cx="9.396" cy="5.271" rx="9.396" ry="5.271" transform="translate(53.459 240.722) rotate(-71.588)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_18" data-name="타원 18" cx="9.396" cy="5.271" rx="9.396" ry="5.271" transform="translate(58.745 251.297) rotate(-71.588)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_19" data-name="타원 19" cx="9.396" cy="5.271" rx="9.396" ry="5.271" transform="translate(64.03 261.872) rotate(-71.588)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_20" data-name="타원 20" cx="9.396" cy="5.271" rx="9.396" ry="5.271" transform="translate(68.259 270.332) rotate(-71.588)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_21" data-name="타원 21" cx="8.378" cy="4.7" rx="8.378" ry="4.7" transform="translate(75.072 278.322) rotate(-65.276)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_22" data-name="타원 22" cx="8.59" cy="4.819" rx="8.59" ry="4.819" transform="translate(78.068 286.675) rotate(-60)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_23" data-name="타원 23" cx="9.396" cy="5.271" rx="9.396" ry="5.271" transform="matrix(0.382, -0.924, 0.924, 0.382, 82.565, 296.187)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_24" data-name="타원 24" cx="9.396" cy="5.271" rx="9.396" ry="5.271" transform="translate(87.64 308.772) rotate(-74.302)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_25" data-name="타원 25" cx="9.396" cy="5.271" rx="9.396" ry="5.271" transform="translate(92.573 316.863) rotate(-71.588)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_26" data-name="타원 26" cx="8.558" cy="4.801" rx="8.558" ry="4.801" transform="matrix(0.382, -0.924, 0.924, 0.382, 96.949, 323.19)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_27" data-name="타원 27" cx="6.159" cy="10.836" rx="6.159" ry="10.836" transform="matrix(0.924, -0.382, 0.382, 0.924, 382.921, 172.182)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <path id="패스_29266" data-name="패스 29266" d="M1083.528,241.929c2.288,5.53,6.691,8.958,9.833,7.658s3.837-6.838,1.549-12.368-8.7-8.165-11.844-6.864S1081.24,236.4,1083.528,241.929Z" transform="translate(-691.179 -70.309)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_28" data-name="타원 28" cx="6.079" cy="10.836" rx="6.079" ry="10.836" transform="matrix(0.924, -0.382, 0.382, 0.924, 376.578, 183.814)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_29" data-name="타원 29" cx="6.079" cy="10.836" rx="6.079" ry="10.836" transform="translate(368.884 195.835) rotate(-24.724)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_30" data-name="타원 30" cx="5.271" cy="9.396" rx="5.271" ry="9.396" transform="translate(366.929 207.875) rotate(-15.698)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_31" data-name="타원 31" cx="5.271" cy="9.396" rx="5.271" ry="9.396" transform="translate(361.291 217.762) rotate(-18.412)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_32" data-name="타원 32" cx="5.271" cy="9.396" rx="5.271" ry="9.396" transform="translate(356.005 226.222) rotate(-18.412)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_33" data-name="타원 33" cx="5.271" cy="9.396" rx="5.271" ry="9.396" transform="translate(350.719 236.797) rotate(-18.412)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_34" data-name="타원 34" cx="5.271" cy="9.396" rx="5.271" ry="9.396" transform="translate(345.434 247.372) rotate(-18.412)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_35" data-name="타원 35" cx="5.271" cy="9.396" rx="5.271" ry="9.396" transform="translate(341.205 255.832) rotate(-18.412)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_36" data-name="타원 36" cx="4.7" cy="8.378" rx="4.7" ry="8.378" transform="translate(334.784 267.034) rotate(-24.724)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_37" data-name="타원 37" cx="4.819" cy="8.59" rx="4.819" ry="8.59" transform="translate(330.397 276.616) rotate(-30)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_38" data-name="타원 38" cx="5.271" cy="9.396" rx="5.271" ry="9.396" transform="matrix(0.924, -0.382, 0.382, 0.924, 325.911, 282.853)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_39" data-name="타원 39" cx="5.271" cy="9.396" rx="5.271" ry="9.396" transform="translate(322.529 293.533) rotate(-15.698)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_40" data-name="타원 40" cx="5.271" cy="9.396" rx="5.271" ry="9.396" transform="translate(316.891 302.362) rotate(-18.412)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_41" data-name="타원 41" cx="4.801" cy="8.558" rx="4.801" ry="8.558" transform="matrix(0.924, -0.382, 0.382, 0.924, 313.037, 311.046)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <path id="패스_29267" data-name="패스 29267" d="M996.2,402.643l-202.973,2.115L725.567,258.871l-13.743-29.6,2.115-21.142-17.971-14.8c35.943-15.858,46.514-15.858,114.171-62.372,39.115-25.372,58.143-41.581,86.686-63.428,28.9,21.847,54.972,44.4,86.686,65.543,42.45,28.3,75.058,43.344,109.943,57.087l-14.8,14.8-4.228,26.428-12.686,30.657Z" transform="translate(-683.596 -67.164)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <path id="패스_29268" data-name="패스 29268" d="M990.722,126.029" transform="translate(-689.398 -68.316)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <g id="그룹_3247" data-name="그룹 3247" transform="translate(10.573)">
+          <g id="그룹_3244" data-name="그룹 3244" transform="translate(16.455 22.119)">
+            <path id="패스_29269" data-name="패스 29269" d="M1080.735,210.254a1.879,1.879,0,0,1-.726-.146C1010.527,181.041,907.476,103.2,896.04,94.019c-11.2,8.892-113.663,85.171-182.435,117.536a1.883,1.883,0,1,1-1.6-3.408C784.827,173.871,893.922,90.894,894.865,90.136a1.886,1.886,0,0,1,2.371.007c.983.8,110.861,85.8,184.227,116.488a1.885,1.885,0,0,1-.729,3.623Z" transform="translate(-710.918 -89.72)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+          </g>
+          <g id="그룹_3245" data-name="그룹 3245" transform="translate(9.181 11.745)">
+            <path id="패스_29270" data-name="패스 29270" d="M705.382,202.9a1.886,1.886,0,0,1-.643-3.658c74.182-26.9,188.83-118.767,189.98-119.693a1.888,1.888,0,0,1,2.39.023c1.041.87,105.119,87.384,187.935,118.481a1.883,1.883,0,1,1-1.324,3.526c-78.612-29.518-176-108.41-187.84-118.135-26.941,21.39-133.861,99.035-189.856,119.342A1.879,1.879,0,0,1,705.382,202.9Z" transform="translate(-703.498 -79.137)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+          </g>
+          <g id="그룹_3246" data-name="그룹 3246">
+            <path id="패스_29271" data-name="패스 29271" d="M1093.208,193.419a1.824,1.824,0,0,1-.617-.1c-87.12-30.319-184.3-111.588-196.872-121.834C882.561,82.273,775.8,171.944,696.51,193.353a1.883,1.883,0,1,1-.983-3.635c82.885-22.38,197.726-121.076,198.985-122.125a1.882,1.882,0,0,1,2.406,0c1.149.953,105.363,90.3,196.909,122.168a1.883,1.883,0,0,1-.619,3.661Z" transform="translate(-694.133 -67.157)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+          </g>
+        </g>
+        <ellipse id="타원_42" data-name="타원 42" cx="7.664" cy="6.079" rx="7.664" ry="6.079" transform="matrix(0.949, -0.315, 0.315, 0.949, 25.117, 129.46)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_43" data-name="타원 43" cx="7.664" cy="6.079" rx="7.664" ry="6.079" transform="translate(63.745 111.253) rotate(-30)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_44" data-name="타원 44" cx="7.664" cy="6.079" rx="7.664" ry="6.079" transform="translate(104.973 86.938) rotate(-30)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_45" data-name="타원 45" cx="7.014" cy="5.563" rx="7.014" ry="5.563" transform="translate(145.145 60.51) rotate(-30)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_46" data-name="타원 46" cx="7.014" cy="5.563" rx="7.014" ry="5.563" transform="translate(182.145 33.024) rotate(-30)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_47" data-name="타원 47" cx="6.079" cy="7.664" rx="6.079" ry="7.664" transform="matrix(0.315, -0.949, 0.949, 0.315, 380.847, 136.164)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_48" data-name="타원 48" cx="6.079" cy="7.664" rx="6.079" ry="7.664" transform="translate(341.246 114.117) rotate(-60)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_49" data-name="타원 49" cx="6.079" cy="7.664" rx="6.079" ry="7.664" transform="translate(300.017 89.802) rotate(-60)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_50" data-name="타원 50" cx="5.563" cy="7.014" rx="5.563" ry="7.014" transform="translate(261.487 63.131) rotate(-60)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <ellipse id="타원_51" data-name="타원 51" cx="5.563" cy="7.014" rx="5.563" ry="7.014" transform="translate(224.487 35.645) rotate(-60)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <g id="그룹_3248" data-name="그룹 3248" transform="translate(60.947 201.607)">
+          <rect id="사각형_2435" data-name="사각형 2435" width="72.377" height="8.986" transform="translate(0 33.057) rotate(-27.177)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3249" data-name="그룹 3249" transform="translate(68.347 217.365)">
+          <rect id="사각형_2436" data-name="사각형 2436" width="72.606" height="8.986" transform="translate(0 33.162) rotate(-27.177)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3250" data-name="그룹 3250" transform="translate(75.748 232.35)">
+          <rect id="사각형_2437" data-name="사각형 2437" width="74.529" height="8.986" transform="translate(0 34.04) rotate(-27.177)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3251" data-name="그룹 3251" transform="translate(83.148 248.212)">
+          <rect id="사각형_2438" data-name="사각형 2438" width="74.529" height="8.986" transform="translate(0 34.04) rotate(-27.177)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3252" data-name="그룹 3252" transform="translate(90.548 264.075)">
+          <rect id="사각형_2439" data-name="사각형 2439" width="74.529" height="8.986" transform="translate(0 34.04) rotate(-27.177)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3253" data-name="그룹 3253" transform="translate(97.948 279.938)">
+          <rect id="사각형_2440" data-name="사각형 2440" width="74.529" height="8.986" transform="translate(0 34.04) rotate(-27.177)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3254" data-name="그룹 3254" transform="translate(289.82 200.624)">
+          <rect id="사각형_2441" data-name="사각형 2441" width="74.529" height="8.986" transform="translate(66.301 42.034) rotate(-152.823)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3255" data-name="그룹 3255" transform="translate(282.42 216.487)">
+          <rect id="사각형_2442" data-name="사각형 2442" width="74.529" height="8.986" transform="translate(66.301 42.034) rotate(-152.823)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3256" data-name="그룹 3256" transform="translate(275.02 232.35)">
+          <rect id="사각형_2443" data-name="사각형 2443" width="74.529" height="8.986" transform="translate(66.301 42.034) rotate(-152.823)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3257" data-name="그룹 3257" transform="translate(53.547 184.761)">
+          <path id="패스_29272" data-name="패스 29272" d="M803.566,264.687,742.074,297.6l-4.1-7.994,66.3-34.04Z" transform="translate(-737.97 -255.563)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3258" data-name="그룹 3258" transform="translate(267.62 248.212)">
+          <rect id="사각형_2444" data-name="사각형 2444" width="74.529" height="8.986" transform="translate(66.301 42.034) rotate(-152.823)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3259" data-name="그룹 3259" transform="translate(260.22 264.075)">
+          <rect id="사각형_2445" data-name="사각형 2445" width="74.529" height="8.986" transform="translate(66.301 42.034) rotate(-152.823)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3260" data-name="그룹 3260" transform="translate(252.82 279.938)">
+          <rect id="사각형_2446" data-name="사각형 2446" width="74.529" height="8.986" transform="translate(66.301 42.034) rotate(-152.823)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3261" data-name="그룹 3261" transform="translate(108.695 198.475)">
+          <rect id="사각형_2447" data-name="사각형 2447" width="46.577" height="17.876" transform="translate(15.902 0) rotate(62.824)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3262" data-name="그룹 3262" transform="translate(273.188 198.475)">
+          <rect id="사각형_2448" data-name="사각형 2448" width="46.577" height="17.876" transform="translate(37.175 8.164) rotate(117.176)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3263" data-name="그룹 3263" transform="translate(166.016 206.861)">
+          <rect id="사각형_2449" data-name="사각형 2449" width="12.856" height="30.902" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3264" data-name="그룹 3264" transform="translate(245.302 206.861)">
+          <rect id="사각형_2450" data-name="사각형 2450" width="12.856" height="30.902" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="box-33" data-name="box" transform="translate(55.116 432)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="312" height="200" stroke="none"/>
+          <rect x="0.25" y="0.25" width="311.5" height="199.5" fill="none"/>
+        </g>
+        <g id="그룹_3267" data-name="그룹 3267" transform="translate(301.324 184.761)">
+          <path id="패스_29273" data-name="패스 29273" d="M991.428,264.687l61.492,32.91,4.1-7.994-66.3-34.04Z" transform="translate(-990.722 -255.563)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="사각형_2453" data-name="사각형 2453" transform="translate(153.117 471)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="108" height="8" stroke="none"/>
+          <rect x="0.25" y="0.25" width="107.5" height="7.5" fill="none"/>
+        </g>
+        <g id="사각형_2454" data-name="사각형 2454" transform="translate(148.117 446.999)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="118" height="8" stroke="none"/>
+          <rect x="0.25" y="0.25" width="117.5" height="7.5" fill="none"/>
+        </g>
+        <g id="그룹_3268" data-name="그룹 3268" transform="translate(96.414 181.775)">
+          <rect id="사각형_2455" data-name="사각형 2455" width="229.401" height="26.379" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="사각형_2456" data-name="사각형 2456" transform="translate(146.116 445.999)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="8" height="186" stroke="none"/>
+          <rect x="0.25" y="0.25" width="7.5" height="185.5" fill="none"/>
+        </g>
+        <g id="사각형_2651" data-name="사각형 2651" transform="translate(259.116 445.999)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="8" height="186" stroke="none"/>
+          <rect x="0.25" y="0.25" width="7.5" height="185.5" fill="none"/>
+        </g>
+        <g id="그룹_3270" data-name="그룹 3270" transform="translate(148.215 152.164)">
+          <rect id="사각형_2459" data-name="사각형 2459" width="125.801" height="16.865" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3271" data-name="그룹 3271" transform="translate(122.314 237.042)">
+          <g id="사각형_2460" data-name="사각형 2460" transform="translate(-0.198 -0.043)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5">
+            <rect width="172" height="97.999" stroke="none"/>
+            <rect x="0.25" y="0.25" width="171.5" height="97.499" fill="none"/>
+          </g>
+        </g>
+        <g id="그룹_3272" data-name="그룹 3272" transform="translate(46.147 168.899)">
+          <rect id="사각형_2461" data-name="사각형 2461" width="74.529" height="8.986" transform="translate(0 34.04) rotate(-27.177)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3273" data-name="그룹 3273" transform="translate(107.462 144.602)">
+          <rect id="사각형_2462" data-name="사각형 2462" width="60.584" height="8.986" transform="translate(0 27.671) rotate(-27.177)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3274" data-name="그룹 3274" transform="translate(161.451 99.055)">
+          <rect id="사각형_2463" data-name="사각형 2463" width="69.088" height="7.635" transform="translate(0 46.29) rotate(-42.068)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3275" data-name="그룹 3275" transform="translate(254.863 142.079)">
+          <rect id="사각형_2464" data-name="사각형 2464" width="59.16" height="8.986" transform="translate(52.629 35.014) rotate(-152.823)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3276" data-name="그룹 3276" transform="translate(206.49 99.055)">
+          <rect id="사각형_2465" data-name="사각형 2465" width="68.05" height="7.635" transform="translate(50.517 51.262) rotate(-137.932)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="box-34" data-name="box" transform="translate(293.116 208)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="16" height="126" stroke="none"/>
+          <rect x="0.25" y="0.25" width="15.5" height="125.5" fill="none"/>
+        </g>
+        <g id="box-35" data-name="box" transform="translate(110.116 208)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="16" height="126" stroke="none"/>
+          <rect x="0.25" y="0.25" width="15.5" height="125.5" fill="none"/>
+        </g>
+        <g id="그룹_3278" data-name="그룹 3278" transform="translate(105.439 152.646)">
+          <path id="패스_29274" data-name="패스 29274" d="M806.722,252.413l1.057,24.314h-9.514L790.9,251.785l10.533-28.972Z" transform="translate(-790.903 -222.813)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3279" data-name="그룹 3279" transform="translate(105.644 148.993)">
+          <rect id="사각형_2467" data-name="사각형 2467" width="10.857" height="32.722" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3280" data-name="그룹 3280" transform="translate(207.13 83.399)">
+          <rect id="사각형_2468" data-name="사각형 2468" width="10.857" height="18.979" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3281" data-name="그룹 3281" transform="translate(207.13 101.405)">
+          <rect id="사각형_2469" data-name="사각형 2469" width="10.857" height="31.665" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3282" data-name="그룹 3282" transform="translate(157.729 121.194)">
+          <path id="패스_29275" data-name="패스 29275" d="M855.639,212.066l.762,17.516h-6.854l-5.3-17.969,7.588-20.871Z" transform="translate(-844.243 -190.742)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3283" data-name="그룹 3283" transform="translate(157.876 118.563)">
+          <rect id="사각형_2470" data-name="사각형 2470" width="7.821" height="23.573" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3284" data-name="그룹 3284" transform="translate(304.62 168.899)">
+          <rect id="사각형_2471" data-name="사각형 2471" width="74.529" height="8.986" transform="translate(66.301 42.034) rotate(-152.823)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3285" data-name="그룹 3285" transform="translate(298.858 152.646)">
+          <path id="패스_29276" data-name="패스 29276" d="M989.264,252.413l-1.057,24.314h9.514l7.361-24.943L994.55,222.813Z" transform="translate(-988.207 -222.813)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3286" data-name="그룹 3286" transform="translate(304.672 148.993)">
+          <rect id="사각형_2472" data-name="사각형 2472" width="10.857" height="32.722" transform="translate(10.857 32.722) rotate(-180)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3287" data-name="그룹 3287" transform="translate(251.287 121.194)">
+          <path id="패스_29277" data-name="패스 29277" d="M940.441,212.066l-.762,17.516h6.854l5.3-17.969-7.588-20.871Z" transform="translate(-939.68 -190.742)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3288" data-name="그룹 3288" transform="translate(255.475 118.563)">
+          <rect id="사각형_2473" data-name="사각형 2473" width="7.821" height="23.573" transform="translate(7.821 23.573) rotate(-180)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <path id="패스_29278" data-name="패스 29278" d="M896.513,150.738l-167.692,113.1-21.858-32.671,189.55-126.334Z" transform="translate(-683.812 -67.898)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <path id="패스_29279" data-name="패스 29279" d="M900.319,150.738l167.692,113.1,21.858-32.671L900.319,104.833Z" transform="translate(-687.618 -67.898)" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        <g id="box-36" data-name="box" transform="translate(275.116 261)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="4" height="74" stroke="none"/>
+          <rect x="0.25" y="0.25" width="3.5" height="73.5" fill="none"/>
+        </g>
+        <g id="box-37" data-name="box" transform="translate(137.116 261)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="4" height="74" stroke="none"/>
+          <rect x="0.25" y="0.25" width="3.5" height="73.5" fill="none"/>
+        </g>
+        <g id="box-38" data-name="box" transform="translate(196.116 261)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="5" height="74" stroke="none"/>
+          <rect x="0.25" y="0.25" width="4.5" height="73.5" fill="none"/>
+        </g>
+        <g id="box-39" data-name="box" transform="translate(215.116 261)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="5" height="74" stroke="none"/>
+          <rect x="0.25" y="0.25" width="4.5" height="73.5" fill="none"/>
+        </g>
+        <g id="그룹_3293" data-name="그룹 3293" transform="translate(135.116 237)">
+          <g id="사각형_2478" data-name="사각형 2478" fill="#fff" stroke="#1f1f1f" stroke-width="0.5">
+            <rect width="146" height="26" stroke="none"/>
+            <rect x="0.25" y="0.25" width="145.5" height="25.5" fill="none"/>
+          </g>
+        </g>
+        <g id="box-40" data-name="box" transform="translate(55.116 432)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="312" height="16" stroke="none"/>
+          <rect x="0.25" y="0.25" width="311.5" height="15.5" fill="none"/>
+        </g>
+        <g id="그룹_3294" data-name="그룹 3294" transform="translate(30.701 305.21)">
+          <rect id="사각형_2479" data-name="사각형 2479" width="10.742" height="36.188" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3296" data-name="그룹 3296" transform="translate(176.588 305.21)">
+          <rect id="사각형_2481" data-name="사각형 2481" width="10.742" height="36.188" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3297" data-name="그룹 3297" transform="translate(249.531 305.21)">
+          <rect id="사각형_2482" data-name="사각형 2482" width="10.742" height="36.188" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="그룹_3299" data-name="그룹 3299" transform="translate(381.674 305.21)">
+          <rect id="사각형_2484" data-name="사각형 2484" width="10.742" height="36.188" fill="#fff" stroke="#1f1f1f" stroke-width="0.6"/>
+        </g>
+        <g id="사각형_2485" data-name="사각형 2485" transform="translate(99.116 431)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="24" height="80" stroke="none"/>
+          <rect x="0.25" y="0.25" width="23.5" height="79.5" fill="none"/>
+        </g>
+        <g id="box-41" data-name="box" transform="translate(266.116 516.001)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="108" height="116" stroke="none"/>
+          <rect x="0.25" y="0.25" width="107.5" height="115.5" fill="none"/>
+        </g>
+        <g id="line-53" data-name="line" transform="translate(266.116 519.25)" clip-path="url(#clip-path-2)">
+          <g transform="translate(-49.116 -518.25)">
+            <line id="line-54" data-name="line" x2="108" transform="translate(49.116 518.5)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-49.116 -515.25)">
+            <line id="line-55" data-name="line" x2="108" transform="translate(49.116 518.5)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-49.116 -512.25)">
+            <line id="line-56" data-name="line" x2="108" transform="translate(49.116 518.5)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-49.116 -509.25)">
+            <line id="line-57" data-name="line" x2="108" transform="translate(49.116 518.5)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-49.116 -506.25)">
+            <line id="line-58" data-name="line" x2="108" transform="translate(49.116 518.5)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-49.116 -503.25)">
+            <line id="line-59" data-name="line" x2="108" transform="translate(49.116 518.5)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-49.116 -500.25)">
+            <line id="line-60" data-name="line" x2="108" transform="translate(49.116 518.5)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-49.116 -497.25)">
+            <line id="line-61" data-name="line" x2="108" transform="translate(49.116 518.5)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-49.116 -494.25)">
+            <line id="line-62" data-name="line" x2="108" transform="translate(49.116 518.5)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-49.116 -491.25)">
+            <line id="line-63" data-name="line" x2="108" transform="translate(49.116 518.5)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-49.116 -488.25)">
+            <line id="line-64" data-name="line" x2="108" transform="translate(49.116 518.5)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-49.116 -485.25)">
+            <line id="line-65" data-name="line" x2="108" transform="translate(49.116 518.5)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+        </g>
+        <g id="box-42" data-name="box" transform="translate(49.116 516.001)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="98" height="116" stroke="none"/>
+          <rect x="0.25" y="0.25" width="97.5" height="115.5" fill="none"/>
+        </g>
+        <g id="line-66" data-name="line" transform="translate(49.116 519.25)" clip-path="url(#clip-path-3)">
+          <g transform="translate(-49.116 -518.25)">
+            <line id="line-67" data-name="line" x2="98" transform="translate(49.116 518.5)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-49.116 -515.25)">
+            <line id="line-68" data-name="line" x2="98" transform="translate(49.116 518.5)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-49.116 -512.25)">
+            <line id="line-69" data-name="line" x2="98" transform="translate(49.116 518.5)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-49.116 -509.25)">
+            <line id="line-70" data-name="line" x2="98" transform="translate(49.116 518.5)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-49.116 -506.25)">
+            <line id="line-71" data-name="line" x2="98" transform="translate(49.116 518.5)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-49.116 -503.25)">
+            <line id="line-72" data-name="line" x2="98" transform="translate(49.116 518.5)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-49.116 -500.25)">
+            <line id="line-73" data-name="line" x2="98" transform="translate(49.116 518.5)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-49.116 -497.25)">
+            <line id="line-74" data-name="line" x2="98" transform="translate(49.116 518.5)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-49.116 -494.25)">
+            <line id="line-75" data-name="line" x2="98" transform="translate(49.116 518.5)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-49.116 -491.25)">
+            <line id="line-76" data-name="line" x2="98" transform="translate(49.116 518.5)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-49.116 -488.25)">
+            <line id="line-77" data-name="line" x2="98" transform="translate(49.116 518.5)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-49.116 -485.25)">
+            <line id="line-78" data-name="line" x2="98" transform="translate(49.116 518.5)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+        </g>
+        <g id="path" transform="translate(-684.65 -79.441)" fill="#fff">
+          <path d="M 815.5109252929688 717.1921997070312 L 776.0221557617188 717.1921997070312 L 779.1689453125 575.6921997070312 L 812.3641357421875 575.6921997070312 L 815.5109252929688 717.1921997070312 Z" stroke="none"/>
+          <path d="M 815.2553100585938 716.9421997070312 L 812.11962890625 575.9421997070312 L 779.4134521484375 575.9421997070312 L 776.2777709960938 716.9421997070312 L 815.2553100585938 716.9421997070312 M 815.7665405273438 717.4421997070312 L 775.7665405273438 717.4421997070312 L 778.9244384765625 575.4421997070312 L 812.608642578125 575.4421997070312 L 815.7665405273438 717.4421997070312 Z" stroke="none" fill="#1f1f1f"/>
+        </g>
+        <g id="사각형_2488" data-name="사각형 2488" transform="translate(313.116 511.001) rotate(-180)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="24" height="80" stroke="none"/>
+          <rect x="0.25" y="0.25" width="23.5" height="79.5" fill="none"/>
+        </g>
+        <g id="path-2" data-name="path" transform="translate(-493.65 -79.441)" fill="#fff">
+          <path d="M 815.5109252929688 717.1921997070312 L 776.0221557617188 717.1921997070312 L 779.1689453125 575.6921997070312 L 812.3641357421875 575.6921997070312 L 815.5109252929688 717.1921997070312 Z" stroke="none"/>
+          <path d="M 815.2553100585938 716.9421997070312 L 812.11962890625 575.9421997070312 L 779.4134521484375 575.9421997070312 L 776.2777709960938 716.9421997070312 L 815.2553100585938 716.9421997070312 M 815.7665405273438 717.4421997070312 L 775.7665405273438 717.4421997070312 L 778.9244384765625 575.4421997070312 L 812.608642578125 575.4421997070312 L 815.7665405273438 717.4421997070312 Z" stroke="none" fill="#1f1f1f"/>
+        </g>
+        <g id="box-43" data-name="box" transform="translate(12.116 388)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="398" height="44.5" stroke="none"/>
+          <rect x="0.25" y="0.25" width="397.5" height="44" fill="none"/>
+        </g>
+        <g id="box-44" data-name="box" transform="translate(8.116 370)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="406" height="22" stroke="none"/>
+          <rect x="0.25" y="0.25" width="405.5" height="21.5" fill="none"/>
+        </g>
+        <g id="box-45" data-name="box" transform="translate(-2.884 333)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="428" height="38" stroke="none"/>
+          <rect x="0.25" y="0.25" width="427.5" height="37.5" fill="none"/>
+        </g>
+        <g id="box-46" data-name="box" transform="translate(25.116 299)" fill="#fff" stroke="#1f1f1f" stroke-width="0.5">
+          <rect width="372" height="10" stroke="none"/>
+          <rect x="0.25" y="0.25" width="371.5" height="9.5" fill="none"/>
+        </g>
+        <g id="line-79" data-name="line" transform="translate(161.366 455)" clip-path="url(#clip-path-4)">
+          <g transform="translate(-164.366 -455)">
+            <line id="line-80" data-name="line" y2="16" transform="translate(164.616 455)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-155.366 -455)">
+            <line id="line-81" data-name="line" y2="16" transform="translate(164.616 455)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-146.366 -455)">
+            <line id="line-82" data-name="line" y2="16" transform="translate(164.616 455)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-137.366 -455)">
+            <line id="line-83" data-name="line" y2="16" transform="translate(164.616 455)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-128.366 -455)">
+            <line id="line-84" data-name="line" y2="16" transform="translate(164.616 455)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-119.366 -455)">
+            <line id="line-85" data-name="line" y2="16" transform="translate(164.616 455)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-110.366 -455)">
+            <line id="line-86" data-name="line" y2="16" transform="translate(164.616 455)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-101.366 -455)">
+            <line id="line-87" data-name="line" y2="16" transform="translate(164.616 455)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-92.366 -455)">
+            <line id="line-88" data-name="line" y2="16" transform="translate(164.616 455)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-83.366 -455)">
+            <line id="line-89" data-name="line" y2="16" transform="translate(164.616 455)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+          <g transform="translate(-74.366 -455)">
+            <line id="line-90" data-name="line" y2="16" transform="translate(164.616 455)" fill="none" stroke="#1f1f1f" stroke-width="0.5"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="ico_60_learn05" data-name="ico/60/learn05" transform="translate(-319 -3501)">
+    <rect id="base" width="60" height="60" transform="translate(319 3501)" fill="none"/>
+    <g id="icon">
+      <path id="path" d="M56.023,29.337c0,15.49-12.252,28.047-27.366,28.047S1.292,44.827,1.292,29.337,13.544,1.292,28.656,1.292,56.023,13.847,56.023,29.337Z" transform="translate(320.662 3501.662)" fill="none" stroke="#1f1f1f" stroke-width="1.6"/>
+      <path id="path-2" data-name="path" d="M47.189,29.337c0,15.49-6.125,28.047-13.682,28.047S19.823,44.827,19.823,29.337,25.95,1.292,33.506,1.292,47.189,13.847,47.189,29.337Z" transform="translate(315.813 3501.662)" fill="none" stroke="#1f1f1f" stroke-width="1.6"/>
+      <path id="path-3" data-name="path" d="M51.523,13.956c-5.011,2.866-12.292,4.673-20.4,4.673s-15.39-1.807-20.4-4.677" transform="translate(318.193 3498.349)" fill="none" stroke="#1f1f1f" stroke-width="1.6"/>
+      <path id="path-4" data-name="path" d="M10.73,62.945c5.011-2.866,12.292-4.673,20.4-4.673s15.4,1.808,20.409,4.679" transform="translate(318.192 3486.751)" fill="none" stroke="#1f1f1f" stroke-width="1.6"/>
+      <line id="line" x2="54.731" transform="translate(321.953 3530.999)" fill="none" stroke="#1f1f1f" stroke-width="1.6"/>
+      <line id="line-2" data-name="line" y2="56.091" transform="translate(349.318 3502.954)" fill="none" stroke="#1f1f1f" stroke-width="1.6"/>
+      <path id="oval" d="M22.682,37.669a4.429,4.429,0,1,1-4.428-4.537A4.485,4.485,0,0,1,22.682,37.669Z" transform="translate(317.382 3493.33)" fill="#fff" stroke="#1f1f1f" stroke-width="1.6"/>
+      <path id="oval-2" data-name="oval" d="M56.721,58.4a4.429,4.429,0,1,1-4.427-4.537A4.484,4.484,0,0,1,56.721,58.4Z" transform="translate(308.475 3487.905)" fill="#fff" stroke="#1f1f1f" stroke-width="1.6"/>
+      <path id="oval-3" data-name="oval" d="M41.217,18.678a4.429,4.429,0,1,1-4.428-4.537A4.483,4.483,0,0,1,41.217,18.678Z" transform="translate(312.531 3498.299)" fill="#501d83" stroke="#501d83" stroke-width="1.6"/>
+    </g>
+  </g>
+</svg>

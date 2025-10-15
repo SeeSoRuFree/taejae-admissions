@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="330.003" viewBox="0 0 200 330.003">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="mask" d="M-19744,20832.674l100-25v280.1l-100,24.9Zm-100,255.1v-280.1l100,25v280Zm0-280.1,100-25,100,25-100,25Z" transform="translate(19844 -20786.006)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00cfbe"/>
+      <stop offset="1" stop-color="#00a597"/>
+    </linearGradient>
+  </defs>
+  <g id="t_center_fill" transform="translate(-100 -15.998)">
+    <g id="t_center_fill-2" data-name="t_center_fill" transform="translate(100 19.334)" clip-path="url(#clip-path)">
+      <g id="fill" transform="translate(0 349.998)">
+        <path id="top" d="M521.8,355.784l-100,25-100-25,100-25Z" transform="translate(-321.801 -684.117)" fill="#7fd2cb"/>
+        <path id="left" d="M321.8,264.921l100,25v280l-100-24.9Z" transform="translate(-321.801 -593.254)" fill="url(#linear-gradient)"/>
+        <path id="right" d="M421.8,264.921l-100,25v280l100-24.9Z" transform="translate(-221.801 -593.254)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="t_center" transform="translate(100 19.334)">
+      <path id="top-2" data-name="top" d="M521.8,355.784l-100,25-100-25,100-25Z" transform="translate(-321.801 -334.117)" fill="#1f1f1f" opacity="0.05"/>
+      <path id="left-2" data-name="left" d="M321.8,614.921l100,25v280l-100-24.9Z" transform="translate(-321.801 -593.254)" fill="#1f1f1f" opacity="0.1"/>
+      <path id="right-2" data-name="right" d="M421.8,614.921l-100,25v280l100-24.9Z" transform="translate(-221.801 -593.254)" fill="#1f1f1f" opacity="0.15"/>
+    </g>
+  </g>
+</svg>

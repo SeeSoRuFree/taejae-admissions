@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="ico_24_checked" transform="translate(-18 -374)">
+    <rect id="base" width="24" height="24" rx="12" transform="translate(18 374)" fill="none"/>
+    <g id="icon" transform="translate(-1022.5 -2817.031)">
+      <rect id="oval" width="22" height="22" rx="11" transform="translate(1041.5 3192.031)" fill="#522c81" stroke="#522c81" stroke-width="1"/>
+      <path id="path" d="M8,66l3,3,5-5" transform="translate(1040.5 3137.031)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="390" height="496" viewBox="0 0 390 496">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f0f0f0" stop-opacity="0"/>
+      <stop offset="1" stop-color="#f0f0f0"/>
+    </linearGradient>
+  </defs>
+  <g id="img_global_bg" data-name="img/global/bg" transform="translate(0 -255)">
+    <rect id="base" width="390" height="496" transform="translate(0 255)" fill="url(#linear-gradient)"/>
+    <g id="global" transform="translate(-762 -1217)">
+      <text id="Global-2" data-name="Global" transform="translate(957 1923)" fill="#501d83" font-size="106" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-174" y="0">Global</tspan></text>
+      <text id="Rotation_Itinerary" data-name="Rotation Itinerary" transform="translate(966 1828)" fill="#501d83" font-size="16" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Rotation Itinerary</tspan></text>
+    </g>
+  </g>
+</svg>

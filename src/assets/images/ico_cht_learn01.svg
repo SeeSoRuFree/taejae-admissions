@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="ico_60_learn01" data-name="ico/60/learn01" transform="translate(0 9)">
+    <rect id="base" width="60" height="60" transform="translate(0 -9)" fill="none"/>
+    <g id="icon" transform="translate(2 -2.339)">
+      <rect id="base-2" data-name="base" width="56" height="46" rx="4.535" transform="translate(0 0.339)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+      <line id="line" x1="40" transform="translate(8 38.339)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+      <line id="line-2" data-name="line" x2="56" transform="translate(0 9.339)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+      <line id="line-3" data-name="line" y2="6" transform="translate(40 35.339)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+      <path id="path" d="M37.185,23.857l-12,7v-14Z" transform="translate(-2.185 -0.518)" fill="#501d83"/>
+      <circle id="oval" cx="1.5" cy="1.5" r="1.5" transform="translate(13 3.339)" fill="#1f1f1f"/>
+      <circle id="oval-2" data-name="oval" cx="1.5" cy="1.5" r="1.5" transform="translate(6 3.339)" fill="#1f1f1f"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg id="icon_flag_tokyo" data-name="icon/flag/tokyo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="mask" width="40" height="40" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="mask-2" data-name="mask" clip-path="url(#clip-path)">
+    <g id="oval" fill="#fff" stroke="#dbdbdb" stroke-width="1">
+      <circle cx="20" cy="20" r="20" stroke="none"/>
+      <circle cx="20" cy="20" r="19.5" fill="none"/>
+    </g>
+    <path id="path" d="M37.615,25.542a12,12,0,1,1-12-12,12,12,0,0,1,12,12" transform="translate(-5.616 -5.542)" fill="#9e0b22"/>
+  </g>
+</svg>

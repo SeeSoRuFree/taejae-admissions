@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="170" viewBox="0 0 200 170">
+  <g id="t_right" transform="translate(-200 128.999)">
+    <g id="t_right-2" data-name="t_right" transform="translate(200 -95.666)">
+      <path id="top" d="M521.8,355.784l-100,25-100-25,100-25Z" transform="translate(-321.801 -364.117)" fill="#1f1f1f" opacity="0.05"/>
+      <path id="left" d="M321.8,584.921l100,25v120l-100-24.9Z" transform="translate(-321.801 -593.254)" fill="#1f1f1f" opacity="0.1"/>
+      <path id="right" d="M421.8,584.921l-100,25v120l100-24.9Z" transform="translate(-221.801 -593.254)" fill="#1f1f1f" opacity="0.15"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="icon_64_play" transform="translate(-537 -473)">
+    <path id="oval" d="M568.667,536.667a32,32,0,1,0-32-32A32,32,0,0,0,568.667,536.667Z" transform="translate(0.333 0.333)" fill="#fff"/>
+    <path id="path" d="M547.333,480.667l16.805,11.2-16.805,11.2Z" transform="translate(16.846 12.203)" fill="#512b81" stroke="#512b81" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</svg>

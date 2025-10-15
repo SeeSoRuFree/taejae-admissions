@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="icon_40_arrow_down" data-name="icon/40/arrow_down" transform="translate(40) rotate(90)">
+    <rect id="base" width="40" height="40" fill="none"/>
+    <g id="icon" transform="translate(1 7)">
+      <path id="arrow-right-large" d="M2,13H36m0,0S23,12.992,23,0M36,13s-13-.164-13,13" transform="translate(0 0)" fill="none" stroke="#512b81" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

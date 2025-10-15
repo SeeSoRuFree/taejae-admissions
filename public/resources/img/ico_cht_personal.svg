@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="icon_100_personal" data-name="icon/100/personal" transform="translate(9 1)">
+    <rect id="base" width="100" height="100" transform="translate(-9 -1)" fill="none"/>
+    <g id="icon" transform="translate(-8)">
+      <circle id="point" cx="8.485" cy="8.485" r="8.485" transform="translate(40.441 1.184)" fill="#501d83"/>
+      <line id="white" x2="15.478" transform="translate(41.288 96.816)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="선_1194" data-name="선 1194" x2="40.104" transform="translate(1.184 96.816)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="선_1195" data-name="선 1195" x2="40.051" transform="translate(56.766 96.816)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="패스_31097" data-name="패스 31097" d="M46.877,88.648l2.493-33.69h0a8.236,8.236,0,0,0,8.236-8.236V23.88a6.85,6.85,0,0,0-6.849-6.851H27.466a6.851,6.851,0,0,0-6.851,6.851V46.72a8.236,8.236,0,0,0,8.236,8.236h.055L31.4,88.648" transform="translate(9.889 8.169)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

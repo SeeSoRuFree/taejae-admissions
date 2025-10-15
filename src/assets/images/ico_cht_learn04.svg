@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="ico_60_learn04" data-name="ico/60/learn04" transform="translate(0 0)">
+    <rect id="base" width="60" height="60" transform="translate(0 0)" fill="none"/>
+    <g id="icon" transform="translate(-0.411 -1.144)">
+      <line id="line" x1="4" y2="3.999" transform="translate(46.411 11.144)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+      <line id="line-2" data-name="line" y2="6" transform="translate(30.411 2.144)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+      <line id="line-3" data-name="line" x2="4" y2="4" transform="translate(10.411 11.144)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+      <line id="line-4" data-name="line" x1="12" transform="translate(24.411 57.144)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+      <line id="line-5" data-name="line" x1="6" transform="translate(27.411 60.144)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+      <path id="path" d="M27.988,60.24V56.173c0-8.5-9.754-10.7-9.754-21.479,0-9.088,7.61-16.455,17-16.455a16.732,16.732,0,0,1,17,16.455c0,10.776-9.754,12.981-9.754,21.479V60.24Z" transform="translate(-4.823 -6.097)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+      <path id="point" d="M37.191,30.412a4.008,4.008,0,0,0-7.96-.56,3.852,3.852,0,0,0,1.613,3.714,1.518,1.518,0,0,1,.511,1.742L29.813,40.5h6.749l-1.541-5.189a1.518,1.518,0,0,1,.508-1.742A3.857,3.857,0,0,0,37.191,30.412Z" transform="translate(-2.779 -4.358)" fill="#501d83"/>
+    </g>
+  </g>
+</svg>

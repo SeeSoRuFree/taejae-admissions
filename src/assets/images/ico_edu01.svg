@@ -1,0 +1,16 @@
+<svg id="ico_100_edu01" data-name="ico/100/edu01" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <rect id="base" width="100" height="100" fill="none"/>
+  <g id="icon" transform="translate(6 4)">
+    <line id="line" x1="6.639" y1="0.007" transform="translate(11.093 39.279)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="line-2" data-name="line" x1="6.49" y2="0.008" transform="translate(60.792 39.301)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="line-3" data-name="line" x1="0.007" y2="6.49" transform="translate(39.191 11.196)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="line-4" data-name="line" x1="4.631" y2="4.624" transform="translate(19.339 54.58)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="line-5" data-name="line" x1="4.708" y2="4.717" transform="translate(54.483 19.353)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="line-6" data-name="line" x2="4.63" y2="4.623" transform="translate(54.563 54.581)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="line-7" data-name="line" x2="4.71" y2="4.715" transform="translate(19.343 19.353)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="line-8" data-name="line" x1="11.634" transform="translate(33.45 64.482)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="line-9" data-name="line" x1="5.961" transform="translate(36.285 70.104)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="path" d="M13.765,90.239V72.213A12.609,12.609,0,0,0,10.475,63.9,37.878,37.878,0,1,1,76.783,38.891c0,.8-.029,1.585-.08,2.367a6.443,6.443,0,0,0,.62,3.286l8.66,17.529a2.99,2.99,0,0,1-2.039,4.244l-5.417,1.192a3.08,3.08,0,0,0-2.405,2.709L74.873,82.941a8.087,8.087,0,0,1-8.048,7.3H50.648A11.757,11.757,0,0,1,38.891,78.483v-1.7" transform="translate(0.381 0.381)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="point" d="M26.282,52.02V51c0-7.4-8.222-9.322-8.222-18.708a14.33,14.33,0,1,1,28.659,0C46.719,41.682,38.5,43.6,38.5,51V52.02Z" transform="translate(6.876 6.84)" fill="#00a597"/>
+  </g>
+</svg>

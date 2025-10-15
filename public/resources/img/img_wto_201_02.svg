@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1390.509" height="486.515" viewBox="0 0 1390.509 486.515">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_206" data-name="사각형 206" width="34.5" height="22.964" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="사각형_206-4" data-name="사각형 206" width="34.5" height="22.964" fill="#00a497" stroke="#00a497" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="img" transform="translate(1.755 -606.982)">
+    <g id="img-2" data-name="img" transform="translate(-299 607.563)">
+      <g id="_03" data-name="03" transform="translate(1617.083 1)">
+        <g id="img-3" data-name="img" transform="translate(-399.083)">
+          <path id="패스_820" data-name="패스 820" d="M480.857,0V44.217l22.017,34.391L480.857,113V425H900.545V109.542l20.313-30.934L900.545,47.675V0Z" transform="translate(-480.857 -0.001)" fill="#0087dc"/>
+          <g id="arrow" transform="translate(388.667 65.109)">
+            <path id="패스_821" data-name="패스 821" d="M26,0V22.964l8.5-11.482Z" transform="translate(0 0)" fill="#fff"/>
+            <g id="그룹_166" data-name="그룹 166" transform="translate(0 0)">
+              <g id="그룹_165" data-name="그룹 165" clip-path="url(#clip-path)">
+                <line id="선_24" data-name="선 24" x1="29" transform="translate(0 11.482)" fill="none" stroke="#fff" stroke-width="3"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <text id="Post-class" transform="translate(-254.083 96.42)" fill="#fff" font-size="28" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Post-class</tspan></text>
+      </g>
+      <g id="_02" data-name="02" transform="translate(-5)">
+        <g id="img-4" data-name="img" transform="translate(783)">
+          <path id="패스_819" data-name="패스 819" d="M240.429,0V44.217l22.017,34.391L240.429,113V425H660.116V109.542l20.313-30.934L660.116,47.675V0Z" transform="translate(-240.429 -0.001)" fill="#00a497"/>
+          <g id="arrow-2" data-name="arrow" transform="translate(380 66.109)">
+            <path id="패스_821-2" data-name="패스 821" d="M26,0V22.964l8.5-11.482Z" transform="translate(0 0)" fill="#fff"/>
+            <g id="그룹_166-2" data-name="그룹 166" transform="translate(0 0)">
+              <g id="그룹_165-2" data-name="그룹 165" clip-path="url(#clip-path)">
+                <line id="선_24-2" data-name="선 24" x1="29" transform="translate(0 11.482)" fill="none" stroke="#fff" stroke-width="3"/>
+              </g>
+            </g>
+          </g>
+          <rect id="사각형_208" data-name="사각형 208" width="112" height="40" rx="20" transform="translate(40 174.42)" fill="#fff"/>
+          <rect id="사각형_212" data-name="사각형 212" width="112" height="40" rx="20" transform="translate(40 317.42)" fill="#fff"/>
+          <rect id="사각형_209" data-name="사각형 209" width="112" height="40" rx="20" transform="translate(261 174.42)" fill="#fff"/>
+          <rect id="사각형_211" data-name="사각형 211" width="112" height="40" rx="20" transform="translate(261 317.109)" fill="#fff"/>
+          <text id="Instructor" transform="translate(58 199.42)" fill="#00a497" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Instructor</tspan></text>
+          <text id="TA" transform="translate(87 343.109)" fill="#00a497" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">TA</tspan></text>
+          <text id="Peer" transform="translate(300 199.42)" fill="#00a497" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Peer</tspan></text>
+          <text id="_Materiais" data-name=" Materiais" transform="translate(278 343.109)" fill="#00a497" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0" xml:space="preserve"> Materiais</tspan></text>
+          <g id="사각형_210" data-name="사각형 210" transform="translate(40 242.42)" fill="none" stroke="#fff" stroke-width="2">
+            <rect width="333" height="46" rx="23" stroke="none"/>
+            <rect x="1" y="1" width="331" height="44" rx="22" fill="none"/>
+          </g>
+          <text id="Student" transform="translate(175 271.42)" fill="#fff" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Student</tspan></text>
+          <g id="그룹_171" data-name="그룹 171" transform="translate(82.463 225.031)">
+            <path id="패스_823" data-name="패스 823" d="M6.825,12.142,4.909,14.025c-.072.072-.169.163-.275.258V1.694c.106.1.2.188.279.266L6.825,3.838a.664.664,0,1,0,.968-.91c-.012-.013-.025-.026-.038-.037L5.848,1.016C5.715.883,5.508.693,5.29.5A1.992,1.992,0,0,0,2.649.5c-.217.192-.423.38-.554.511L.183,2.888a.664.664,0,0,0,.93.947L3.03,1.953c.072-.072.169-.162.275-.258V14.283c-.107-.1-.205-.188-.279-.266L1.115,12.142a.664.664,0,0,0-.93.948l1.907,1.873c.133.133.341.324.558.516a1.986,1.986,0,0,0,1.317.5h.008a1.986,1.986,0,0,0,1.317-.5c.217-.192.422-.38.553-.511l1.912-1.878a.664.664,0,0,0-.93-.948Z" transform="translate(9.537 -5.911)" fill="#fff"/>
+            <path id="패스_824" data-name="패스 824" d="M6.825,12.142,4.909,14.025c-.072.072-.169.163-.275.258V1.694c.106.1.2.188.279.266L6.825,3.838a.664.664,0,1,0,.968-.91c-.012-.013-.025-.026-.038-.037L5.848,1.016C5.715.883,5.508.693,5.29.5A1.992,1.992,0,0,0,2.649.5c-.217.192-.423.38-.554.511L.183,2.888a.664.664,0,0,0,.93.947L3.03,1.953c.072-.072.169-.162.275-.258V14.283c-.107-.1-.205-.188-.279-.266L1.115,12.142a.664.664,0,0,0-.93.948l1.907,1.873c.133.133.341.324.558.516a1.986,1.986,0,0,0,1.317.5h.008a1.986,1.986,0,0,0,1.317-.5c.217-.192.422-.38.553-.511l1.912-1.878a.664.664,0,0,0-.93-.948Z" transform="translate(9.537 70.089)" fill="#fff"/>
+          </g>
+          <g id="그룹_172" data-name="그룹 172" transform="translate(303.462 225.031)">
+            <path id="패스_823-2" data-name="패스 823" d="M6.825,12.142,4.909,14.025c-.072.072-.169.163-.275.258V1.694c.106.1.2.188.279.266L6.825,3.838a.664.664,0,1,0,.968-.91c-.012-.013-.025-.026-.038-.037L5.848,1.016C5.715.883,5.508.693,5.29.5A1.992,1.992,0,0,0,2.649.5c-.217.192-.423.38-.554.511L.183,2.888a.664.664,0,0,0,.93.947L3.03,1.953c.072-.072.169-.162.275-.258V14.283c-.107-.1-.205-.188-.279-.266L1.115,12.142a.664.664,0,0,0-.93.948l1.907,1.873c.133.133.341.324.558.516a1.986,1.986,0,0,0,1.317.5h.008a1.986,1.986,0,0,0,1.317-.5c.217-.192.422-.38.553-.511l1.912-1.878a.664.664,0,0,0-.93-.948Z" transform="translate(9.537 -5.911)" fill="#fff"/>
+            <path id="패스_824-2" data-name="패스 824" d="M6.825,12.142,4.909,14.025c-.072.072-.169.163-.275.258V1.694c.106.1.2.188.279.266L6.825,3.838a.664.664,0,1,0,.968-.91c-.012-.013-.025-.026-.038-.037L5.848,1.016C5.715.883,5.508.693,5.29.5A1.992,1.992,0,0,0,2.649.5c-.217.192-.423.38-.554.511L.183,2.888a.664.664,0,0,0,.93.947L3.03,1.953c.072-.072.169-.162.275-.258V14.283c-.107-.1-.205-.188-.279-.266L1.115,12.142a.664.664,0,0,0-.93.948l1.907,1.873c.133.133.341.324.558.516a1.986,1.986,0,0,0,1.317.5h.008a1.986,1.986,0,0,0,1.317-.5c.217-.192.422-.38.553-.511l1.912-1.878a.664.664,0,0,0-.93-.948Z" transform="translate(9.537 70.089)" fill="#fff"/>
+          </g>
+        </g>
+        <text id="Active_Learning" data-name="Active Learning" transform="translate(823 148)" fill="#fff" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Active Learning</tspan></text>
+        <text id="In-class" transform="translate(934 97.42)" fill="#fff" font-size="28" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">In-class</tspan></text>
+      </g>
+      <g id="_01" data-name="01" transform="translate(0 0.109)">
+        <g id="img-5" data-name="img" transform="translate(338)">
+          <path id="패스_818" data-name="패스 818" d="M0,0V44.321L22.017,78.793,0,113.264V426H419.688V109.8L440,78.793,419.688,47.787V0Z" transform="translate(0 -0.69)" fill="#522c81"/>
+          <g id="arrow-3" data-name="arrow" transform="translate(390.425 67.397)">
+            <path id="패스_821-3" data-name="패스 821" d="M26,0V22.964l8.5-11.482Z" transform="translate(0 0)" fill="#fff"/>
+            <g id="그룹_166-3" data-name="그룹 166" transform="translate(0 0)">
+              <g id="그룹_165-3" data-name="그룹 165" clip-path="url(#clip-path)">
+                <line id="선_24-3" data-name="선 24" x1="29" transform="translate(0 11.482)" fill="none" stroke="#fff" stroke-width="3"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="그룹_168" data-name="그룹 168" transform="translate(378 161.311)">
+          <text id="Check_Syilabus_plan_Check_Course_learning_objectives_Read_and_complete_tasks_for_pre-reading_Think_about_big_questions" data-name="Check Syilabus plan
+Check Course learning objectives
+Read and complete tasks for pre-reading
+Think about big questions" transform="translate(8 17)" fill="#fff" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Check Syilabus plan</tspan><tspan x="0" y="24">Check Course learning objectives</tspan><tspan x="0" y="48">Read and complete tasks for pre-reading</tspan><tspan x="0" y="72">Think about big questions</tspan></text>
+          <g id="blank" transform="translate(0 -805)">
+            <g id="dot" transform="translate(0 887)">
+              <circle id="icon_4_blet" data-name="icon/4/blet" cx="2" cy="2" r="2" fill="#fff"/>
+            </g>
+            <g id="dot-2" data-name="dot" transform="translate(0 863)">
+              <circle id="icon_4_blet-2" data-name="icon/4/blet" cx="2" cy="2" r="2" fill="#fff"/>
+            </g>
+            <g id="dot-3" data-name="dot" transform="translate(0 839)">
+              <circle id="icon_4_blet-3" data-name="icon/4/blet" cx="2" cy="2" r="2" fill="#fff"/>
+            </g>
+            <g id="dot-4" data-name="dot" transform="translate(0 815)">
+              <circle id="icon_4_blet-4" data-name="icon/4/blet" cx="2" cy="2" r="2" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <text id="Pre-class" transform="translate(496 98.311)" fill="#fff" font-size="28" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Pre-class</tspan></text>
+      </g>
+    </g>
+    <text id="Feedback" transform="translate(646 1085)" fill="#00a497" font-size="18" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Feedback</tspan></text>
+    <path id="line_img" d="M1672.833,682.272H1690.4l-1.016,395H1060.4" transform="translate(-303.4 3.4)" fill="none" stroke="#00a497" stroke-width="3.5"/>
+    <g id="arrow-4" data-name="arrow" transform="translate(748.667 1069.018)">
+      <path id="패스_821-4" data-name="패스 821" d="M34.5,0V22.964L26,11.482Z" transform="translate(-26 0)" fill="#00a497" stroke="#00a497" stroke-width="1"/>
+      <g id="그룹_166-4" data-name="그룹 166" transform="translate(0 0)">
+        <g id="그룹_165-4" data-name="그룹 165" clip-path="url(#clip-path-4)">
+          <line id="선_24-4" data-name="선 24" x2="29" transform="translate(5.5 11.482)" fill="none" stroke="#00a497" stroke-width="3"/>
+        </g>
+      </g>
+    </g>
+    <text id="Reflection_Complete_tasks_for_assignments_and_post-readings_Review_Recorded_videos" data-name="Reflection
+Complete tasks for assignments and 
+post-readings
+Review Recorded videos" transform="translate(974 785)" fill="#fff" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Reflection</tspan><tspan x="0" y="24">Complete tasks for assignments and </tspan><tspan x="0" y="48">post-readings</tspan><tspan x="0" y="72">Review Recorded videos</tspan></text>
+    <g id="blank-2" data-name="blank" transform="translate(966 -37)">
+      <g id="dot-5" data-name="dot" transform="translate(0 887)">
+        <circle id="icon_4_blet-5" data-name="icon/4/blet" cx="2" cy="2" r="2" fill="#fff"/>
+      </g>
+      <g id="dot-6" data-name="dot" transform="translate(0 863)" opacity="0">
+        <circle id="icon_4_blet-6" data-name="icon/4/blet" cx="2" cy="2" r="2" fill="#fff"/>
+      </g>
+      <g id="dot-7" data-name="dot" transform="translate(0 839)">
+        <circle id="icon_4_blet-7" data-name="icon/4/blet" cx="2" cy="2" r="2" fill="#fff"/>
+      </g>
+      <g id="dot-8" data-name="dot" transform="translate(0 815)">
+        <circle id="icon_4_blet-8" data-name="icon/4/blet" cx="2" cy="2" r="2" fill="#fff"/>
+      </g>
+    </g>
+    <g id="arrow-5" data-name="arrow" transform="translate(0 674.189)">
+      <path id="패스_821-5" data-name="패스 821" d="M26,0V22.964l8.5-11.482Z" transform="translate(0 0)" fill="#00a497" stroke="#00a497" stroke-width="1"/>
+      <g id="그룹_166-5" data-name="그룹 166" transform="translate(0 0)">
+        <g id="그룹_165-5" data-name="그룹 165" clip-path="url(#clip-path-4)">
+          <line id="선_24-5" data-name="선 24" x1="29" transform="translate(0 11.482)" fill="none" stroke="#00a497" stroke-width="3.5"/>
+        </g>
+      </g>
+    </g>
+    <path id="line_img-2" data-name="line_img" d="M1077.968,682.272H1060.4l1.016,395H1690.4" transform="translate(-1060.4 3.4)" fill="none" stroke="#00a497" stroke-width="3.5"/>
+  </g>
+</svg>

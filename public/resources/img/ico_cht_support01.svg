@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="icon_100_support01" data-name="icon/100/support01" transform="translate(9 1)">
+    <rect id="base" width="100" height="100" transform="translate(-9 -1)" fill="none"/>
+    <g id="icon" transform="translate(-0.575)">
+      <line id="선_1184" data-name="선 1184" y2="17.729" transform="translate(77.657 16.907)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="패스_31072" data-name="패스 31072" d="M55.725,24.234a4.626,4.626,0,1,0,4.626,4.626" transform="translate(21.932 10.4)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="패스_31078" data-name="패스 31078" d="M23.3,45.994a5.505,5.505,0,0,1-3.121.966,5.61,5.61,0,0,1-5.535-4.908,47.038,47.038,0,0,1-.4-6.183h-.016c0-12.2,9.46-22.1,21.131-22.1s21.129,9.891,21.129,22.1a46.812,46.812,0,0,1-.4,6.184A5.58,5.58,0,0,1,44.966,41.3" transform="translate(6.106 5.911)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="face" d="M14.509,34.908a5.481,5.481,0,0,0,5.272,5.149,5.107,5.107,0,0,0,.828-.084c2.308,9.378,7.981,16.021,14.626,16.021s12.318-6.641,14.628-16.02a5.1,5.1,0,1,0,1.113-10.117" transform="translate(6.228 12.814)" fill="#fff"/>
+      <path id="패스_31080" data-name="패스 31080" d="M14.509,34.908a5.481,5.481,0,0,0,5.272,5.149,5.107,5.107,0,0,0,.828-.084c2.308,9.378,7.981,16.021,14.626,16.021s12.318-6.641,14.628-16.02a5.1,5.1,0,1,0,1.113-10.117" transform="translate(6.228 12.814)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="패스_31081" data-name="패스 31081" d="M47.42,32.857a23.452,23.452,0,0,1-6.038.782c-8.494,0-15.744-4.462-18.588-10.738" transform="translate(9.783 9.828)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="선_1185" data-name="선 1185" x1="3.367" y2="7.122" transform="translate(30.198 65.951)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="패스_31082" data-name="패스 31082" d="M29.77,51.13,8.064,54.782a8.579,8.579,0,0,0-7.046,8.862l.793,10.983" transform="translate(0.43 21.944)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="선_1186" data-name="선 1186" x1="11.635" y1="23.497" transform="translate(30.198 73.073)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="선_1187" data-name="선 1187" x2="3.367" y2="7.122" transform="translate(50.101 65.951)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="패스_31083" data-name="패스 31083" d="M37.411,51.13l21.705,3.652a8.579,8.579,0,0,1,7.046,8.862l.016,10.983" transform="translate(16.057 21.944)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="선_1188" data-name="선 1188" y1="23.497" x2="11.635" transform="translate(41.833 73.073)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="패스_31084" data-name="패스 31084" d="M23.17,23.3,4.052,16.477,39.984,1,75.919,16.477,56.8,23.3" transform="translate(1.739 0.429)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="point" d="M33.651,19a22.682,22.682,0,0,1,15.97,6.553V14.817A22.7,22.7,0,0,0,18.2,14.342V25.076A22.653,22.653,0,0,1,33.651,19Z" transform="translate(7.813 3.547)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+      <path id="point-2" data-name="point" d="M33.651,19a22.682,22.682,0,0,1,15.97,6.553V14.817A22.7,22.7,0,0,0,18.2,14.342V25.076A22.653,22.653,0,0,1,33.651,19Z" transform="translate(7.813 3.547)" fill="#501d83" stroke="#501d83" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200.002" height="430.001" viewBox="0 0 200.002 430.001">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="mask" d="M-19744,20832.67l100-25v380.1l-100,24.9Zm-100,355.1v-380.1l100,25v380Zm0-380.1,100-25,100,25-100,25Z" transform="translate(20199.25 -20888.955)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#835fa7"/>
+      <stop offset="1" stop-color="#501d83"/>
+    </linearGradient>
+  </defs>
+  <g id="j_center_fill" transform="translate(-355.25 106.285)">
+    <g id="j_center_fill-2" data-name="j_center_fill" clip-path="url(#clip-path)">
+      <g id="fill" transform="translate(355.25 239.049)">
+        <path id="top" d="M521.8,355.784l-100,25-100-25,100-25Z" transform="translate(-321.801 -676.117)" fill="#a78dc1"/>
+        <path id="left" d="M321.8,272.921l100,25v380l-100-24.9Z" transform="translate(-321.801 -593.254)" fill="url(#linear-gradient)"/>
+        <path id="right" d="M421.8,272.921l-100,25v380l100-24.9Z" transform="translate(-221.801 -593.254)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="j_center" transform="translate(355.25 -102.951)">
+      <path id="top-2" data-name="top" d="M521.8,355.784l-100,25-100-25,100-25Z" transform="translate(-321.801 -334.117)" fill="#1f1f1f" opacity="0.05"/>
+      <path id="left-2" data-name="left" d="M321.8,614.921l100,25v260l-100-24.9Z" transform="translate(-321.801 -593.254)" fill="#1f1f1f" opacity="0.1"/>
+      <path id="right-2" data-name="right" d="M421.8,614.921l-100,25v380l100-24.9Z" transform="translate(-221.801 -593.254)" fill="#1f1f1f" opacity="0.15"/>
+    </g>
+  </g>
+</svg>

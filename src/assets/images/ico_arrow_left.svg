@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="ico_40_arrow_month" transform="translate(-1642 -514)">
+    <rect id="base" width="40" height="40" transform="translate(1642 514)" fill="none"/>
+    <path id="path" d="M16,0A16,16,0,1,1,8.758,1.735" transform="translate(1646 518)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="arrow" d="M12.07-.5l-6,6-6-6" transform="translate(1663.5 527.93) rotate(90)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>

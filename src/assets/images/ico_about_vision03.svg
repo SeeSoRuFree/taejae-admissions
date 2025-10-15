@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60.183" viewBox="0 0 60 60.183">
+  <g id="icon_60_vision03" data-name="icon/60/vision03" transform="translate(5)">
+    <rect id="base" width="60" height="60" transform="translate(-5)" fill="none"/>
+    <g id="icon">
+      <path id="패스_30591" data-name="패스 30591" d="M41.147,15.04l15.17-4.054a.8.8,0,0,0,0-1.551L41.147,5.382" transform="translate(-8.379 -1.096)" fill="#00a597" stroke="#1f1f1f" stroke-linejoin="round" stroke-width="1.8"/>
+      <path id="패스_30597" data-name="패스 30597" d="M0,0V13.535" transform="translate(32.768 2.708)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-width="1.8"/>
+      <line id="선_1179" data-name="선 1179" y2="27.985" transform="translate(32.768 28.035)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/>
+      <line id="선_1180" data-name="선 1180" x2="7.601" transform="translate(0.796 59.204)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/>
+      <line id="선_1181" data-name="선 1181" x2="31.796" transform="translate(17.24 59.204)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/>
+      <path id="패스_30593" data-name="패스 30593" d="M15.057,17.835a4.061,4.061,0,1,1,4.061-4.061A4.066,4.066,0,0,1,15.057,17.835Z" transform="translate(-2.239 -1.978)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/>
+      <path id="패스_30596" data-name="패스 30596" d="M17.952,64.265,21.109,29.91H34.142a2.621,2.621,0,0,0,2.628-2.1,2.529,2.529,0,0,0-2.493-2.952H7.717A4.217,4.217,0,0,0,3.5,29.073V40.455a3.768,3.768,0,0,0,3.768,3.768L9.11,64.265" transform="translate(-0.713 -5.061)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8"/>
+    </g>
+  </g>
+</svg>

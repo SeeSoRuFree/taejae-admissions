@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="922" height="914" viewBox="0 0 922 914">
+  <g id="img_diagram_skc" data-name="img/diagram/skc" transform="translate(-499 -3194)">
+    <g id="line_polygon" data-name="line/polygon" transform="translate(584 4023) rotate(-90)" fill="none">
+      <path d="M558,0,744,376,558,752H186L0,376,186,0Z" stroke="none"/>
+      <path d="M 186.6210327148438 1 L 1.11566162109375 376 L 186.6209716796875 751 L 557.3790283203125 751 L 742.8843383789062 376 L 557.3790283203125 1 L 186.6210327148438 1 M 186.0001220703125 0 L 558 0 L 744 376 L 558 752 L 186 752 L 0 376 L 186.0001220703125 0 Z" stroke="none" fill="#dbdbdb"/>
+    </g>
+    <path id="line_dash" data-name="line/dash" d="M175.327,178H19" transform="translate(782 3456) rotate(-90)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1.5" stroke-dasharray="3 6"/>
+    <path id="line_dash-2" data-name="line/dash" d="M175.327,178H19" transform="translate(782 4041) rotate(-90)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1.5" stroke-dasharray="3 6"/>
+    <path id="line_dash-3" data-name="line/dash" d="M175.579,178H19" transform="translate(1036.036 3430.779) rotate(-30)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1.5" stroke-dasharray="3 6"/>
+    <path id="line_dash-4" data-name="line/dash" d="M156.579,0H0" transform="translate(778.092 3575.432) rotate(-150)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1.5" stroke-dasharray="3 6"/>
+    <path id="line_dash-5" data-name="line/dash" d="M156.579,0H0" transform="translate(1141.49 3727.142) rotate(30)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1.5" stroke-dasharray="3 6"/>
+    <path id="line_dash-6" data-name="line/dash" d="M156.579,0H0" transform="translate(778.092 3727.143) rotate(150)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1.5" stroke-dasharray="3 6"/>
+    <circle id="circle_501D83" data-name="circle/501D83" cx="85" cy="85" r="85" transform="translate(669 3748) rotate(90)" fill="#501d83"/>
+    <circle id="circle_501D83-2" data-name="circle/501D83" cx="85" cy="85" r="85" transform="translate(1045 3938) rotate(90)" fill="#501d83"/>
+    <circle id="circle_501D83-3" data-name="circle/501D83" cx="85" cy="85" r="85" transform="translate(1421 3748) rotate(90)" fill="#501d83"/>
+    <circle id="circle_00A597" data-name="circle/00A597" cx="85" cy="85" r="85" transform="translate(1421 3381) rotate(90)" fill="#00a597"/>
+    <circle id="circle_00A597-2" data-name="circle/00A597" cx="85" cy="85" r="85" transform="translate(1045 3194) rotate(90)" fill="#00a597"/>
+    <circle id="circle_00A597-3" data-name="circle/00A597" cx="85" cy="85" r="85" transform="translate(669 3381) rotate(90)" fill="#00a597"/>
+    <path id="img_loop_ilc" data-name="img/loop/ilc" d="M160.279,0H272C184.424,0,113.428,98.561,113.428,220.142s71,220.141,158.572,220.141H160.279C71.76,440.283,0,341.723,0,220.142S71.76,0,160.279,0" transform="translate(1180.283 3437) rotate(90)" fill="#00a597"/>
+    <path id="img_loop_slc" data-name="img/loop/slc" d="M-9622.816,3824.271a302.136,302.136,0,0,1-44.018-3.2,282.387,282.387,0,0,1-41.029-9.195,255.578,255.578,0,0,1-37.18-14.555,222.809,222.809,0,0,1-32.465-19.288,187.483,187.483,0,0,1-26.886-23.39,155.21,155.21,0,0,1-20.442-26.864,131.057,131.057,0,0,1-13.137-29.709,119.57,119.57,0,0,1-4.967-31.924,120.316,120.316,0,0,1,15.172-55.872c33.352,61.095,113.8,100.572,204.951,100.572,58.8,0,114.085-16.494,155.663-46.445s64.479-69.77,64.479-112.126v111.72a119.39,119.39,0,0,1-4.473,32.3,130.107,130.107,0,0,1-12.827,30.086,153.82,153.82,0,0,1-20.3,27.226,186.234,186.234,0,0,1-26.881,23.721,221.813,221.813,0,0,1-32.581,19.572,254.929,254.929,0,0,1-37.395,14.778,282.079,282.079,0,0,1-41.322,9.339A302.1,302.1,0,0,1-9622.816,3824.271Zm-220.141-268.4h0v-3.108c0,.533.01,1.082.02,1.631C-9842.948,3554.9-9842.954,3555.392-9842.957,3555.876Z" transform="translate(10582.958 40.729)" fill="#501d83" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+  </g>
+</svg>

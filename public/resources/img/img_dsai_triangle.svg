@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_2452" data-name="사각형 2452" width="120" height="120" fill="#fff" opacity="0.2"/>
+    </clipPath>
+  </defs>
+  <g id="img_dsai_triangle" data-name="img/dsai/triangle" clip-path="url(#clip-path)">
+    <path id="패스_9794" data-name="패스 9794" d="M0,0H119.827L0,119.827Z" fill="#0287dc"/>
+  </g>
+</svg>

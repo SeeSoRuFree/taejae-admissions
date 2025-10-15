@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1316" height="744" viewBox="0 0 1316 744">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.983" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#522c81"/>
+      <stop offset="1" stop-color="#00a497"/>
+    </linearGradient>
+  </defs>
+  <g id="diagram" transform="translate(-300 -4122)">
+    <g id="triangle" transform="translate(631 4105)">
+      <path id="패스_690" data-name="패스 690" d="M632.9,113s-44.007,76.723-68.568,113.429H66.069L13.5,113Z" transform="translate(16.5 359)" fill="#6d6e71"/>
+      <path id="패스_691" data-name="패스 691" d="M256.185,17H409.532L83.085,585,9,449.237Z" transform="translate(0 0)" fill="#522c81"/>
+      <path id="패스_692" data-name="패스 692" d="M63.5,17H214.558L454.877,471.571H315.263Z" transform="translate(194.123 0)" fill="#00a497"/>
+      <text id="Leadership_Career_Center" data-name="Leadership 
+&amp; Career
+Center" transform="translate(174.242 282.897)" fill="#fff" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-46" y="0">Leadership </tspan><tspan x="-35" y="24">&amp; Career</tspan><tspan x="-27" y="48">Center</tspan></text>
+      <text id="_Wellness_Center" data-name=" Wellness
+Center" transform="translate(418.865 151.953)" fill="#fff" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-38" y="0" xml:space="preserve"> Wellness</tspan><tspan x="-27" y="24">Center</tspan></text>
+      <text id="Student_Success_Institute" data-name="Student
+Success
+Institute" transform="translate(329 330.877)" fill="#1f1f1f" font-size="24" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-48" y="0">Student</tspan><tspan x="-50" y="26">Success</tspan><tspan x="-50" y="52">Institute</tspan></text>
+      <text id="Social_Value_Center" data-name="Social Value
+Center" transform="translate(339 522)" fill="#fff" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-49" y="0">Social Value</tspan><tspan x="-27" y="24">Center</tspan></text>
+    </g>
+    <path id="line" d="M21,246l124-72" transform="translate(1094.5 4012)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1.5" stroke-dasharray="3 6"/>
+    <path id="line-2" data-name="line" d="M21,174l128.437,83.72" transform="translate(1090.063 4084)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1.5" stroke-dasharray="3 6"/>
+    <path id="line-3" data-name="line" d="M0,0H40" transform="translate(972.001 4690.206) rotate(90)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1.5" stroke-dasharray="3 6"/>
+    <g id="Self_Development" data-name="Self Development" transform="translate(-16 250)">
+      <rect id="사각형_166" data-name="사각형 166" width="340" height="150" rx="20" transform="translate(316 3936)" fill="#1f1f1f"/>
+      <text id="Self_Development-2" data-name="Self Development" transform="translate(340 3977)" fill="#fff" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Self Development</tspan></text>
+      <text id="_1._Discovering_Self_Identity_2._Leadrtdhip_Team_Building_3._Promoting_Belongingness" data-name="1. Discovering Self Identity
+2. Leadrtdhip &amp; Team Building
+3. Promoting Belongingness" transform="translate(340 4008)" fill="#fff" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">1. Discovering Self Identity</tspan><tspan x="0" y="24">2. Leadrtdhip &amp; Team Building</tspan><tspan x="0" y="48">3. Promoting Belongingness</tspan></text>
+    </g>
+    <g id="Career_Development" data-name="Career Development" transform="translate(-40 242)">
+      <rect id="사각형_167" data-name="사각형 167" width="340" height="149" rx="20" transform="translate(340 4150)" fill="#522c81"/>
+      <text id="Career_Development-2" data-name="Career Development" transform="translate(364 4191)" fill="#fff" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Career Development</tspan></text>
+      <text id="_1._Exploring_meaning_value_of_work_2._Exploring_Career_Fit_3._Understanding_and_preparing_jobs" data-name="1. Exploring meaning &amp; value of work
+2. Exploring Career Fit
+3. Understanding and preparing jobs" transform="translate(364 4222)" fill="#fff" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">1. Exploring meaning &amp; value of work</tspan><tspan x="0" y="24">2. Exploring Career Fit</tspan><tspan x="0" y="48">3. Understanding and preparing jobs</tspan></text>
+    </g>
+    <g id="Mental_Health_Care" data-name="Mental Health Care" transform="translate(182 -154)">
+      <g id="txt">
+        <text id="Peer_Counseling_Mental_Health_Coaching_Counseling_Services" data-name="Peer Counseling
+Mental Health Coaching
+Counseling Services" transform="translate(1226 4494)" fill="#666" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Peer Counseling</tspan><tspan x="0" y="24">Mental Health Coaching</tspan><tspan x="0" y="48">Counseling Services</tspan></text>
+        <g id="dot" transform="translate(303 -819)">
+          <g id="dot-2" data-name="dot" transform="translate(911 5354)">
+            <circle id="icon_4_blet" data-name="icon/4/blet" cx="2" cy="2" r="2" fill="#6d6e71"/>
+          </g>
+          <g id="dot-3" data-name="dot" transform="translate(911 5329)">
+            <circle id="icon_4_blet-2" data-name="icon/4/blet" cx="2" cy="2" r="2" fill="#6d6e71"/>
+          </g>
+          <g id="dot-4" data-name="dot" transform="translate(911 5304)">
+            <circle id="icon_4_blet-3" data-name="icon/4/blet" cx="2" cy="2" r="2" fill="#6d6e71"/>
+          </g>
+        </g>
+      </g>
+      <g id="title" transform="translate(-3)">
+        <circle id="타원_15" data-name="타원 15" cx="68" cy="68" r="68" transform="translate(1057 4436)" fill="#00a497"/>
+        <text id="Mental_Health_Care-2" data-name="Mental
+Health Care" transform="translate(1125 4498)" fill="#fff" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-28" y="0">Mental</tspan><tspan x="-48" y="24">Health Care</tspan></text>
+      </g>
+    </g>
+    <g id="Emotional_Competence" data-name="Emotional Competence" transform="translate(181 -109)">
+      <g id="txt-2" data-name="txt">
+        <text id="Psychological_well-being_Psychological_resources_Psychological_evaluations" data-name="Psychological well-being
+Psychological resources
+Psychological evaluations" transform="translate(1227 4281)" fill="#666" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Psychological well-being</tspan><tspan x="0" y="24">Psychological resources</tspan><tspan x="0" y="48">Psychological evaluations</tspan></text>
+        <g id="dot-5" data-name="dot" transform="translate(304 -1033)">
+          <g id="dot-6" data-name="dot" transform="translate(911 5354)">
+            <circle id="icon_4_blet-4" data-name="icon/4/blet" cx="2" cy="2" r="2" fill="#6d6e71"/>
+          </g>
+          <g id="dot-7" data-name="dot" transform="translate(911 5329)">
+            <circle id="icon_4_blet-5" data-name="icon/4/blet" cx="2" cy="2" r="2" fill="#6d6e71"/>
+          </g>
+          <g id="dot-8" data-name="dot" transform="translate(911 5304)">
+            <circle id="icon_4_blet-6" data-name="icon/4/blet" cx="2" cy="2" r="2" fill="#6d6e71"/>
+          </g>
+        </g>
+      </g>
+      <g id="title-2" data-name="title" transform="translate(-6)">
+        <circle id="타원_14" data-name="타원 14" cx="68" cy="68" r="68" transform="translate(1061 4231)" fill="#00a497"/>
+        <text id="Emotional_Competence-2" data-name="Emotional
+Competence" transform="translate(1129 4293)" fill="#fff" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-41" y="0">Emotional</tspan><tspan x="-53" y="24">Competence</tspan></text>
+      </g>
+    </g>
+    <g id="Global_Citizenship" data-name="Global Citizenship" transform="translate(196 -504)">
+      <g id="txt-3" data-name="txt" transform="translate(-55 -15)">
+        <text id="Altruism_Community_Diversity_Equality_Human_rights_Environmental_Sustainability" data-name="Altruism &amp; Community
+Diversity, Equality, Human rights
+Environmental Sustainability" transform="translate(935 5299)" fill="#666" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Altruism &amp; Community</tspan><tspan x="0" y="24">Diversity, Equality, Human rights</tspan><tspan x="0" y="48">Environmental Sustainability</tspan></text>
+        <g id="dot-9" data-name="dot" transform="translate(12 -11)">
+          <g id="dot-10" data-name="dot" transform="translate(911 5354)">
+            <circle id="icon_4_blet-7" data-name="icon/4/blet" cx="2" cy="2" r="2" fill="#6d6e71"/>
+          </g>
+          <g id="dot-11" data-name="dot" transform="translate(911 5329)">
+            <circle id="icon_4_blet-8" data-name="icon/4/blet" cx="2" cy="2" r="2" fill="#6d6e71"/>
+          </g>
+          <g id="dot-12" data-name="dot" transform="translate(911 5304)">
+            <circle id="icon_4_blet-9" data-name="icon/4/blet" cx="2" cy="2" r="2" fill="#6d6e71"/>
+          </g>
+        </g>
+      </g>
+      <g id="title-3" data-name="title" transform="translate(-46)">
+        <circle id="타원_16" data-name="타원 16" cx="68" cy="68" r="68" transform="translate(754 5234)" fill="#6d6e71"/>
+        <text id="Global_Citizenship-2" data-name="Global
+Citizenship" transform="translate(822 5296)" fill="#fff" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-26" y="0">Global</tspan><tspan x="-44" y="24">Citizenship</tspan></text>
+      </g>
+    </g>
+    <g id="icon_40_b_arrow_down" data-name="icon/40/b_arrow_down" transform="translate(10 2)">
+      <rect id="사각형_165" data-name="사각형 165" width="40" height="40" transform="translate(440 4342)" fill="#fff" opacity="0"/>
+      <path id="합치기_2" data-name="합치기 2" d="M-14709-7548h9v-20h6v20h9l-12,12Z" transform="translate(15157 11914)" fill="url(#linear-gradient)"/>
+    </g>
+    <path id="line-4" data-name="line" d="M21,266.876,141.811,174" transform="matrix(0.545, 0.839, -0.839, 0.545, 852.383, 4086.161)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1.5" stroke-dasharray="3 6"/>
+  </g>
+</svg>

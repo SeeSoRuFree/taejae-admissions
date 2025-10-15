@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="icon_100_admissions03" data-name="icon/100/admissions03" transform="translate(2 2.766)">
+    <rect id="base" width="100" height="100" transform="translate(-2 -2.766)" fill="none"/>
+    <g id="icon" transform="translate(0.626 0.857)">
+      <line id="line" x2="30.125" transform="translate(54.395 8.406)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="path" d="M42.119,47.585a3.176,3.176,0,0,0,.1,2.522,20.081,20.081,0,0,0,35.866,0,3.176,3.176,0,0,0,.1-2.522L61.767,12.574a1.754,1.754,0,0,0-3.227,0Z" transform="translate(14.975 4.146)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="line-2" data-name="line" x2="60.978" transform="translate(16.887 91.377)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="line-3" data-name="line" x2="42.215" transform="translate(26.267 83.088)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="path-2" data-name="path" d="M1.212,47.585a3.176,3.176,0,0,0,.1,2.522,20.081,20.081,0,0,0,35.866,0,3.176,3.176,0,0,0,.1-2.522L20.86,12.574a1.753,1.753,0,0,0-3.225,0Z" transform="translate(0.375 4.146)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="line-4" data-name="line" x1="30.125" transform="translate(10.231 8.406)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="line-5" data-name="line" y2="67.654" transform="translate(47.375 15.435)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="line-6" data-name="line" x2="21.438" transform="translate(64.348 53.014)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="line-7" data-name="line" x2="21.438" transform="translate(8.84 53.014)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="path-3" data-name="path" d="M43.767,8.03A7.02,7.02,0,1,1,36.746,1,7.025,7.025,0,0,1,43.767,8.03Z" transform="translate(10.629 0.376)" fill="#501d83" stroke="#501d83" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

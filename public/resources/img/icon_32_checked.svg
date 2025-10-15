@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="icon_32_checked" data-name="icon/32/checked" transform="translate(-2 -2)">
+    <path id="base" d="M0,0H32V32H0Z" transform="translate(34 34) rotate(180)" fill="none" opacity="0"/>
+    <path id="path" d="M15,0A15,15,0,1,0,30,15,15.025,15.025,0,0,0,15,0Zm7.17,11.55-8.505,8.5a1.123,1.123,0,0,1-1.59,0L7.83,15.81a1.124,1.124,0,0,1,1.59-1.59l3.45,3.45,7.71-7.71a1.124,1.124,0,0,1,1.59,1.59Z" transform="translate(3 3)" fill="#501d83"/>
+  </g>
+</svg>

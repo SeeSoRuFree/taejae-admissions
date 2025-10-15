@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="ico_100_svp01" data-name="ico/100/svp01" transform="translate(-440 -3510)">
+    <rect id="base" width="100" height="100" transform="translate(440 3510)" fill="none"/>
+    <g id="icon" transform="translate(441.251 3509)">
+      <g id="bubble">
+        <g id="path">
+          <path id="패스_9443" data-name="패스 9443" d="M67.749,47.586,57.456,37.293,57.163,37H40.334l-.293.293L29.749,47.586V37h-22a6.01,6.01,0,0,1-4.188-1.816A6.005,6.005,0,0,1,1.749,31V9A6.011,6.011,0,0,1,3.562,4.816,6.008,6.008,0,0,1,7.749,3h82a6.008,6.008,0,0,1,4.187,1.817A6.011,6.011,0,0,1,95.749,9V31a6.207,6.207,0,0,1-6,6h-22V47.586Z" fill="rgba(0,0,0,0)"/>
+          <path id="패스_9444" data-name="패스 9444" d="M66.749,45.172V38a2,2,0,0,1,2-2h21a5.209,5.209,0,0,0,5-5V9a5.2,5.2,0,0,0-5-5h-82a5.2,5.2,0,0,0-5,5V31a5,5,0,0,0,1.52,3.476A5,5,0,0,0,7.749,36h21a2,2,0,0,1,2,2v7.172l8.585-8.586A2,2,0,0,1,40.748,36h16a2,2,0,0,1,1.414.586l8.586,8.586m2,4.828-12-12h-16l-12,12V38h-21a7.2,7.2,0,0,1-7-7V9a7.206,7.206,0,0,1,7-7h82a7.206,7.206,0,0,1,7,7V31a7.2,7.2,0,0,1-7,7h-21Z" fill="#1f1f1f"/>
+        </g>
+        <g id="oval" transform="translate(3 2)">
+          <circle id="oval-2" data-name="oval" cx="2.5" cy="2.5" r="2.5" transform="translate(60.749 16)" fill="#1f1f1f"/>
+          <circle id="oval-3" data-name="oval" cx="2.5" cy="2.5" r="2.5" transform="translate(43.749 16)" fill="#1f1f1f"/>
+          <circle id="oval-4" data-name="oval" cx="2.5" cy="2.5" r="2.5" transform="translate(26.749 16)" fill="#1f1f1f"/>
+        </g>
+      </g>
+      <g id="people" transform="translate(50.499 55)">
+        <g id="path-2" data-name="path" transform="translate(-29.713 -65.439)">
+          <path id="패스_9445" data-name="패스 9445" d="M67.963,109.438v-3c0-8.988-7.954-16-19-16s-19,7.012-19,16v3Z" fill="none"/>
+          <path id="패스_9446" data-name="패스 9446" d="M65.963,107.438v-1a12.824,12.824,0,0,0-4.656-9.849,18.925,18.925,0,0,0-12.344-4.151,18.925,18.925,0,0,0-12.344,4.151,12.824,12.824,0,0,0-4.656,9.849v1h34m2,2h-38v-3c0-8.988,7.954-16,19-16s19,7.012,19,16Z" fill="#1f1f1f"/>
+        </g>
+        <g id="path-3" data-name="path" transform="translate(9.25 2)">
+          <path id="패스_9447" data-name="패스 9447" d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" fill="none"/>
+          <path id="패스_9448" data-name="패스 9448" d="M10,2a8,8,0,1,0,8,8,8.009,8.009,0,0,0-8-8m0-2A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" fill="#1f1f1f"/>
+        </g>
+      </g>
+      <g id="people-2" data-name="people" transform="translate(8.499 55)">
+        <path id="path-4" data-name="path" d="M67.963,109.438v-3c0-8.988-7.954-16-19-16s-19,7.012-19,16v3Z" transform="translate(-29.713 -65.439)" fill="#512b81"/>
+        <g id="path-5" data-name="path" transform="translate(9.25 2)">
+          <path id="패스_9449" data-name="패스 9449" d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" fill="none"/>
+          <path id="패스_9450" data-name="패스 9450" d="M10,2a8,8,0,1,0,8,8,8.009,8.009,0,0,0-8-8m0-2A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" fill="#1f1f1f"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

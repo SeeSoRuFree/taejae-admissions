@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="1518" viewBox="0 0 350 1518">
+  <g id="diagram_organization" data-name="diagram/organization" transform="translate(-260 382)">
+    <g id="bottom" transform="translate(-30 -631)">
+      <path id="line" d="M10046,15171l-124-60" transform="translate(-9458 -14438)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1"/>
+      <path id="line-2" data-name="line" d="M10220,15171l122-60" transform="translate(-9878 -14438)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1"/>
+      <rect id="line-3" data-name="line" width="1" height="344" transform="translate(464 389)" fill="#999"/>
+      <g id="item" transform="translate(76 -498)">
+        <circle id="oval" cx="52" cy="52" r="52" transform="translate(460 1231)" fill="#999"/>
+        <text id="Affiliated_Institution" data-name="Affiliated
+Institution" transform="translate(468 1264)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-31" y="15">Affiliated</tspan><tspan x="-35" y="33">Institution</tspan></text>
+      </g>
+      <g id="item-2" data-name="item" transform="translate(-47 -498)">
+        <circle id="oval-2" data-name="oval" cx="52" cy="52" r="52" transform="translate(460 1231)" fill="#999"/>
+        <text id="School" transform="translate(468 1273)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-23" y="15">School</tspan></text>
+      </g>
+      <g id="item-3" data-name="item" transform="translate(-170 -498)">
+        <circle id="oval-3" data-name="oval" cx="52" cy="52" r="52" transform="translate(460 1231)" fill="#999"/>
+        <text id="University_Headquarters" data-name="University
+Headquarters" transform="translate(468 1255)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-34" y="15">University</tspan><tspan x="-42" y="33">Headquarte</tspan><tspan x="-6" y="51">rs</tspan></text>
+      </g>
+      <g id="set" transform="translate(246 -336)">
+        <g id="oval-4" data-name="oval" transform="translate(337 1169)" fill="#999" stroke="#fff" stroke-width="1.5">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4.25" fill="none"/>
+        </g>
+        <path id="line-4" data-name="line" d="M9922,15145v-374" transform="translate(-9580 -13592)" fill="none" stroke="#999" stroke-width="1"/>
+        <g id="items" transform="translate(30 -34)">
+          <g id="item-4" data-name="item" transform="translate(0 784.5)">
+            <rect id="base" width="104" height="70" rx="4" transform="translate(260 1282.5)" fill="#f3f3f3"/>
+            <text id="Digital_Library" data-name="Digital Library" transform="translate(268 1298.5)" fill="#1f1f1f" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-22" y="15">Digital </tspan><tspan x="-24" y="33">Library</tspan></text>
+          </g>
+          <g id="item-5" data-name="item" transform="translate(0 688.5)">
+            <g id="base-2" data-name="base" transform="translate(260 1282.5)" fill="#fff" stroke="#dbdbdb" stroke-width="1">
+              <rect width="104" height="88" rx="4" stroke="none"/>
+              <rect x="0.5" y="0.5" width="103" height="87" rx="3.5" fill="none"/>
+            </g>
+            <text id="Public_Encounter_Center" data-name="Public Encounter Center" transform="translate(268 1298.5)" fill="#1f1f1f" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-21" y="15">Public </tspan><tspan x="-35" y="33">Encounter </tspan><tspan x="-24" y="51">Center</tspan></text>
+          </g>
+          <g id="item-6" data-name="item" transform="translate(0 610.5)">
+            <g id="base-3" data-name="base" transform="translate(260 1282.5)" fill="#fff" stroke="#dbdbdb" stroke-width="1">
+              <rect width="104" height="70" rx="4" stroke="none"/>
+              <rect x="0.5" y="0.5" width="103" height="69" rx="3.5" fill="none"/>
+            </g>
+            <text id="Design_Center" data-name="Design Center" transform="translate(268 1298.5)" fill="#1f1f1f" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-24" y="15">Design </tspan><tspan x="-24" y="33">Center</tspan></text>
+          </g>
+          <g id="item-7" data-name="item" transform="translate(0 514.5)">
+            <rect id="base-4" data-name="base" width="104" height="88" rx="4" transform="translate(260 1282.5)" fill="#f3f3f3"/>
+            <text id="University_Identity_Institute" data-name="University Identity Institute" transform="translate(268 1298.5)" fill="#1f1f1f" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-34" y="15">University </tspan><tspan x="-26" y="33">Identity </tspan><tspan x="-28" y="51">Institute</tspan></text>
+          </g>
+          <g id="item-8" data-name="item" transform="translate(0 418.5)">
+            <g id="base-5" data-name="base" transform="translate(260 1282.5)" fill="#fff" stroke="#dbdbdb" stroke-width="1">
+              <rect width="104" height="88" rx="4" stroke="none"/>
+              <rect x="0.5" y="0.5" width="103" height="87" rx="3.5" fill="none"/>
+            </g>
+            <text id="Contents_Design_Center" data-name="Contents Design Center" transform="translate(268 1298.5)" fill="#1f1f1f" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-32" y="15">Contents </tspan><tspan x="-24" y="33">Design </tspan><tspan x="-24" y="51">Center</tspan></text>
+          </g>
+          <g id="item-9" data-name="item" transform="translate(0 322.5)">
+            <g id="base-6" data-name="base" transform="translate(260 1282.5)" fill="#fff" stroke="#dbdbdb" stroke-width="1">
+              <rect width="104" height="88" rx="4" stroke="none"/>
+              <rect x="0.5" y="0.5" width="103" height="87" rx="3.5" fill="none"/>
+            </g>
+            <text id="Education_Media_Center" data-name="Education Media Center" transform="translate(268 1298.5)" fill="#1f1f1f" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-35" y="15">Education </tspan><tspan x="-21" y="33">Media </tspan><tspan x="-24" y="51">Center</tspan></text>
+          </g>
+          <g id="item-10" data-name="item" transform="translate(0 226.5)">
+            <rect id="base-7" data-name="base" width="104" height="88" rx="4" transform="translate(260 1282.5)" fill="#f3f3f3"/>
+            <text id="Education_Contents_Institute" data-name="Education Contents Institute" transform="translate(268 1298.5)" fill="#1f1f1f" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-35" y="15">Education </tspan><tspan x="-32" y="33">Contents </tspan><tspan x="-28" y="51">Institute</tspan></text>
+          </g>
+          <g id="item-11" data-name="item" transform="translate(0 130.5)">
+            <rect id="base-8" data-name="base" width="104" height="88" rx="4" transform="translate(260 1282.5)" fill="#f3f3f3"/>
+            <text id="Student_Success_Institute" data-name="Student Success Institute" transform="translate(268 1298.5)" fill="#1f1f1f" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-27" y="15">Student </tspan><tspan x="-28" y="33">Success </tspan><tspan x="-28" y="51">Institute</tspan></text>
+          </g>
+          <g id="item-12" data-name="item" transform="translate(0 34.5)">
+            <rect id="base-9" data-name="base" width="104" height="88" rx="4" transform="translate(260 1282.5)" fill="#f3f3f3"/>
+            <text id="Global_Initiative_Institute" data-name="Global Initiative Institute" transform="translate(268 1298.5)" fill="#1f1f1f" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-22" y="15">Global </tspan><tspan x="-30" y="33">Initiative </tspan><tspan x="-28" y="51">Institute</tspan></text>
+          </g>
+          <g id="item-13" data-name="item" transform="translate(0 -62)">
+            <rect id="base-10" data-name="base" width="104" height="88" rx="4" transform="translate(260 1283)" fill="#f3f3f3"/>
+            <text id="Education_Innovation_Institute" data-name="Education Innovation Institute" transform="translate(268 1299)" fill="#1f1f1f" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-35" y="15">Education </tspan><tspan x="-37" y="33">Innovation </tspan><tspan x="-28" y="51">Institute</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="set-2" data-name="set" transform="translate(123 -336)">
+        <g id="oval-5" data-name="oval" transform="translate(337 1169)" fill="#999" stroke="#fff" stroke-width="1.5">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4.25" fill="none"/>
+        </g>
+        <path id="line-5" data-name="line" d="M9922,15145v-374" transform="translate(-9580 -13592)" fill="none" stroke="#999" stroke-width="1"/>
+        <g id="items-2" data-name="items" transform="translate(30 -34)">
+          <g id="item-14" data-name="item" transform="translate(0 376.5)">
+            <rect id="base-11" data-name="base" width="104" height="88" rx="4" transform="translate(260 1282.5)" fill="#f3f3f3"/>
+            <text id="School_of_Business_Innovation" data-name="School of Business Innovation" transform="translate(268 1298.5)" fill="#1f1f1f" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-32" y="15">School of </tspan><tspan x="-30" y="33">Business </tspan><tspan x="-37" y="51">Innovation</tspan></text>
+          </g>
+          <g id="item-15" data-name="item" transform="translate(0 244.5)">
+            <rect id="base-12" data-name="base" width="104" height="124" rx="4" transform="translate(260 1282.5)" fill="#f3f3f3"/>
+            <text id="School_of_Data_Science_Artificial_Intelligence" data-name="School of Data Science &amp; Artificial Intelligence" transform="translate(268 1298.5)" fill="#1f1f1f" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-32" y="15">School of </tspan><tspan x="-17" y="33">Data </tspan><tspan x="-34" y="51">Science &amp; </tspan><tspan x="-28" y="69">Artificial </tspan><tspan x="-41" y="87">Intelligence</tspan></text>
+          </g>
+          <g id="item-16" data-name="item" transform="translate(0 148.5)">
+            <rect id="base-13" data-name="base" width="104" height="88" rx="4" transform="translate(260 1282.5)" fill="#f3f3f3"/>
+            <text id="School_of_Natural_Sciences" data-name="School of Natural Sciences" transform="translate(268 1298.5)" fill="#1f1f1f" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-32" y="15">School of </tspan><tspan x="-26" y="33">Natural </tspan><tspan x="-31" y="51">Sciences</tspan></text>
+          </g>
+          <g id="item-17" data-name="item" transform="translate(0 34.5)">
+            <rect id="base-14" data-name="base" width="104" height="106" rx="4" transform="translate(260 1282.5)" fill="#f3f3f3"/>
+            <text id="School_of_Humanities_Social_Sciences" data-name="School of Humanities &amp; Social Sciences" transform="translate(268 1298.5)" fill="#1f1f1f" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-32" y="15">School of </tspan><tspan x="-40" y="33">Humanities </tspan><tspan x="-27" y="51">&amp; Social </tspan><tspan x="-31" y="69">Sciences</tspan></text>
+          </g>
+          <g id="item-18" data-name="item" transform="translate(0 -62)">
+            <rect id="base-15" data-name="base" width="104" height="88" rx="4" transform="translate(260 1283)" fill="#f3f3f3"/>
+            <text id="School_of_Innovation_Foundations" data-name="School of Innovation Foundations" transform="translate(268 1299)" fill="#1f1f1f" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-32" y="15">School of </tspan><tspan x="-37" y="33">Innovation </tspan><tspan x="-43" y="51">Foundations</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="set-3" data-name="set" transform="translate(0 -336)">
+        <g id="oval-6" data-name="oval" transform="translate(337 1169)" fill="#999" stroke="#fff" stroke-width="1.5">
+          <circle cx="5" cy="5" r="5" stroke="none"/>
+          <circle cx="5" cy="5" r="4.25" fill="none"/>
+        </g>
+        <path id="line-6" data-name="line" d="M9922,15145v-374" transform="translate(-9580 -13592)" fill="none" stroke="#999" stroke-width="1"/>
+        <g id="items-3" data-name="items" transform="translate(30 -34)">
+          <g id="item-19" data-name="item" transform="translate(0 304.5)">
+            <rect id="base-16" data-name="base" width="104" height="70" rx="4" transform="translate(260 1282.5)" fill="#f3f3f3"/>
+            <text id="Office_of_Admissions" data-name="Office of Admissions" transform="translate(268 1298.5)" fill="#1f1f1f" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-29" y="15">Office of </tspan><tspan x="-40" y="33">Admissions</tspan></text>
+          </g>
+          <g id="item-20" data-name="item" transform="translate(0 244.5)">
+            <g id="base-17" data-name="base" transform="translate(260 1282.5)" fill="#fff" stroke="#dbdbdb" stroke-width="1">
+              <rect width="104" height="52" rx="4" stroke="none"/>
+              <rect x="0.5" y="0.5" width="103" height="51" rx="3.5" fill="none"/>
+            </g>
+            <text id="IT_Center" data-name="IT Center" transform="translate(268 1298.5)" fill="#1f1f1f" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-31" y="15">IT Center</tspan></text>
+          </g>
+          <g id="item-21" data-name="item" transform="translate(0 148.5)">
+            <rect id="base-18" data-name="base" width="104" height="88" rx="4" transform="translate(260 1282.5)" fill="#f3f3f3"/>
+            <text id="Office_of_Digital_Information" data-name="Office of Digital Information" transform="translate(268 1298.5)" fill="#1f1f1f" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-29" y="15">Office of </tspan><tspan x="-22" y="33">Digital </tspan><tspan x="-41" y="51">Information</tspan></text>
+          </g>
+          <g id="item-22" data-name="item" transform="translate(0 52.5)">
+            <rect id="base-19" data-name="base" width="104" height="88" rx="4" transform="translate(260 1282.5)" fill="#f3f3f3"/>
+            <text id="Office_of_Academic_Affairs" data-name="Office of Academic Affairs" transform="translate(268 1298.5)" fill="#1f1f1f" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-29" y="15">Office of </tspan><tspan x="-36" y="33">Academic </tspan><tspan x="-22" y="51">Affairs</tspan></text>
+          </g>
+          <g id="item-23" data-name="item" transform="translate(0 -62)">
+            <rect id="base-20" data-name="base" width="104" height="106" rx="4" transform="translate(260 1283)" fill="#f3f3f3"/>
+            <text id="Office_of_General_Affairs_and_Planning" data-name="Office of General Affairs and Planning" transform="translate(268 1299)" fill="#1f1f1f" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-29" y="15">Office of </tspan><tspan x="-27" y="33">General </tspan><tspan x="-38" y="51">Affairs and </tspan><tspan x="-30" y="69">Planning</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="middle" transform="translate(-495 -733)">
+      <circle id="oval-7" data-name="oval" cx="70" cy="70" r="70" transform="translate(860 595)" fill="#00a597"/>
+      <text id="Vice_President" data-name="Vice
+President" transform="translate(930 659)" fill="#fff" font-size="16" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-17" y="0">Vice</tspan><tspan x="-37" y="24">President</tspan></text>
+    </g>
+    <g id="top" transform="translate(-495 -977)">
+      <circle id="oval-8" data-name="oval" cx="70" cy="70" r="70" transform="translate(860 595)" fill="#501d83"/>
+      <text id="President" transform="translate(930 671)" fill="#fff" font-size="16" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-37" y="0">President</tspan></text>
+    </g>
+    <g id="side" transform="translate(-778 -606)">
+      <rect id="line-7" data-name="line" width="70" height="1" transform="translate(1213 416)" fill="#999"/>
+      <g id="item-24" data-name="item" transform="translate(862 -897)">
+        <rect id="base-21" data-name="base" width="105" height="72" rx="4" transform="translate(421 1277)" fill="#666"/>
+        <text id="Office_of_the_President" data-name="Office
+of the
+President" transform="translate(475 1300)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-20" y="0">Office</tspan><tspan x="-20" y="18">of the</tspan><tspan x="-33" y="36">President</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

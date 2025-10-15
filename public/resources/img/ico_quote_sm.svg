@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="28.632" viewBox="0 0 32 28.632">
+    <g data-name="ico/quote">
+        <path transform="translate(18.162 15.158)" style="fill:#1f1f1f" d="M0 0h13.838v13.474H0z"/>
+        <path d="M.335 15.555H0v-1.947A13.608 13.608 0 0 1 13.608 0v6.913h-2.367C4.858 8.579 1.392 11.324.335 15.554z" transform="translate(18.341)" style="fill:#1f1f1f"/>
+        <g data-name="icon">
+            <path data-name="box" transform="translate(0 15.158)" style="fill:#1f1f1f" d="M0 0h13.838v13.474H0z"/>
+            <path data-name="path" d="M.335 15.555H0v-1.947A13.608 13.608 0 0 1 13.608 0v6.913h-2.367C4.858 8.579 1.392 11.324.335 15.554z" style="fill:#1f1f1f"/>
+        </g>
+    </g>
+</svg>

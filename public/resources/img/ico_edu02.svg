@@ -1,0 +1,11 @@
+<svg id="ico_100_edu02" data-name="ico/100/edu02" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <rect id="base" width="100" height="100" fill="none"/>
+  <g id="icon" transform="translate(8 5)">
+    <path id="point" d="M59,16,83,26V5Z" fill="#00a597"/>
+    <path id="path" d="M66.383,21.785,47.556,14.177,72.012,4.294" transform="translate(10.657 1.039)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="path-2" data-name="path" d="M27.951,32.623H41.883a4.085,4.085,0,0,0,4.025-4.766,4.234,4.234,0,0,0-4.245-3.4H29.585" transform="translate(6.391 5.428)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="path-3" data-name="path" d="M34.32,27.421l.83-4.146a5.7,5.7,0,0,0-5.59-6.819H10.679a4.352,4.352,0,0,0-4.268,3.5l-.934,4.665-1.99,9.935a4.233,4.233,0,0,0,2.5,4.828,4.084,4.084,0,0,0,5.463-3.011L13.8,24.619h8.147l-3.5,17.49-1.634,8.163L12.978,69.427a4.233,4.233,0,0,0,2.5,4.828,4.084,4.084,0,0,0,5.463-3.011l4.2-20.972H37.273l-2.12,10.586a4.234,4.234,0,0,0,2.5,4.829,4.084,4.084,0,0,0,5.463-3.011l2.485-12.4.582-2.905a4.4,4.4,0,0,0-4.312-5.258H31.378l1.307-6.525Z" transform="translate(1.048 3.685)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="path-4" data-name="path" d="M2.96,86.283H29.13V74.507H55.424V62.73H81.716V4.294" transform="translate(0.953 1.039)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <circle id="oval" cx="6.623" cy="6.623" r="6.623" transform="translate(26.504 1.322)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

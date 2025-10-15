@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="icon_24_menu" data-name="icon/24/menu" transform="translate(-684 -380)">
+    <rect id="box" width="24" height="24" transform="translate(684 380)" fill="none"/>
+    <path id="path" d="M728,212H712" transform="translate(-24 180)" fill="none" stroke="#fff" stroke-linecap="square" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="path-2" data-name="path" d="M728,206H712" transform="translate(-24 180)" fill="none" stroke="#fff" stroke-linecap="square" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="path-3" data-name="path" d="M724,218H712" transform="translate(-24 180)" fill="none" stroke="#fff" stroke-linecap="square" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>

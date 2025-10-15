@@ -1,0 +1,194 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="1372" viewBox="0 0 390 1372">
+  <g id="img_vision_diagram" data-name="img/vision/diagram" transform="translate(0 -40)">
+    <rect id="space" width="20" height="1372" transform="translate(370 40)" fill="none"/>
+    <g id="diagram" transform="translate(124 413.5)">
+      <g id="active_learning" data-name="active learning" transform="translate(-156.5 685.25)">
+        <text id="Active_Learning-2" data-name="Active Learning" transform="translate(277.5 64.25)" fill="#501d83" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-55" y="0">Active Learning</tspan></text>
+        <g id="academics" transform="translate(40.5 -39.75)">
+          <g id="_5" data-name="5" transform="translate(112 309)">
+            <g id="base" fill="none" stroke="#501d83" stroke-width="1.5">
+              <rect width="250" height="44" rx="4" stroke="none"/>
+              <rect x="0.75" y="0.75" width="248.5" height="42.5" rx="3.25" fill="none"/>
+            </g>
+            <text id="Business_Innovation" data-name="Business Innovation" transform="translate(125 26)" fill="#501d83" font-size="13" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-65" y="0">Business Innovation</tspan></text>
+          </g>
+          <g id="_4" data-name="4" transform="translate(112 261)">
+            <g id="base-2" data-name="base" fill="none" stroke="#501d83" stroke-width="1.5">
+              <rect width="250" height="44" rx="4" stroke="none"/>
+              <rect x="0.75" y="0.75" width="248.5" height="42.5" rx="3.25" fill="none"/>
+            </g>
+            <text id="Data_Science_and_Artificial_Intelligenc" data-name="Data Science and Artificial Intelligenc" transform="translate(125 26)" fill="#501d83" font-size="13" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-121" y="0">Data Science and Artificial Intelligenc</tspan></text>
+          </g>
+          <g id="_3" data-name="3" transform="translate(112 213)">
+            <g id="base-3" data-name="base" fill="none" stroke="#501d83" stroke-width="1.5">
+              <rect width="250" height="44" rx="4" stroke="none"/>
+              <rect x="0.75" y="0.75" width="248.5" height="42.5" rx="3.25" fill="none"/>
+            </g>
+            <text id="Natural_Sciences" data-name="Natural Sciences" transform="translate(125 26)" fill="#501d83" font-size="13" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-55" y="0">Natural Sciences</tspan></text>
+          </g>
+          <g id="_2" data-name="2" transform="translate(112 165)">
+            <g id="base-4" data-name="base" fill="none" stroke="#501d83" stroke-width="1.5">
+              <rect width="250" height="44" rx="4" stroke="none"/>
+              <rect x="0.75" y="0.75" width="248.5" height="42.5" rx="3.25" fill="none"/>
+            </g>
+            <text id="Humanities_and_Social_Sciences" data-name="Humanities and Social Sciences" transform="translate(125 26)" fill="#501d83" font-size="13" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-103" y="0">Humanities and Social Sciences</tspan></text>
+          </g>
+          <g id="_1" data-name="1" transform="translate(112 117)">
+            <g id="base-5" data-name="base" fill="none" stroke="#501d83" stroke-width="1.5">
+              <rect width="250" height="44" rx="4" stroke="none"/>
+              <rect x="0.75" y="0.75" width="248.5" height="42.5" rx="3.25" fill="none"/>
+            </g>
+            <text id="Innovation_Foundation" data-name="Innovation Foundation" transform="translate(125 26)" fill="#501d83" font-size="13" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-73" y="0">Innovation Foundation</tspan></text>
+          </g>
+        </g>
+        <g id="icon_16_arrow_fill" data-name="icon/16/arrow/fill" transform="translate(-816.5 -862.75)">
+          <rect id="base-6" data-name="base" width="16" height="16" transform="translate(1086 892)" fill="none"/>
+          <path id="arrow" d="M14,0,0,8l14,8Z" transform="translate(1102 893) rotate(90)" fill="#707070"/>
+        </g>
+      </g>
+      <g id="global" transform="translate(16.5 363.5)">
+        <g id="item" transform="translate(113 283)">
+          <rect id="base-7" data-name="base" width="124" height="60" rx="2" transform="translate(-7.5 -8)" fill="#34b5aa"/>
+          <text id="Civic_project" data-name="Civic project" transform="translate(54.5 26)" fill="#fff" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-40" y="0">Civic project</tspan></text>
+        </g>
+        <g id="item-2" data-name="item" transform="translate(-13 283)">
+          <rect id="base-8" data-name="base" width="124" height="60" rx="2" transform="translate(-7.5 -8)" fill="#34b5aa"/>
+          <text id="Study_Tour" data-name="Study Tour" transform="translate(54.5 26)" fill="#fff" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-34" y="0">Study Tour</tspan></text>
+        </g>
+        <g id="item-3" data-name="item" transform="translate(113 221)">
+          <rect id="base-9" data-name="base" width="124" height="60" rx="2" transform="translate(-7.5 -8)" fill="#34b5aa"/>
+          <text id="Residential_Campus_Program" data-name="Residential
+Campus Program" transform="translate(54.5 18)" fill="#fff" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-35" y="0">Residential</tspan><tspan x="-57" y="16">Campus Program</tspan></text>
+        </g>
+        <g id="item-4" data-name="item" transform="translate(-13 221)">
+          <rect id="base-10" data-name="base" width="124" height="60" rx="2" transform="translate(-7.5 -8)" fill="#34b5aa"/>
+          <text id="Residential_Social_Program" data-name="Residential
+Social Program" transform="translate(54.5 18)" fill="#fff" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-35" y="0">Residential</tspan><tspan x="-49" y="16">Social Program</tspan></text>
+        </g>
+        <g id="item-5" data-name="item" transform="translate(-13 159)">
+          <rect id="base-11" data-name="base" width="250" height="40" rx="2" transform="translate(-7.5 12)" fill="#00a597"/>
+          <text id="Global_Engagement" data-name="Global Engagement" transform="translate(117.5 37)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-70" y="0">Global Engagement</tspan></text>
+        </g>
+        <g id="icon_16_arrow_fill-2" data-name="icon/16/arrow/fill" transform="translate(-989.5 -745)">
+          <rect id="base-12" data-name="base" width="16" height="16" transform="translate(1086 892)" fill="none"/>
+          <path id="arrow-2" data-name="arrow" d="M14,0,0,8l14,8Z" transform="translate(1102 893) rotate(90)" fill="#707070"/>
+        </g>
+      </g>
+      <g id="items" transform="translate(0 -38)">
+        <g id="key3" transform="translate(-754.589 445.275)">
+          <g id="item-6" data-name="item" transform="translate(891.589 -2.775)">
+            <rect id="base-13" data-name="base" width="124" height="90" rx="4" transform="translate(-15)" fill="#501d83"/>
+            <text id="Global_Harmony_and_Sustainability" data-name="Global Harmony
+and
+Sustainability" transform="translate(47 32)" fill="#fff" font-size="13" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-53" y="0">Global Harmony</tspan><tspan x="-13" y="18">and</tspan><tspan x="-44" y="36">Sustainability</tspan></text>
+          </g>
+          <g id="item-7" data-name="item" transform="translate(765.589 -2.775)">
+            <rect id="base-14" data-name="base" width="124" height="90" rx="4" transform="translate(-15)" fill="#501d83"/>
+            <text id="Communication_and_Collaboration" data-name="Communication
+and
+Collaboration" transform="translate(47 32)" fill="#fff" font-size="13" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-53" y="0">Communication</tspan><tspan x="-13" y="18">and</tspan><tspan x="-44" y="36">Collaboration</tspan></text>
+          </g>
+        </g>
+        <g id="key2" transform="translate(-754.589 353.275)">
+          <g id="item-8" data-name="item" transform="translate(891.589 -2.775)">
+            <rect id="base-15" data-name="base" width="124" height="90" rx="4" transform="translate(-15)" fill="#501d83"/>
+            <text id="Diversity_and_Empathy" data-name="Diversity
+and Empathy" transform="translate(47 41)" fill="#fff" font-size="13" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-28" y="0">Diversity</tspan><tspan x="-43" y="18">and Empathy</tspan></text>
+          </g>
+          <g id="item-9" data-name="item" transform="translate(765.589 -2.775)">
+            <rect id="base-16" data-name="base" width="124" height="90" rx="4" transform="translate(-15)" fill="#501d83"/>
+            <text id="Self-directed_Learning" data-name="Self-directed
+Learning" transform="translate(47 41)" fill="#fff" font-size="13" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-42" y="0">Self-directed</tspan><tspan x="-28" y="18">Learning</tspan></text>
+          </g>
+        </g>
+        <g id="key1" transform="translate(-754.589 261.275)">
+          <g id="item-10" data-name="item" transform="translate(891.589 -2.775)">
+            <rect id="base-17" data-name="base" width="124" height="90" rx="4" transform="translate(-15)" fill="#501d83"/>
+            <text id="Creative_Thinking" data-name="Creative
+Thinking" transform="translate(47 41)" fill="#fff" font-size="13" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-27" y="0">Creative</tspan><tspan x="-27" y="18">Thinking</tspan></text>
+          </g>
+          <g id="item-11" data-name="item" transform="translate(765.589 -2.775)">
+            <rect id="base-18" data-name="base" width="124" height="90" rx="4" transform="translate(-15)" fill="#501d83"/>
+            <text id="Creative_Thinking-2" data-name="Creative
+Thinking" transform="translate(47 41)" fill="#fff" font-size="13" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-27" y="0">Creative</tspan><tspan x="-27" y="18">Thinking</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="student" transform="translate(16.5 41.5)">
+        <g id="item-12" data-name="item" transform="translate(113 45)">
+          <rect id="base-19" data-name="base" width="124" height="60" rx="2" transform="translate(-7.5 -8)" fill="#97999b"/>
+          <text id="Career_Development_Program" data-name="Career
+Development
+Program" transform="translate(54.5 10)" fill="#fff" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-22" y="0">Career</tspan><tspan x="-43" y="16">Development</tspan><tspan x="-28" y="32">Program</tspan></text>
+        </g>
+        <g id="item-13" data-name="item" transform="translate(-13 45)">
+          <rect id="base-20" data-name="base" width="124" height="60" rx="2" transform="translate(-7.5 -8)" fill="#97999b"/>
+          <text id="Social_Value_Program" data-name="Social Value
+Program" transform="translate(54.5 18)" fill="#fff" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-39" y="0">Social Value</tspan><tspan x="-28" y="16">Program</tspan></text>
+        </g>
+        <g id="item-14" data-name="item" transform="translate(113 -17)">
+          <rect id="base-21" data-name="base" width="124" height="60" rx="2" transform="translate(-7.5 -8)" fill="#97999b"/>
+          <text id="Wellness_Program" data-name="Wellness
+Program" transform="translate(54.5 18)" fill="#fff" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-28" y="0">Wellness</tspan><tspan x="-28" y="16">Program</tspan></text>
+        </g>
+        <g id="item-15" data-name="item" transform="translate(-13 -17)">
+          <rect id="base-22" data-name="base" width="124" height="60" rx="2" transform="translate(-7.5 -8)" fill="#97999b"/>
+          <text id="Self_Leadership_Program" data-name="Self &amp; Leadership
+Program" transform="translate(54.5 18)" fill="#fff" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="-54" y="0">Self &amp; Leadership</tspan><tspan x="-28" y="16">Program</tspan></text>
+        </g>
+        <g id="item-16" data-name="item" transform="translate(-13 107)">
+          <rect id="base-23" data-name="base" width="250" height="40" rx="2" transform="translate(-7.5 -8)" fill="#5e5e5e"/>
+          <text id="Student_Success" data-name="Student Success" transform="translate(117.5 17)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-58" y="0">Student Success</tspan></text>
+        </g>
+        <g id="icon_16_arrow_fill-3" data-name="icon/16/arrow/fill" transform="translate(96.5 147)">
+          <rect id="base-24" data-name="base" width="16" height="16" transform="translate(0 0)" fill="none"/>
+          <path id="arrow-3" data-name="arrow" d="M14,16,0,8,14,0Z" transform="translate(0 15) rotate(-90)" fill="#707070"/>
+        </g>
+      </g>
+      <rect id="divider" width="250" height="1" transform="translate(-4 -0.5)" fill="#6d6e71" opacity="0.5"/>
+    </g>
+    <g id="leadership" transform="translate(130 239)">
+      <g id="item-17" data-name="item" transform="translate(43.5 21)">
+        <g id="_3-2" data-name="3" transform="translate(-17.5 102)">
+          <text id="Pioneer_a_brighter_21st_century_future" data-name="Pioneer a brighter 21st century future" transform="translate(-36 16)" fill="#1f1f1f" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="0" y="14">Pioneer a brighter 21st century future</tspan></text>
+          <text id="Innovative_Leaders" data-name="Innovative Leaders" transform="translate(-36 -5)" fill="#1f1f1f" font-size="13" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="14">Innovative Leaders</tspan></text>
+        </g>
+        <g id="_2-2" data-name="2" transform="translate(-20.5 49.5)">
+          <text id="Build_a_more_sustainable_society" data-name="Build a more sustainable society" transform="translate(-33 16.5)" fill="#1f1f1f" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="0" y="14">Build a more sustainable society</tspan></text>
+          <text id="Future_Leaders" data-name="Future Leaders" transform="translate(-33 -4.5)" fill="#1f1f1f" font-size="13" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="14">Future Leaders</tspan></text>
+        </g>
+        <g id="_1-2" data-name="1" transform="translate(-5.5 -1.5)">
+          <text id="Build_harmony_between_east_and_west" data-name="Build harmony between east and west" transform="translate(-48 15.5)" fill="#1f1f1f" font-size="13" font-family="Poppins-Regular, Poppins"><tspan x="0" y="14">Build harmony between east and west</tspan></text>
+          <text id="Global_Leaders" data-name="Global Leaders" transform="translate(-48 -5.5)" fill="#1f1f1f" font-size="13" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="14">Global Leaders</tspan></text>
+        </g>
+      </g>
+      <rect id="divider-2" data-name="divider" width="250" height="1" transform="translate(-10 -3)" fill="#6d6e71" opacity="0.5"/>
+    </g>
+    <g id="mission" transform="translate(113 120)">
+      <text id="Establish_an_innovative_educational_platform_to_cultivate_leaders_capable_of_working_for_the_harmony_of_humanity_and_to_build_a_stronger_digital_society" data-name="Establish an innovative educational platform to cultivate leaders capable of working for the harmony of humanity and to build a stronger digital society" transform="translate(7 17)" fill="#1f1f1f" font-size="13" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="14">Establish an innovative educational </tspan><tspan x="0" y="32">platform to cultivate leaders capable </tspan><tspan x="0" y="50">of working for the harmony of </tspan><tspan x="0" y="68">humanity and to build a stronger </tspan><tspan x="0" y="86">digital society</tspan></text>
+      <rect id="divider-3" data-name="divider" width="250" height="1" transform="translate(7)" fill="#6d6e71" opacity="0.5"/>
+    </g>
+    <g id="vision" transform="translate(113 40)">
+      <text id="Nurture_self-directed_future-oriented_global_leaders_for_a_harmonious_and_sustainable_world" data-name="Nurture self-directed, future-oriented global leaders for a harmonious and sustainable world" transform="translate(7 17)" fill="#1f1f1f" font-size="13" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="14">Nurture self-directed, future-oriented </tspan><tspan x="0" y="32">global leaders for a harmonious and </tspan><tspan x="0" y="50">sustainable world</tspan></text>
+      <rect id="divider-4" data-name="divider" width="250" height="1" transform="translate(7)" fill="#6d6e71" opacity="0.5"/>
+    </g>
+    <g id="diagram-2" data-name="diagram" transform="translate(0 40)">
+      <g id="vision-2" data-name="vision">
+        <rect id="base-25" data-name="base" width="100" height="86" transform="translate(0 0)" fill="#501d83"/>
+        <text id="Vision-3" data-name="Vision" transform="translate(50 31)" fill="#fff" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-21" y="0">Vision</tspan></text>
+      </g>
+      <g id="mission-2" data-name="mission" transform="translate(0 51)">
+        <path id="패스_15929" data-name="패스 15929" d="M98.182,25.887,50.8.206a1.665,1.665,0,0,0-1.6,0L1.818,25.887A3.026,3.026,0,0,0,0,28.688v124.3A1.921,1.921,0,0,0,1.818,155H98.182A1.921,1.921,0,0,0,100,152.99V28.688a3.026,3.026,0,0,0-1.818-2.8" transform="translate(0 0)" fill="#72499a"/>
+        <text id="Mission-3" data-name="Mission" transform="translate(50 71)" fill="#fff" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-26" y="0">Mission</tspan></text>
+      </g>
+      <g id="leadership-2" data-name="leadership" transform="translate(0 168)">
+        <path id="패스_15928" data-name="패스 15928" d="M98.182,25.608,50.8.2a1.68,1.68,0,0,0-1.6,0l-47.38,25.4A2.992,2.992,0,0,0,0,28.379V211.012A1.909,1.909,0,0,0,1.818,213H98.182A1.909,1.909,0,0,0,100,211.012V28.379a2.992,2.992,0,0,0-1.818-2.771" transform="translate(0 0)" fill="#9274b2"/>
+        <text id="Leadership-3" data-name="Leadership" transform="translate(50 103)" fill="#fff" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-39" y="0">Leadership</tspan></text>
+      </g>
+      <g id="curriculum" transform="translate(0 344)">
+        <path id="arrow-4" data-name="arrow" d="M98.182,6.743,50.8-18.8a1.673,1.673,0,0,0-1.6,0L1.818,6.743A3.009,3.009,0,0,0,0,9.529V1009H100V9.529a3.009,3.009,0,0,0-1.818-2.786" transform="translate(0 19)" fill="#b6a0cb"/>
+        <text id="Curriculum-2" data-name="Curriculum" transform="translate(50 523)" fill="#fff" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-40" y="0">Curriculum</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

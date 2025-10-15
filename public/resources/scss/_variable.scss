@@ -1,0 +1,245 @@
+@charset "utf-8";
+
+//font 축약형 include
+@mixin fontStyle($font-size, $color, $font-weight, $line-height) {
+  font-size: $font-size;
+  color: $color;
+  font-weight: $font-weight;
+  line-height: $line-height;
+}
+//flex type
+@mixin flex {
+  display: -webkit-box;
+  display: flex;
+}
+@mixin flexCenter {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+}
+@mixin flexStart {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  justify-content:flex-start;
+}
+@mixin flexBetween {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+}
+//fixed type
+@mixin fixedTop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+@mixin fixedBottom {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+//itembox
+@mixin itemBox {
+  @include flexBetween;
+  min-height: 88px;
+  padding: 0 30px 0 24px;
+  margin-bottom: 11px;
+  color: $color-black2;
+  font-size: 18px;
+  font-weight: $fw-b;
+  letter-spacing: -0.2px;
+  background: $bg-white;
+  border-radius: 16px;
+  box-shadow: 8px 8px 18px 0 rgba(209, 217, 230, 0.4);
+  @content;
+}
+//base icon & arrows
+@mixin dotMenu {
+  position: absolute;
+  left: 50%;
+  display: inline-block;
+  width: 4px;
+  height: 4px;
+  border: 1px solid transparent;
+  border-radius: 50%;
+  transform: translateX(-50%);
+  content: "";
+}
+@mixin arrowTop {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background: url($imgpath + "arr_top.png") center no-repeat;
+  background-size: contain;
+  content: "";
+  @content;
+}
+@mixin arrowBottom {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background: url($imgpath + "arr_bottom.png") center no-repeat;
+  background-size: contain;
+  content: "";
+  @content;
+}
+@mixin arrowLeft {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background: url($imgpath + "arr_left.png") center no-repeat;
+  background-size: contain;
+  content: "";
+  @content;
+}
+@mixin arrowRight {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: url($imgpath + "arr_right.png") center no-repeat;
+  background-size: contain;
+  content: "";
+  @content;
+}
+
+@mixin txtGradient {
+  background-image: -webkit-linear-gradient($bi-mint, #0db5e1, #0095ff, $bi-purple);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  @content;
+}
+
+// 이미지 &폰트 경로
+$imgpath: "../img/";
+
+$font-path-poppins: "../font/poppins/";
+$font-path-suit: "../font/suit/";
+
+$font-poppins: "Poppins";
+$font-suit: "Suit";
+
+// color
+$color-white: #fff;
+$color-gray6: #666;
+$color-gray4: #f4f4f4;
+$color-gray9: #999;
+$color-gray-a: #aaa;
+$color-gray-d: #ddd;
+$color-gray-e: #eee;
+$color-gray-db: #dbdbdb;
+$color-black: #1F1F1F;
+$color-black0: #000;
+$color-blue: #0095ff;
+$color-purple: #501D83;
+$color-green: #00A597;
+
+//bi color
+$bi-red : #CE0019;
+$bi-purple : #501D83;
+$bi-green: #00A597;
+$bi-gray: #6D6E71;
+$bi-gradient: linear-gradient(90deg, $bi-purple 0%, $bi-green 100%);
+$bi-blue: #0087DC;
+$bi-orange: #E44416;
+
+// bg color
+$bg-white: $color-white;
+$bg-white-f9: #f9f9f9;
+$bg-white-eb: #ebebeb;
+$bg-white-F0: #F0F0F0;
+$bg-white-F5: #F5F5F5;
+$bg-white-FA: #FAFAFA;
+$bg-white-F3: #F3F3F3;
+$bg-black0: $color-black;
+$bg-gray6: $color-gray6;
+
+// input color
+// $inp-bg-color: $color-white-f6;
+
+// Font size
+$fs-xs: 0.625rem; /*10*/
+$fs-s: 0.75rem; /*12*/
+$fs-sm: 0.875rem; /*14*/
+$fs-m: 1rem; /*16*/
+$fs-md: 1.125rem; /*18*/
+$fs-l: 1.25rem; /*20*/
+$fs-lg: 1.5rem; /*24*/
+$fs-xlg: 1.75rem; /*28*/
+
+// Font weight
+$fw-l: 300; // light
+$fw-r: 400; // regular
+$fw-m: 500; // medium
+$fw-sb: 600; // semi bold
+$fw-b: 700; // bold
+
+//여백(margin & padding)
+.mt0 {margin-top: 0 !important;}
+.mt10 {margin-top: 10px !important;}
+.mt15 {margin-top: 15px !important;}
+.mt20 {margin-top: 20px !important;}
+.mt25 {margin-top: 25px !important;}
+.mt30 {margin-top: 30px !important;}
+.mt40 {margin-top: 40px !important;}
+.mt50 {margin-top: 50px !important;}
+.mt60 {margin-top: 60px !important;}
+.mt70 {margin-top: 70px !important;}
+.mt80 {margin-top: 80px !important;}
+.mt90 {margin-top: 90px !important;}
+.mt100 {margin-top: 100px !important;}
+.mt110 {margin-top: 110px !important;}
+.mt120 {margin-top: 120px !important;}
+.mt140 {margin-top: 140px !important;}
+.mt160 {margin-top: 160px !important;}
+.mb0 {margin-bottom: 0 !important;}
+.mb10 {margin-bottom: 10px !important;}
+.mb20 {margin-bottom: 20px !important;}
+.mb30 {margin-bottom: 30px !important;}
+.mb40 {margin-bottom: 40px !important;}
+.mb50 {margin-bottom: 50px !important;}
+.mb60 {margin-bottom: 60px !important;}
+.mb70 {margin-bottom: 70px !important;}
+.mb80 {margin-bottom: 80px !important;}
+.mb90 {margin-bottom: 90px !important;}
+.mb100 {margin-bottom: 100px !important;}
+.mb160 {margin-bottom: 150px !important;}
+.pt0 {padding-top: 0 !important;}
+.pt10 {padding-top: 10px !important;}
+.pt20 {padding-top: 20px !important;}
+.pt30 {padding-top: 30px !important;}
+.pt40 {padding-top: 40px !important;}
+.pt50 {padding-top: 50px !important;}
+.pb0 {padding-bottom: 0 !important;}
+.pb10 {padding-bottom: 10px !important;}
+.pb20 {padding-bottom: 20px !important;}
+.pb30 {padding-bottom: 30px !important;}
+.pb40 {padding-bottom: 40px !important;}
+.pb50 {padding-bottom: 50px !important;}
+.pb100 {padding-bottom: 100px !important;}
+.pl0 {padding-left: 0 !important;}
+
+//Text Align
+.txt_l{text-align: left;}
+.txt_c{text-align: center;}
+.txt_r{text-align: right;}
+
+.fw_sb {font-weight: $fw-sb;}
+.va_m {vertical-align: middle !important;}
+
+//Txt Gradient
+.txt_gradient{
+  // background: linear-gradient(to right, $bi-mint 3%, #0095ff 31%, $bi-purple 57%, #cb8bda);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

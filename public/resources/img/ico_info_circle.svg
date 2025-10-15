@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="icon_24_info_circle" data-name="icon/24/info_circle" transform="translate(-364 -252)">
+    <path id="base" d="M0,0H24V24H0Z" transform="translate(364 252)" fill="none" opacity="0"/>
+    <g id="icon">
+      <path id="path" d="M0,0V5" transform="translate(376 260)" fill="none" stroke="#ff685b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="path-2" data-name="path" d="M0,0H.009" transform="translate(375.994 268)" fill="none" stroke="#ff685b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="path-3" data-name="path" d="M1794.171,66.55a9,9,0,1,1,2.665-4.865" transform="translate(-1412 204)" fill="none" stroke="#ff685b" stroke-linecap="square" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

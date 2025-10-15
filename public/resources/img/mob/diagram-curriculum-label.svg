@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="198" height="76" viewBox="0 0 198 76">
+  <g id="diagram_curriculum_label" data-name="diagram/curriculum/label" transform="translate(-1113 -216)">
+    <g id="items" transform="translate(1113 -1567.501)">
+      <g id="item" transform="translate(0 1837.501)">
+        <text id="Field_Practice_Subjects" data-name="Field Practice Subjects" transform="translate(20 17.001)" fill="#1f1f1f" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Field Practice Subjects</tspan></text>
+        <rect id="box" width="12" height="12" transform="translate(0 6.001)" fill="#00a597"/>
+      </g>
+      <g id="item-2" data-name="item" transform="translate(0 1806.501)">
+        <text id="Sencond_Language" data-name="Sencond Language" transform="translate(20 20.001)" fill="#1f1f1f" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Sencond Language</tspan></text>
+        <rect id="box-2" data-name="box" width="12" height="12" transform="translate(0 9.001)" fill="#96999b"/>
+      </g>
+      <g id="item-3" data-name="item" transform="translate(0 1782.002)">
+        <text id="Innovation_Basic_Subjects" data-name="Innovation Basic Subjects" transform="translate(20 16.5)" fill="#1f1f1f" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Innovation Basic Subjects</tspan></text>
+        <rect id="box-3" data-name="box" width="12" height="12" transform="translate(0 5.5)" fill="#501d83"/>
+      </g>
+    </g>
+  </g>
+</svg>

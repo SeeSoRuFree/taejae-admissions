@@ -1,0 +1,15 @@
+<svg id="icon_flag_moscow" data-name="icon/flag/moscow" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="mask" width="40" height="40" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="mask-2" data-name="mask" clip-path="url(#clip-path)">
+    <g id="oval" fill="#fff" stroke="#dbdbdb" stroke-width="1">
+      <circle cx="20" cy="20" r="20" stroke="none"/>
+      <circle cx="20" cy="20" r="19.5" fill="none"/>
+    </g>
+    <path id="path" d="M40,29.344a19.883,19.883,0,0,0-1.145-6.667H1.146a19.986,19.986,0,0,0,0,13.334h37.71A19.9,19.9,0,0,0,40,29.344" transform="translate(0 -9.344)" fill="#004083"/>
+    <path id="path-2" data-name="path" d="M1.947,45.354a20,20,0,0,0,37.71,0Z" transform="translate(-0.802 -18.688)" fill="#c6252d"/>
+  </g>
+</svg>

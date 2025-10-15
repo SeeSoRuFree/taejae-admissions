@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="960" height="862" viewBox="0 0 960 862">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="mask" width="756" height="756" transform="translate(577 2486)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="mask-2" data-name="mask" width="365" height="756" transform="translate(595 2486.166)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="mask-3" data-name="mask" width="365" height="756" transform="translate(960 2486.166)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="img_diagram_ecosystem" data-name="img/diagram/ecosystem" transform="translate(-480 -1997.834)">
+    <g id="mask_circle" data-name="mask/circle" transform="translate(0 -435.166)" clip-path="url(#clip-path)">
+      <g id="line">
+        <g id="dash" transform="translate(577 2714)" fill="none" stroke="#999" stroke-width="1.5" stroke-dasharray="4 5">
+          <ellipse cx="383" cy="150" rx="383" ry="150" stroke="none"/>
+          <ellipse cx="383" cy="150" rx="382.25" ry="149.25" fill="none"/>
+        </g>
+        <g id="dash-2" data-name="dash" transform="translate(638.596 3120.688) rotate(-60)" fill="none" stroke="#999" stroke-width="1.5" stroke-dasharray="4 5">
+          <ellipse cx="383" cy="150" rx="383" ry="150" stroke="none"/>
+          <ellipse cx="383" cy="150" rx="382.25" ry="149.25" fill="none"/>
+        </g>
+        <g id="dash-3" data-name="dash" transform="translate(1021.596 3270.688) rotate(-120)" fill="none" stroke="#999" stroke-width="1.5" stroke-dasharray="4 5">
+          <ellipse cx="383" cy="150" rx="383" ry="150" stroke="none"/>
+          <ellipse cx="383" cy="150" rx="382.25" ry="149.25" fill="none"/>
+        </g>
+        <g id="line_personal" transform="translate(0 -0.166)" clip-path="url(#clip-path-2)">
+          <g id="line-2" data-name="line" transform="translate(582 2486.166)" fill="none" stroke="#00a497" stroke-width="2">
+            <circle cx="378" cy="378" r="378" stroke="none"/>
+            <circle cx="378" cy="378" r="377" fill="none"/>
+          </g>
+        </g>
+        <g id="line_social" transform="translate(0 -0.166)" clip-path="url(#clip-path-3)">
+          <g id="line-3" data-name="line" transform="translate(582 2486.166)" fill="none" stroke="#501d83" stroke-width="2">
+            <circle cx="378" cy="378" r="378" stroke="none"/>
+            <circle cx="378" cy="378" r="377" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="img_logo_main" data-name="img/logo/main" transform="translate(-11 69.865)">
+        <g id="T" transform="translate(931 2754.135)">
+          <path id="right" d="M0,59.746V19.915L19.917,0H39.831V19.915H19.917V59.746Z" transform="translate(20.252 0.339)" fill="#501d83"/>
+          <rect id="left" width="20.085" height="20.085" transform="translate(0 0)" fill="#00a497"/>
+        </g>
+        <g id="J" transform="translate(971.169 2774.388)">
+          <path id="path" d="M190.4,75.285H170.484v39.831H150.569v19.56A34.864,34.864,0,0,0,190.4,100.2Z" transform="translate(-150.569 -75.285)" fill="#501d83"/>
+        </g>
+      </g>
+    </g>
+    <g id="item" transform="translate(363 632)">
+      <circle id="oval" cx="115" cy="115" r="115" transform="translate(663 1997.834)" fill="#501d83"/>
+      <g id="txt" transform="translate(182.5 -121.233)">
+        <text id="More_collaborative" data-name="More collaborative" transform="translate(595.5 2258.067)" fill="#fff" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-74" y="0">More collaborative</tspan></text>
+        <text id="Community" transform="translate(595.5 2226.067)" fill="#fff" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-60" y="0">Community</tspan></text>
+      </g>
+    </g>
+    <g id="item-2" data-name="item" transform="translate(547 316)">
+      <circle id="oval-2" data-name="oval" cx="115" cy="115" r="115" transform="translate(663 1997.834)" fill="#501d83"/>
+      <g id="txt-2" data-name="txt" transform="translate(182.5 -121.233)">
+        <text id="More_engaged" data-name="More engaged" transform="translate(595.5 2258.067)" fill="#fff" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-58" y="0">More engaged</tspan></text>
+        <text id="Students" transform="translate(595.5 2226.067)" fill="#fff" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-45" y="0">Students</tspan></text>
+      </g>
+    </g>
+    <g id="item-3" data-name="item" transform="translate(363)">
+      <circle id="oval-3" data-name="oval" cx="115" cy="115" r="115" transform="translate(663 1997.834)" fill="#501d83"/>
+      <g id="txt-3" data-name="txt" transform="translate(182.5 -136.233)">
+        <text id="More_systematic" data-name="More systematic" transform="translate(595.5 2288.067)" fill="#fff" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-66" y="0">More systematic</tspan></text>
+        <text id="Instructional_Design" data-name="Instructional
+Design" transform="translate(595.5 2226.067)" fill="#fff" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-64" y="0">Instructional</tspan><tspan x="-34" y="30">Design</tspan></text>
+      </g>
+    </g>
+    <g id="item-4" data-name="item" transform="translate(1 632)">
+      <circle id="oval-4" data-name="oval" cx="115" cy="115" r="115" transform="translate(663 1997.834)" fill="#00a597"/>
+      <g id="txt-4" data-name="txt" transform="translate(182.5 -121.233)">
+        <text id="More_effective" data-name="More effective" transform="translate(595.5 2258.067)" fill="#fff" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-56" y="0">More effective</tspan></text>
+        <text id="Resources" transform="translate(595.5 2226.067)" fill="#fff" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-52" y="0">Resources</tspan></text>
+      </g>
+    </g>
+    <g id="item-5" data-name="item" transform="translate(-183 316)">
+      <circle id="oval-5" data-name="oval" cx="115" cy="115" r="115" transform="translate(663 1997.834)" fill="#00a597"/>
+      <g id="txt-5" data-name="txt" transform="translate(182.5 -121.233)">
+        <text id="More_interactive" data-name="More interactive" transform="translate(595.5 2258.067)" fill="#fff" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-64" y="0">More interactive</tspan></text>
+        <text id="Professors" transform="translate(595.5 2226.067)" fill="#fff" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-53" y="0">Professors</tspan></text>
+      </g>
+    </g>
+    <g id="item-6" data-name="item" transform="translate(1)">
+      <circle id="oval-6" data-name="oval" cx="115" cy="115" r="115" transform="translate(663 1997.834)" fill="#00a597"/>
+      <g id="txt-6" data-name="txt" transform="translate(182.5 -121.233)">
+        <text id="More_Efficient" data-name="More Efficient" transform="translate(595.5 2258.067)" fill="#fff" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-53" y="0">More Efficient</tspan></text>
+        <text id="Technologies" transform="translate(595.5 2226.067)" fill="#fff" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-67" y="0">Technologies</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

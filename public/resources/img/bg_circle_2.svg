@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <g id="bg_circle_2" transform="translate(-1360 -1528)">
+    <rect id="base" width="300" height="300" transform="translate(1360 1528)" fill="#fff" opacity="0"/>
+    <circle id="타원_3" data-name="타원 3" cx="150" cy="150" r="150" transform="translate(1360 1528)" fill="#501d83"/>
+  </g>
+</svg>

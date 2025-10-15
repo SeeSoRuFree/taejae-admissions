@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="ico_100_svp03" data-name="ico/100/svp03" transform="translate(-319 -3501)">
+    <rect id="base" width="100" height="100" transform="translate(319 3501)" fill="none"/>
+    <g id="icon" transform="translate(324.711 3506.71)">
+      <g id="earth" transform="translate(1 -2)">
+        <circle id="oval" cx="24" cy="24" r="24" transform="translate(19.289 1.291)" fill="#501d83"/>
+        <path id="path" d="M45.939,25c0,13.255-4.476,24-10,24s-10-10.745-10-24,4.478-24,10-24S45.939,11.745,45.939,25Z" transform="translate(7.349 0.29)" fill="none" stroke="#fff" stroke-width="2"/>
+        <line id="line" x2="48" transform="translate(19.289 25.29)" fill="none" stroke="#fff" stroke-width="2"/>
+      </g>
+      <g id="hand" transform="translate(0.289 26.289)">
+        <path id="path-2" data-name="path" d="M40.111,19.823c3.722.539,6.728,2.6,7.341,8.113.51,4.59,1.353,12.343,1.728,15.8a5.88,5.88,0,0,1,5.8,1.722l6.24,6.661A15.968,15.968,0,0,1,75.366,68.274l-.152,14.532H58.574l.317-4.541a7.031,7.031,0,0,0-1.883-5.233L39.8,54.663a5.329,5.329,0,0,1-1.436-3.643V21.33a1.522,1.522,0,0,1,1.747-1.507Z" transform="translate(-38.367 -19.807)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="path-3" data-name="path" d="M50.938,54.787,38.628,41.643a.964.964,0,0,1,.086-1.4c4.726-3.868,8.146-1.067,9.087-.062l6.24,6.661A15.966,15.966,0,0,1,68.19,63l-.152,14.53" transform="translate(-31.191 -14.53)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <g id="hand-2" data-name="hand" transform="translate(51.289 26.29)">
+        <path id="path-4" data-name="path" d="M73.624,19.823c-3.722.539-6.728,2.6-7.341,8.113-.51,4.59-1.353,12.343-1.728,15.8a5.88,5.88,0,0,0-5.8,1.722l-6.24,6.661A15.968,15.968,0,0,0,38.368,68.274l.152,14.532H55.16l-.317-4.541a7.031,7.031,0,0,1,1.883-5.233l17.2-18.369a5.329,5.329,0,0,0,1.436-3.643V21.33a1.522,1.522,0,0,0-1.738-1.507Z" transform="translate(-38.367 -19.807)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="path-5" data-name="path" d="M55.62,54.787,67.93,41.643a.964.964,0,0,0-.086-1.4c-4.726-3.868-8.146-1.067-9.087-.062l-6.24,6.661A15.966,15.966,0,0,0,38.368,63l.152,14.53" transform="translate(-38.367 -14.53)" fill="none" stroke="#1f1f1f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

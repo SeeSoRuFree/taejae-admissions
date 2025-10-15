@@ -1,0 +1,264 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="819" viewBox="0 0 1200 819">
+  <g id="diagram_curriculum" data-name="diagram/curriculum" transform="translate(-260 -1892)">
+    <g id="diagram_curriculum-2" data-name="diagram/curriculum" transform="translate(260 1920.429)">
+      <g id="year" transform="translate(0 736.143)">
+        <g id="_1" data-name="1" transform="translate(901.2 0)">
+          <rect id="base" width="297.4" height="55" transform="translate(0 -0.571)" fill="#5e5e5e"/>
+          <text id="_4_YEAR" data-name="4 YEAR" transform="translate(149 34.429)" fill="#fff" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-32" y="0">4 YEAR</tspan></text>
+        </g>
+        <g id="_1-2" data-name="1" transform="translate(600.8 0)">
+          <rect id="base-2" data-name="base" width="297.4" height="55" transform="translate(0 -0.571)" fill="#5e5e5e"/>
+          <text id="_3_YEAR" data-name="3 YEAR" transform="translate(149 34.429)" fill="#fff" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-32" y="0">3 YEAR</tspan></text>
+        </g>
+        <g id="_1-3" data-name="1" transform="translate(300.4 0)">
+          <rect id="base-3" data-name="base" width="297.4" height="55" transform="translate(0 -0.571)" fill="#5e5e5e"/>
+          <text id="_2_YEAR" data-name="2 YEAR" transform="translate(149 34.429)" fill="#fff" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-32" y="0">2 YEAR</tspan></text>
+        </g>
+        <g id="_1-4" data-name="1" transform="translate(0 0)">
+          <rect id="base-4" data-name="base" width="297.4" height="55" transform="translate(0 -0.571)" fill="#5e5e5e"/>
+          <text id="_1_YEAR" data-name="1 YEAR" transform="translate(149 34.429)" fill="#fff" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-29" y="0">1 YEAR</tspan></text>
+        </g>
+      </g>
+      <g id="divider" transform="translate(72.857 4.286)">
+        <rect id="divider-2" data-name="divider" width="1" height="732" transform="translate(-0.857 -0.715)" fill="#dbdbdb"/>
+        <rect id="divider-3" data-name="divider" width="1" height="732" transform="translate(151.143 -0.715)" fill="#dbdbdb"/>
+        <rect id="divider-4" data-name="divider" width="1" height="732" transform="translate(301.143 -0.715)" fill="#dbdbdb"/>
+        <rect id="divider-5" data-name="divider" width="1" height="732" transform="translate(451.143 -0.715)" fill="#dbdbdb"/>
+        <rect id="divider-6" data-name="divider" width="1" height="732" transform="translate(601.143 -0.715)" fill="#dbdbdb"/>
+        <rect id="divider-7" data-name="divider" width="1" height="732" transform="translate(751.143 -0.715)" fill="#dbdbdb"/>
+        <rect id="divider-8" data-name="divider" width="1" height="732" transform="translate(901.143 -0.715)" fill="#dbdbdb"/>
+        <rect id="divider-9" data-name="divider" width="1" height="732" transform="translate(1053.143 -0.715)" fill="#dbdbdb"/>
+      </g>
+      <g id="section" transform="translate(150.857 521.143)">
+        <g id="_1y-2" data-name="1y-2" transform="translate(900)">
+          <rect id="base-5" data-name="base" width="147" height="177" rx="4" transform="translate(-0.857 -0.571)" fill="#00a597"/>
+          <text id="Europe_Grand_Study_Tour" data-name="Europe Grand
+Study Tour" transform="translate(73.143 84.428)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-48" y="0">Europe Grand</tspan><tspan x="-36" y="18">Study Tour</tspan></text>
+        </g>
+        <g id="_2y-1" data-name="2y-1" transform="translate(749.428)">
+          <g id="_2y-2" data-name="2y-2" transform="translate(0 134.857)">
+            <rect id="base-6" data-name="base" width="147" height="42" rx="4" transform="translate(-0.286 -0.429)" fill="#89d3ce"/>
+            <text id="Civic_Project" data-name="Civic Project" transform="translate(73.714 25.571)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-42" y="0">Civic Project</tspan></text>
+          </g>
+          <g id="_2y-2-2" data-name="2y-2" transform="translate(0 89.571)">
+            <rect id="base-7" data-name="base" width="147" height="42" rx="4" transform="translate(-0.286 -0.143)" fill="#63c6be"/>
+            <text id="RCP" transform="translate(73.714 25.857)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-13" y="0">RCP</tspan></text>
+          </g>
+          <g id="_2y-2-3" data-name="2y-2" transform="translate(0 45.286)">
+            <rect id="base-8" data-name="base" width="147" height="42" rx="4" transform="translate(-0.286 -0.857)" fill="#32b5aa"/>
+            <text id="Study_Tour" data-name="Study Tour" transform="translate(73.714 25.143)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-36" y="0">Study Tour</tspan></text>
+          </g>
+          <g id="_2y-1-2" data-name="2y-1">
+            <rect id="base-9" data-name="base" width="147" height="42" rx="4" transform="translate(-0.286 -0.571)" fill="#00a597"/>
+            <text id="GE" transform="translate(73.714 25.429)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-8" y="0">GE</tspan></text>
+          </g>
+        </g>
+        <g id="_2y-1-3" data-name="2y-1" transform="translate(599.428)">
+          <g id="_2y-2-4" data-name="2y-2" transform="translate(0 134.857)">
+            <rect id="base-10" data-name="base" width="147" height="42" rx="4" transform="translate(-0.286 -0.429)" fill="#89d3ce"/>
+            <text id="Civic_Project-2" data-name="Civic Project" transform="translate(73.714 25.571)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-42" y="0">Civic Project</tspan></text>
+          </g>
+          <g id="_2y-2-5" data-name="2y-2" transform="translate(0 89.571)">
+            <rect id="base-11" data-name="base" width="147" height="42" rx="4" transform="translate(-0.286 -0.143)" fill="#63c6be"/>
+            <text id="RCP-2" data-name="RCP" transform="translate(73.714 25.857)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-13" y="0">RCP</tspan></text>
+          </g>
+          <g id="_2y-2-6" data-name="2y-2" transform="translate(0 45.286)">
+            <rect id="base-12" data-name="base" width="147" height="42" rx="4" transform="translate(-0.286 -0.857)" fill="#32b5aa"/>
+            <text id="Study_Tour-2" data-name="Study Tour" transform="translate(73.714 25.143)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-36" y="0">Study Tour</tspan></text>
+          </g>
+          <g id="_2y-1-4" data-name="2y-1">
+            <rect id="base-13" data-name="base" width="147" height="42" rx="4" transform="translate(-0.286 -0.571)" fill="#00a597"/>
+            <text id="GE-2" data-name="GE" transform="translate(73.714 25.429)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-8" y="0">GE</tspan></text>
+          </g>
+        </g>
+        <g id="_2y-1-5" data-name="2y-1" transform="translate(449.428)">
+          <g id="_2y-2-7" data-name="2y-2" transform="translate(0 134.857)">
+            <rect id="base-14" data-name="base" width="147" height="42" rx="4" transform="translate(-0.286 -0.429)" fill="#89d3ce"/>
+            <text id="Civic_Project-3" data-name="Civic Project" transform="translate(73.714 25.571)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-42" y="0">Civic Project</tspan></text>
+          </g>
+          <g id="_2y-2-8" data-name="2y-2" transform="translate(0 89.571)">
+            <rect id="base-15" data-name="base" width="147" height="42" rx="4" transform="translate(-0.286 -0.143)" fill="#63c6be"/>
+            <text id="RCP-3" data-name="RCP" transform="translate(73.714 25.857)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-13" y="0">RCP</tspan></text>
+          </g>
+          <g id="_2y-2-9" data-name="2y-2" transform="translate(0 45.286)">
+            <rect id="base-16" data-name="base" width="147" height="42" rx="4" transform="translate(-0.286 -0.857)" fill="#32b5aa"/>
+            <text id="Study_Tour-3" data-name="Study Tour" transform="translate(73.714 25.143)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-36" y="0">Study Tour</tspan></text>
+          </g>
+          <g id="_2y-1-6" data-name="2y-1">
+            <rect id="base-17" data-name="base" width="147" height="42" rx="4" transform="translate(-0.286 -0.571)" fill="#00a597"/>
+            <text id="GE-3" data-name="GE" transform="translate(73.714 25.429)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-8" y="0">GE</tspan></text>
+          </g>
+        </g>
+        <g id="_2y-1-7" data-name="2y-1" transform="translate(299.428)">
+          <g id="_2y-2-10" data-name="2y-2" transform="translate(0 134.857)">
+            <rect id="base-18" data-name="base" width="147" height="42" rx="4" transform="translate(-0.286 -0.429)" fill="#89d3ce"/>
+            <text id="Civic_Project-4" data-name="Civic Project" transform="translate(73.714 25.571)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-42" y="0">Civic Project</tspan></text>
+          </g>
+          <g id="_2y-2-11" data-name="2y-2" transform="translate(0 89.571)">
+            <rect id="base-19" data-name="base" width="147" height="42" rx="4" transform="translate(-0.286 -0.143)" fill="#63c6be"/>
+            <text id="RCP-4" data-name="RCP" transform="translate(73.714 25.857)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-13" y="0">RCP</tspan></text>
+          </g>
+          <g id="_2y-2-12" data-name="2y-2" transform="translate(0 45.286)">
+            <rect id="base-20" data-name="base" width="147" height="42" rx="4" transform="translate(-0.286 -0.857)" fill="#32b5aa"/>
+            <text id="Study_Tour-4" data-name="Study Tour" transform="translate(73.714 25.143)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-36" y="0">Study Tour</tspan></text>
+          </g>
+          <g id="_2y-1-8" data-name="2y-1">
+            <rect id="base-21" data-name="base" width="147" height="42" rx="4" transform="translate(-0.286 -0.571)" fill="#00a597"/>
+            <text id="GE-4" data-name="GE" transform="translate(73.714 25.429)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-8" y="0">GE</tspan></text>
+          </g>
+        </g>
+        <g id="_2y-1-9" data-name="2y-1" transform="translate(149.428)">
+          <g id="_2y-2-13" data-name="2y-2" transform="translate(0 134.857)">
+            <rect id="base-22" data-name="base" width="147" height="42" rx="4" transform="translate(-0.286 -0.429)" fill="#89d3ce"/>
+            <text id="Civic_Project-5" data-name="Civic Project" transform="translate(73.714 25.571)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-42" y="0">Civic Project</tspan></text>
+          </g>
+          <g id="_2y-2-14" data-name="2y-2" transform="translate(0 89.571)">
+            <rect id="base-23" data-name="base" width="147" height="42" rx="4" transform="translate(-0.286 -0.143)" fill="#63c6be"/>
+            <text id="RCP-5" data-name="RCP" transform="translate(73.714 25.857)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-13" y="0">RCP</tspan></text>
+          </g>
+          <g id="_2y-2-15" data-name="2y-2" transform="translate(0 45.286)">
+            <rect id="base-24" data-name="base" width="147" height="42" rx="4" transform="translate(-0.286 -0.857)" fill="#32b5aa"/>
+            <text id="Study_Tour-5" data-name="Study Tour" transform="translate(73.714 25.143)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-36" y="0">Study Tour</tspan></text>
+          </g>
+          <g id="_2y-1-10" data-name="2y-1">
+            <rect id="base-25" data-name="base" width="147" height="42" rx="4" transform="translate(-0.286 -0.571)" fill="#00a597"/>
+            <text id="GE-5" data-name="GE" transform="translate(73.714 25.429)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-8" y="0">GE</tspan></text>
+          </g>
+        </g>
+        <g id="_1y-2-2" data-name="1y-2">
+          <rect id="base-26" data-name="base" width="147" height="177" rx="4" transform="translate(-0.857 -0.571)" fill="#00a597"/>
+          <text id="Silicon_Valley_Study_Tour" data-name="Silicon Valley
+Study Tour" transform="translate(73.143 84.428)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-45" y="0">Silicon Valley</tspan><tspan x="-36" y="18">Study Tour</tspan></text>
+        </g>
+      </g>
+      <rect id="divider-10" data-name="divider" width="1200" height="1" transform="translate(0 516.572)" fill="#5e5e5e"/>
+      <g id="section-2" data-name="section" transform="translate(0 453.429)">
+        <g id="_1y-1" data-name="1y-1" transform="translate(300)">
+          <rect id="base-27" data-name="base" width="147" height="60" rx="4" transform="translate(0 -0.857)" fill="#97999b"/>
+          <text id="Programming_Language" data-name="Programming
+Language" transform="translate(74 25.143)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-48" y="0">Programming</tspan><tspan x="-35" y="18">Language</tspan></text>
+        </g>
+        <g id="_1y-1-2" data-name="1y-1" transform="translate(150)">
+          <rect id="base-28" data-name="base" width="147" height="60" rx="4" transform="translate(0 -0.857)" fill="#97999b"/>
+          <text id="Second_language_2" data-name="Second
+language 2" transform="translate(74 25.143)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-26" y="0">Second</tspan><tspan x="-39" y="18">language 2</tspan></text>
+        </g>
+        <g id="_1y-1-3" data-name="1y-1">
+          <rect id="base-29" data-name="base" width="147" height="60" rx="4" transform="translate(0 -0.857)" fill="#97999b"/>
+          <text id="Second_language_1" data-name="Second
+language 1" transform="translate(74 25.143)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-26" y="0">Second</tspan><tspan x="-37" y="18">language 1</tspan></text>
+        </g>
+      </g>
+      <rect id="divider-11" data-name="divider" width="1200" height="1" transform="translate(0 448.572)" fill="#5e5e5e"/>
+      <g id="section-3" data-name="section" transform="translate(0 42)">
+        <g id="_4y" data-name="4y" transform="translate(901.714 56.429)">
+          <g id="_4y-2" data-name="4y-2" transform="translate(149 -56.571)">
+            <g id="item" transform="translate(0)">
+              <rect id="base-30" data-name="base" width="147" height="60" rx="4" transform="translate(-0.714 -0.285)" fill="#501d83"/>
+              <text id="Capstone_Project" data-name="Capstone 
+Project" transform="translate(73.286 25.714)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-36" y="0">Capstone </tspan><tspan x="-24" y="18">Project</tspan></text>
+            </g>
+          </g>
+          <g id="_4y-1" data-name="4y-1" transform="translate(-1 3.429)">
+            <g id="item-2" data-name="item" transform="translate(0 63)">
+              <rect id="base-31" data-name="base" width="147" height="60" rx="4" transform="translate(-0.714 -0.285)" fill="#72489a"/>
+              <text id="Interdisciplinary" transform="translate(73.286 34.714)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-55" y="0">Interdisciplinary</tspan></text>
+            </g>
+            <g id="item-3" data-name="item" transform="translate(0)">
+              <rect id="base-32" data-name="base" width="147" height="60" rx="4" transform="translate(-0.714 -0.285)" fill="#501d83"/>
+              <text id="Capstone_Seminar_3" data-name="Capstone 
+Seminar 3" transform="translate(73.286 25.714)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-36" y="0">Capstone </tspan><tspan x="-34" y="18">Seminar 3</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="_3y" data-name="3y" transform="translate(601.714 81.429)">
+          <g id="_3y-2" data-name="3y-2" transform="translate(149 3.429)">
+            <g id="item-4" data-name="item" transform="translate(0 125.715)">
+              <rect id="base-33" data-name="base" width="147" height="42" rx="4" transform="translate(-0.714)" fill="#9374b2"/>
+              <text id="Elective" transform="translate(73.286 26)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-26" y="0">Elective</tspan></text>
+            </g>
+            <g id="item-5" data-name="item" transform="translate(0 63)">
+              <rect id="base-34" data-name="base" width="147" height="60" rx="4" transform="translate(-0.714 -0.285)" fill="#72489a"/>
+              <text id="Interdisciplinary-2" data-name="Interdisciplinary" transform="translate(73.286 34.714)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-55" y="0">Interdisciplinary</tspan></text>
+            </g>
+            <g id="item-6" data-name="item" transform="translate(0)">
+              <rect id="base-35" data-name="base" width="147" height="60" rx="4" transform="translate(-0.714 -0.285)" fill="#501d83"/>
+              <text id="Capstone_Seminar_2" data-name="Capstone 
+Seminar 2" transform="translate(73.286 25.714)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-36" y="0">Capstone </tspan><tspan x="-34" y="18">Seminar 2</tspan></text>
+            </g>
+          </g>
+          <g id="_3y-1" data-name="3y-1" transform="translate(-1 66.429)">
+            <g id="item-7" data-name="item" transform="translate(0 107.715)">
+              <rect id="base-36" data-name="base" width="147" height="42" rx="4" transform="translate(-0.714)" fill="#9374b2"/>
+              <text id="Elective-2" data-name="Elective" transform="translate(73.286 26)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-26" y="0">Elective</tspan></text>
+            </g>
+            <g id="item-8" data-name="item" transform="translate(0 62.715)">
+              <rect id="base-37" data-name="base" width="147" height="42" rx="4" transform="translate(-0.714)" fill="#9374b2"/>
+              <text id="Elective-3" data-name="Elective" transform="translate(73.286 26)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-26" y="0">Elective</tspan></text>
+            </g>
+            <g id="item-9" data-name="item" transform="translate(0)">
+              <rect id="base-38" data-name="base" width="147" height="60" rx="4" transform="translate(-0.714 -0.285)" fill="#501d83"/>
+              <text id="Capstone_Seminar_1" data-name="Capstone 
+Seminar 1" transform="translate(73.286 25.714)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-36" y="0">Capstone </tspan><tspan x="-32" y="18">Seminar 1</tspan></text>
+            </g>
+          </g>
+        </g>
+        <g id="_2y" data-name="2y" transform="translate(300.857 162)">
+          <g id="_2y-2-16" data-name="2y-2" transform="translate(150.429 3.571)">
+            <g id="_2y-1-11" data-name="2y-1" transform="translate(-0.428 135.285)">
+              <rect id="base-39" data-name="base" width="147" height="42" rx="4" transform="translate(-0.857 -0.285)" fill="#9374b2"/>
+              <text id="Elective-4" data-name="Elective" transform="translate(73.143 25.715)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-26" y="0">Elective</tspan></text>
+            </g>
+            <g id="_2y-1-12" data-name="2y-1" transform="translate(-0.428 90.285)">
+              <rect id="base-40" data-name="base" width="147" height="42" rx="4" transform="translate(-0.857 -0.285)" fill="#9374b2"/>
+              <text id="Elective-5" data-name="Elective" transform="translate(73.143 25.715)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-26" y="0">Elective</tspan></text>
+            </g>
+            <g id="_2y-1-13" data-name="2y-1" transform="translate(-0.428 45.285)">
+              <rect id="base-41" data-name="base" width="147" height="42" rx="4" transform="translate(-0.857 -0.285)" fill="#9374b2"/>
+              <text id="Required" transform="translate(73.143 25.715)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-31" y="0">Required</tspan></text>
+            </g>
+            <g id="_2y-1-14" data-name="2y-1" transform="translate(-0.428 0.285)">
+              <rect id="base-42" data-name="base" width="147" height="42" rx="4" transform="translate(-0.857 -0.285)" fill="#9374b2"/>
+              <text id="Required-2" data-name="Required" transform="translate(73.143 25.715)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-31" y="0">Required</tspan></text>
+            </g>
+          </g>
+          <g id="_2y-1-15" data-name="2y-1" transform="translate(0 138.857)">
+            <rect id="base-43" data-name="base" width="147" height="42" rx="4" transform="translate(-0.857 -0.285)" fill="#9374b2"/>
+            <text id="Required-3" data-name="Required" transform="translate(73.143 25.715)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-31" y="0">Required</tspan></text>
+          </g>
+        </g>
+        <g id="_1y" data-name="1y" transform="translate(0 343.714)">
+          <g id="_1y-2-3" data-name="1y-2" transform="translate(150)">
+            <rect id="base-44" data-name="base" width="147" height="60" rx="4" transform="translate(0 -0.143)" fill="#b6a0cb"/>
+            <text id="Innovation_Foundations" data-name="Innovation
+Foundations" transform="translate(74 25.857)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-37" y="0">Innovation</tspan><tspan x="-43" y="18">Foundations</tspan></text>
+          </g>
+          <g id="_1y-1-4" data-name="1y-1">
+            <rect id="base-45" data-name="base" width="147" height="60" rx="4" transform="translate(0 -0.143)" fill="#b6a0cb"/>
+            <text id="Innovation_Foundations-2" data-name="Innovation
+Foundations" transform="translate(74 25.857)" fill="#fff" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="-37" y="0">Innovation</tspan><tspan x="-43" y="18">Foundations</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g id="contury">
+        <g id="arrow" transform="translate(0 0)">
+          <rect id="arrow-2" data-name="arrow" width="1200" height="1" transform="translate(0 2.571)" fill="#1f1f1f"/>
+          <path id="arrow-3" data-name="arrow" d="M0,0,7,4,0,8Z" transform="translate(1048.571 -1.429)" fill="#1f1f1f"/>
+          <path id="arrow-4" data-name="arrow" d="M0,0,7,4,0,8Z" transform="translate(897.571 -1.429)" fill="#1f1f1f"/>
+          <path id="arrow-5" data-name="arrow" d="M0,0,7,4,0,8Z" transform="translate(747.571 -1.429)" fill="#1f1f1f"/>
+          <path id="arrow-6" data-name="arrow" d="M0,0,7,4,0,8Z" transform="translate(596.571 -1.429)" fill="#1f1f1f"/>
+          <path id="arrow-7" data-name="arrow" d="M0,0,7,4,0,8Z" transform="translate(446.571 -1.429)" fill="#1f1f1f"/>
+          <circle id="oval" cx="3.5" cy="3.5" r="3.5" transform="translate(1193 -0.429)" fill="#1f1f1f"/>
+        </g>
+      </g>
+    </g>
+    <g id="contury-2" data-name="contury" transform="translate(459.958 1891)">
+      <text id="Seoul" transform="translate(23.042 18)" fill="#1f1f1f" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-22" y="0">Seoul</tspan></text>
+      <text id="Tokyo" transform="translate(322.042 18)" fill="#1f1f1f" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-24" y="0">Tokyo</tspan></text>
+      <text id="New_York" data-name="New York" transform="translate(473.042 18)" fill="#1f1f1f" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-37" y="0">New York</tspan></text>
+      <text id="Hong_Kong" data-name="Hong Kong" transform="translate(624.042 18)" fill="#1f1f1f" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-44" y="0">Hong Kong</tspan></text>
+      <text id="Seoul-2" data-name="Seoul" transform="translate(926.042 18)" fill="#1f1f1f" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-22" y="0">Seoul</tspan></text>
+      <text id="Moscow" transform="translate(775.213 18)" fill="#1f1f1f" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-33" y="0">Moscow</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg id="icon_40_arrow_right" data-name="icon/40/arrow_right" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <rect id="box" width="40" height="40" fill="none"/>
+  <g id="icon" transform="translate(5 5)">
+    <path id="패스_44" data-name="패스 44" d="M8,20H36.75" transform="translate(-8 -5)" fill="none" stroke="#00a497" stroke-linecap="square" stroke-linejoin="round" stroke-width="2"/>
+    <path id="패스_45" data-name="패스 45" d="M20,8,35,23,20,38" transform="translate(-5 -8)" fill="none" stroke="#00a497" stroke-linecap="square" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

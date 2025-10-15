@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350.001" height="382" viewBox="0 0 350.001 382">
+  <g id="diagram_triangle" data-name="diagram/triangle" transform="translate(-19.999 -1615)">
+    <g id="career" transform="translate(-755 -2782)">
+      <path id="line" d="M0,0H24" transform="translate(950.5 4695) rotate(90)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1.5" stroke-dasharray="3 6"/>
+      <rect id="base" width="220" height="60" rx="8" transform="translate(840 4719)" fill="#1f1f1f"/>
+      <text id="Career_Development" data-name="Career Development" transform="translate(950 4755)" fill="#fff" font-size="16" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-84" y="0">Career Development</tspan></text>
+    </g>
+    <g id="triangle" transform="translate(-20.002 197)">
+      <path id="path" d="M128.909,0,0,223.339l45.521,74.646.025.014L220,0Z" transform="translate(40 1418)" fill="#501d83"/>
+      <path id="패스_30692" data-name="패스 30692" d="M.005,186.463l45.675,74H304.309l45.692-74Z" transform="translate(40.001 1455.537)" fill="#707070"/>
+      <path id="패스_30693" data-name="패스 30693" d="M114.365,0,288.819,298l45.545-74.66L205.457,0Z" transform="translate(55.636 1418)" fill="#00a597"/>
+    </g>
+    <text id="Leadership_Career_Center_" data-name="Leadership 
+&amp; Career
+Center " transform="translate(87.365 1739)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Leadership </tspan><tspan x="0" y="18">&amp; Career</tspan><tspan x="0" y="36">Center </tspan></text>
+    <text id="Wellness_Center" data-name="Wellness
+Center" transform="translate(302.365 1748)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-62" y="0">Wellness</tspan><tspan x="-48" y="18">Center</tspan></text>
+    <text id="Social_Value_Center" data-name="Social Value
+Center" transform="translate(195 1873)" fill="#fff" font-size="14" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-42" y="0">Social Value</tspan><tspan x="-24" y="18">Center</tspan></text>
+    <text id="SSL" transform="translate(195 1765.358)" fill="#1f1f1f" font-size="24" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-20" y="0">SSL</tspan></text>
+    <text id="Student_Success_Institute" data-name="Student
+Success
+Institute" transform="translate(195 1787.358)" fill="#666" font-size="13" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-26" y="0">Student</tspan><tspan x="-27" y="16">Success</tspan><tspan x="-27" y="32">Institute</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="804" viewBox="0 0 350 804">
+  <g id="img_logo_detail" data-name="img/logo/detail" transform="translate(0 415)">
+    <g id="box" transform="translate(0 -415)" fill="none" stroke="#dbdbdb" stroke-width="1">
+      <rect width="350" height="804" stroke="none"/>
+      <rect x="0.5" y="0.5" width="349" height="803" fill="none"/>
+    </g>
+    <g id="img_logo_symbol" data-name="img/logo/symbol" transform="translate(40 -144)">
+      <rect id="사각형_2503" data-name="사각형 2503" width="67.5" height="67.5" fill="#00a497"/>
+      <g id="그룹_3307" data-name="그룹 3307" transform="translate(67.5 0.001)">
+        <path id="패스_29297" data-name="패스 29297" d="M227.111,180.578l-67.5,67.5v135h67.5v-135h67.5v-67.5Z" transform="translate(-159.611 -180.578)" fill="#501d83"/>
+        <path id="패스_29298" data-name="패스 29298" d="M357.772,243.739h-67.5v135h-67.5v66.294a118.164,118.164,0,0,0,135-116.862Z" transform="translate(-155.272 -176.239)" fill="#501d83"/>
+      </g>
+    </g>
+    <g id="j_txt" transform="translate(-192 240)">
+      <g id="txt" transform="translate(-89 8)">
+        <text id="Taejae_University_CI_is_a_registered_trademark_and_unauthorized_commercial_use_violates_trademark_rights." data-name="Taejae University CI is a registered trademark, and unauthorized commercial use violates trademark rights." transform="translate(311 6)" fill="#1f1f1f" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-271" y="17">Taejae University CI is a registered </tspan><tspan x="-233" y="41">trademark, and unauthorized </tspan><tspan x="-195" y="65">commercial use violates </tspan><tspan x="-136" y="89">trademark rights.</tspan></text>
+      </g>
+      <text id="齋" transform="translate(430 -20)" fill="#1f1f1f" font-size="72" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">齋</tspan></text>
+    </g>
+    <g id="t_txt" transform="translate(26 -277)">
+      <g id="txt-2" data-name="txt" transform="translate(16 8)">
+        <text id="Taejae_University_CI_is_a_registered_trademark_and_unauthorized_commercial_use_violates_trademark_rights.-2" data-name="Taejae University CI is a registered trademark, and unauthorized commercial use violates trademark rights." transform="translate(-2 6)" fill="#1f1f1f" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="0" y="17">Taejae University CI is a registered </tspan><tspan x="0" y="41">trademark, and unauthorized </tspan><tspan x="0" y="65">commercial use violates </tspan><tspan x="0" y="89">trademark rights.</tspan></text>
+      </g>
+      <text id="泰" transform="translate(14 -20)" fill="#1f1f1f" font-size="72" font-family="YuGothicUI-Regular, Yu Gothic UI"><tspan x="0" y="0">泰</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,5 @@
+<svg id="email" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="box" width="24" height="24" fill="#fff" opacity="0"/>
+  <path id="패스_180" data-name="패스 180" d="M970,419v-9a2,2,0,0,0-2-2H950a2,2,0,0,0-2,2v11a2,2,0,0,0,2,2h16" transform="translate(-947 -403)" fill="none" stroke="#fff" stroke-linecap="square" stroke-linejoin="round" stroke-width="1.5"/>
+  <path id="패스_181" data-name="패스 181" d="M949,409l10.5,7,9.5-7" transform="translate(-947 -403)" fill="none" stroke="#fff" stroke-width="1.5"/>
+</svg>

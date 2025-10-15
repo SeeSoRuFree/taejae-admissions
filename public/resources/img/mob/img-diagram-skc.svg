@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="776.999" height="566" viewBox="0 0 776.999 566">
+  <g id="img_diagram_skc" data-name="img/diagram/skc" transform="translate(-484.016 -3254.551)">
+    <g id="img_diagram_skc-2" data-name="img/diagram/skc" transform="translate(587.717 3254.702)">
+      <g id="line_polygon" data-name="line/polygon" transform="translate(60.3 485.849) rotate(-90)" fill="none">
+        <path d="M306,0,408,205.5,306,411H102L0,205.5,102,0Z" stroke="none"/>
+        <path d="M 102.6201171875 1 L 1.11639404296875 205.5 L 102.6200561523438 410 L 305.3799438476562 410 L 406.8836059570312 205.5 L 305.3799438476562 1 L 102.6201171875 1 M 102.0000610351562 0 L 306 0 L 408 205.5 L 306 411 L 102 411 L 0 205.5 L 102.0000610351562 0 Z" stroke="none" fill="#dbdbdb"/>
+      </g>
+      <path id="line_dash" data-name="line/dash" d="M34.152,0H0" transform="translate(265.3 154.997) rotate(-90)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1.5" stroke-dasharray="3 6"/>
+      <path id="line_dash-2" data-name="line/dash" d="M93.608,0H0" transform="translate(389.409 227.899) rotate(-30)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1.5" stroke-dasharray="3 6"/>
+      <path id="line_dash-3" data-name="line/dash" d="M93.608,0H0" transform="translate(60.386 181.095) rotate(30)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1.5" stroke-dasharray="3 6"/>
+      <path id="line_dash-4" data-name="line/dash" d="M34.152,0H0" transform="translate(265.837 410.7) rotate(90)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1.5" stroke-dasharray="3 6"/>
+      <path id="line_dash-5" data-name="line/dash" d="M93.608,0H0" transform="translate(389.409 337.799) rotate(30)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1.5" stroke-dasharray="3 6"/>
+      <path id="line_dash-6" data-name="line/dash" d="M93.608,0H0" transform="translate(60.387 384.603) rotate(-30)" fill="none" stroke="#999" stroke-linecap="round" stroke-width="1.5" stroke-dasharray="3 6"/>
+      <g id="loop" transform="translate(134.821 152.37)">
+        <path id="img_loop_ilc" data-name="img/loop/ilc" d="M92.515,0H157c-50.55,0-91.529,55.294-91.529,123.5S106.451,247,157,247H92.515C41.42,247,0,191.709,0,123.5S41.42,0,92.515,0" transform="translate(254.48 8.479) rotate(90)" fill="#00a597" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+        <path id="빼기_20" data-name="빼기 20" d="M-4168.02,13779.479a159.187,159.187,0,0,1-47.266-7.018,141.4,141.4,0,0,1-20.707-8.244,124.961,124.961,0,0,1-18.129-10.931,106.938,106.938,0,0,1-15.083-13.266,90.291,90.291,0,0,1-11.565-15.248,77.488,77.488,0,0,1-7.578-16.88,71.056,71.056,0,0,1-3.121-18.157,71.494,71.494,0,0,1,9.3-32.257c19.191,34.338,64,56.526,114.15,56.526,32.988,0,64-9.521,87.327-26.809s36.172-40.272,36.172-64.72v64.484a70.793,70.793,0,0,1-2.509,18.646,76.334,76.334,0,0,1-7.2,17.367,88.731,88.731,0,0,1-11.387,15.715,105.443,105.443,0,0,1-15.081,13.692,123.72,123.72,0,0,1-18.277,11.3,140.646,140.646,0,0,1-20.978,8.53A158.936,158.936,0,0,1-4168.02,13779.479Zm-123.5-152.012h0v-4.724c0,.811.021,1.644.055,2.477C-4291.5,13625.963-4291.514,13626.719-4291.52,13627.467Z" transform="translate(4298.999 -13527)" fill="#501d83" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="txt">
+      <g id="item" transform="translate(692.716 3699.702)">
+        <text id="Use_intercultural_competence_and_empathy_to_promote_social_justice_and_shared_prosperity" data-name="Use intercultural competence and empathy to promote social justice and shared prosperity" transform="translate(227.3 33.849)" fill="#666" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="13">Use intercultural competence </tspan><tspan x="0" y="31">and empathy to promote social </tspan><tspan x="0" y="49">justice and shared prosperity</tspan></text>
+        <g id="oval" transform="translate(-106.999)">
+          <circle id="oval-2" data-name="oval" cx="60.5" cy="60.5" r="60.5" transform="translate(326.299 -0.151) rotate(90)" fill="#501d83"/>
+          <text id="Diversity_and_Empathy" data-name="Diversity and
+Empathy" transform="translate(266.299 54.849)" fill="#fff" font-size="13" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-43" y="0">Diversity and</tspan><tspan x="-29" y="20">Empathy</tspan></text>
+        </g>
+      </g>
+      <g id="item-2" data-name="item" transform="translate(899.716 3578.702)">
+        <text id="Apply_scientific_concepts_to_our_shared_global_sustainability_challenges" data-name="Apply scientific concepts to our shared global sustainability challenges" transform="translate(227.3 15.849)" fill="#666" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="13">Apply scientific </tspan><tspan x="0" y="31">concepts to our </tspan><tspan x="0" y="49">shared global </tspan><tspan x="0" y="67">sustainability </tspan><tspan x="0" y="85">challenges</tspan></text>
+        <g id="oval-3" data-name="oval" transform="translate(-106.999)">
+          <circle id="oval-4" data-name="oval" cx="60.5" cy="60.5" r="60.5" transform="translate(326.299 -0.151) rotate(90)" fill="#501d83"/>
+          <text id="Global_Harmony_and_Sustainability" data-name="Global Harmony
+and
+Sustainability" transform="translate(266.299 44.849)" fill="#fff" font-size="13" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-53" y="0">Global Harmony</tspan><tspan x="-13" y="20">and</tspan><tspan x="-45" y="40">Sustainability</tspan></text>
+        </g>
+      </g>
+      <g id="item-3" data-name="item" transform="translate(385.717 3578.702)">
+        <g id="oval-5" data-name="oval" transform="translate(-3.999)">
+          <circle id="oval-6" data-name="oval" cx="60.5" cy="60.5" r="60.5" transform="translate(326.299 -0.151) rotate(90)" fill="#501d83"/>
+          <text id="Communication_and_Collaboration" data-name="Communication
+and
+Collaboration" transform="translate(266.299 44.849)" fill="#fff" font-size="13" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-54" y="0">Communication</tspan><tspan x="-13" y="20">and</tspan><tspan x="-45" y="40">Collaboration</tspan></text>
+        </g>
+        <text id="Communicate_Clearly_and_collaborate_effectively" data-name="Communicate Clearly and collaborate effectively" transform="translate(98.3 24.849)" fill="#666" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="-87" y="13">Communicate </tspan><tspan x="-68" y="31">Clearly and </tspan><tspan x="-69" y="49">collaborate </tspan><tspan x="-61" y="67">effectively</tspan></text>
+      </g>
+      <g id="item-4" data-name="item" transform="translate(385.717 3375.702)">
+        <g id="oval-7" data-name="oval" transform="translate(-3.999)">
+          <circle id="oval-8" data-name="oval" cx="60.5" cy="60.5" r="60.5" transform="translate(326.299 -0.151) rotate(90)" fill="#00a597"/>
+          <text id="Critical_Thinking" data-name="Critical
+Thinking" transform="translate(266.299 54.849)" fill="#fff" font-size="13" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-23" y="0">Critical</tspan><tspan x="-28" y="20">Thinking</tspan></text>
+        </g>
+        <text id="Think_Critically_reason_logically" data-name="Think Critically, 
+reason logically" transform="translate(98.3 42.849)" fill="#666" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="-87" y="13">Think Critically, </tspan><tspan x="-94" y="31">reason logically</tspan></text>
+      </g>
+      <g id="item-5" data-name="item" transform="translate(899.716 3375.702)">
+        <text id="Create_self-directed_learning_goals_and_independent_learning_strategies" data-name="Create self-directed learning goals and independent learning strategies" transform="translate(227.3 24.849)" fill="#666" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="13">Create self-directed </tspan><tspan x="0" y="31">learning goals and </tspan><tspan x="0" y="49">independent learning </tspan><tspan x="0" y="67">strategies</tspan></text>
+        <g id="oval-9" data-name="oval" transform="translate(-106.999)">
+          <circle id="oval-10" data-name="oval" cx="60.5" cy="60.5" r="60.5" transform="translate(326.299 -0.151) rotate(90)" fill="#00a597"/>
+          <text id="Self-Directed_Learning" data-name="Self-Directed
+Learning" transform="translate(266.299 54.849)" fill="#fff" font-size="13" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-43" y="0">Self-Directed</tspan><tspan x="-28" y="20">Learning</tspan></text>
+        </g>
+      </g>
+      <g id="item-6" data-name="item" transform="translate(589.717 3254.702)">
+        <g id="oval-11" data-name="oval" transform="translate(-3.999)">
+          <circle id="oval-12" data-name="oval" cx="60.5" cy="60.5" r="60.5" transform="translate(326.299 -0.151) rotate(90)" fill="#00a597"/>
+          <text id="Creative_Thinking" data-name="Creative
+Thinking" transform="translate(266.299 54.849)" fill="#fff" font-size="13" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-28" y="0">Creative</tspan><tspan x="-28" y="20">Thinking</tspan></text>
+        </g>
+        <text id="Think_creatively_to_solve_complex_problems_and_make_sound_decisions" data-name="Think creatively to solve complex problems and make sound decisions" transform="translate(51.3 33.849)" fill="#666" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="-141" y="13">Think creatively to solve </tspan><tspan x="-139" y="31">complex problems and </tspan><tspan x="-133" y="49">make sound decisions</tspan></text>
+      </g>
+      <g id="title" transform="translate(587.717 3254.702)">
+        <text id="Individual_Level_Competencies" data-name="Individual Level
+Competencies" transform="translate(265.3 193.849)" fill="#fff" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-54" y="0">Individual Level</tspan><tspan x="-52" y="20">Competencies</tspan></text>
+        <text id="Social_Level_Competencies" data-name="Social Level
+Competencies" transform="translate(265.3 362.849)" fill="#fff" font-size="14" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-41" y="0">Social Level</tspan><tspan x="-52" y="20">Competencies</tspan></text>
+        <text id="Six_Core_Competencies" data-name="Six Core
+Competencies" transform="translate(266.3 276.849)" fill="#1f1f1f" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-37" y="0">Six Core</tspan><tspan x="-67" y="26">Competencies</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
