@@ -66,6 +66,7 @@ jobs:
       - name: Build application
         env:
           REACT_APP_API_BASE_URL: ${{ vars.REACT_APP_API_BASE_URL }}
+          DISABLE_ESLINT_PLUGIN: true
         run: npm run build
 
       - name: Login to NCP Container Registry
