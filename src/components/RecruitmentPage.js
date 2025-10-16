@@ -42,9 +42,9 @@ const RecruitmentPage = ({ onNavigate }) => {
               <div className="pdf_viewer_wrap">
                 <div className="pdf_viewer">
                   <iframe
-                    src={`${document.pdfUrl}#toolbar=1&navpanes=1&scrollbar=1`}
+                    src={`${document.pdfUrl}#toolbar=1&navpanes=1&scrollbar=1&zoom=75`}
                     width="100%"
-                    height="600"
+                    height="900"
                     frameBorder="0"
                     title={document.title}
                   >

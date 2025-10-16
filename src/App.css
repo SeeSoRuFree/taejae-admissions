@@ -1821,7 +1821,7 @@ body.admissions-gateway * {
 }
 
 .guide_temp .list:first-child .inner {
-  border-top: 4px solid #1F1F1F;
+  border-top: none;
 }
 
 .guide_temp .list.type2 {
@@ -11516,13 +11516,13 @@ body .container .section.wide.adm_prcs .prcs_list li p {
 
 /* 말풍선 인터뷰 섹션 */
 .interview_bubbles_section {
-  margin-bottom: 100px;
+  margin-bottom: 120px;
 }
 
 .speech_bubbles {
   display: flex;
   flex-direction: column;
-  gap: 40px;
+  gap: 50px;
   max-width: 1100px;
   margin: 0 auto;
 }
@@ -11540,15 +11540,15 @@ body .container .section.wide.adm_prcs .prcs_list li p {
 .bubble_content {
   position: relative;
   background: white;
-  padding: 25px 30px;
+  padding: 30px 35px;
   box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
   max-width: 70%;
   position: relative;
 }
 
 .bubble_quote {
-  font-size: 16px;
-  line-height: 1.7;
+  font-size: 18px;
+  line-height: 1.8;
   color: #333;
   position: relative;
   font-style: italic;
@@ -11602,7 +11602,7 @@ body .container .section.wide.adm_prcs .prcs_list li p {
 
 /* 타임라인 메시지 섹션 */
 .message_timeline_section {
-  margin-bottom: 0;
+  margin-bottom: 60px;
 }
 
 .timeline_messages {
@@ -11676,7 +11676,7 @@ body .container .section.wide.adm_prcs .prcs_list li p {
 
 .message_bubble {
   background: white;
-  padding: 25px;
+  padding: 30px;
   border-radius: 20px;
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
   position: relative;
@@ -11708,8 +11708,8 @@ body .container .section.wide.adm_prcs .prcs_list li p {
 }
 
 .message_text {
-  font-size: 15px;
-  line-height: 1.7;
+  font-size: 17px;
+  line-height: 1.8;
   color: #333;
   position: relative;
 }
@@ -17035,7 +17035,7 @@ body .container .section.wide.adm_prcs .prcs_list li p {
 
 /* Guide Template Sections */
 .guide_temp {
-  margin: 60px 0;
+  margin: 0;
   padding: 0;
 }
 
@@ -17323,7 +17323,7 @@ body .container .section.wide.adm_prcs .prcs_list li p {
 
 @media screen and (max-width: 768px) {
   .guide_temp {
-    margin: 40px 0;
+    margin: 0;
   }
   
   .guide_temp .inner {
@@ -20109,14 +20109,14 @@ body .container .section.wide.adm_prcs .prcs_list li p {
 
 .guide_temp.interview_types_unified .content_section h5 {
   color: #501D83;
-  font-size: 0.95rem;
+  font-size: 1.1rem;
   font-weight: 600;
   margin: 0 0 8px 0;
 }
 
 .guide_temp.interview_types_unified .content_section p {
   color: #4a5568;
-  font-size: 0.9rem;
+  font-size: 1rem;
   line-height: 1.6;
   margin: 0;
 }
@@ -20132,7 +20132,7 @@ body .container .section.wide.adm_prcs .prcs_list li p {
   padding-left: 16px;
   position: relative;
   color: #4a5568;
-  font-size: 0.9rem;
+  font-size: 1rem;
   line-height: 1.5;
 }
 
