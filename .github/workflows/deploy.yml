@@ -1,0 +1,211 @@
+name: Deploy to NCP
+
+on:
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: 'Deploy Environment'
+        required: true
+        default: 'dev'
+        type: choice
+        options:
+          - dev
+          - prod
+      description:
+        description: 'Deploy Description'
+        required: false
+        type: string
+
+  push:
+    branches:
+      - release/dev
+      - release/prod
+
+env:
+  NODE_VERSION: '22.18.0'
+  DOCKER_BUILDKIT: 1
+
+jobs:
+  deploy:
+    if: github.event_name == 'workflow_dispatch' || github.event_name == 'push'
+    runs-on: self-hosted
+    environment: ${{ github.event_name == 'workflow_dispatch' && inputs.environment || (contains(github.ref, 'release/dev') && 'dev' || 'prod') }}
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set environment variables
+        run: |
+          # Determine environment name
+          ENVIRONMENT="${{ github.event_name == 'workflow_dispatch' && inputs.environment || (contains(github.ref, 'release/dev') && 'dev' || 'prod') }}"
+          echo "ENVIRONMENT=$ENVIRONMENT" >> $GITHUB_ENV
+          echo "IMAGE_TAG=$ENVIRONMENT-${{ github.sha }}" >> $GITHUB_ENV
+
+      - name: Debug Environment Variables
+        run: |
+          echo "========== DEBUG INFO =========="
+          echo "Environment: ${{ github.environment }}"
+          echo "ENVIRONMENT (from env): ${{ env.ENVIRONMENT }}"
+          echo "WEB_HOST_1: ${{ vars.WEB_HOST_1 }}"
+          echo "WEB_HOST_2: ${{ vars.WEB_HOST_2 }}"
+          echo "WEB_HOST (dev): ${{ vars.WEB_HOST }}"
+          echo "WEB_USER: ${{ vars.WEB_USER }}"
+          echo "NCP_REGISTRY: ${{ vars.NCP_REGISTRY }}"
+          echo "==============================="
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run tests
+        run: npm run test --if-present
+
+      - name: Build application
+        env:
+          REACT_APP_API_BASE_URL: ${{ vars.REACT_APP_API_BASE_URL }}
+        run: npm run build
+
+      - name: Login to NCP Container Registry
+        run: |
+          echo "${{ secrets.NCP_SECRET_KEY }}" | sudo docker login \
+            ${{ vars.NCP_REGISTRY }} \
+            -u "${{ secrets.NCP_ACCESS_KEY }}" \
+            --password-stdin
+
+      - name: Build Docker image
+        run: |
+          sudo docker build \
+            --build-arg NODE_ENV=${{ env.ENVIRONMENT }} \
+            --build-arg REACT_APP_API_BASE_URL=${{ vars.REACT_APP_API_BASE_URL }} \
+            --build-arg BUILD_DATE=$(date -u +'%Y-%m-%dT%H:%M:%SZ') \
+            --build-arg VCS_REF=${{ github.sha }} \
+            --build-arg VERSION=${{ env.IMAGE_TAG }} \
+            -t ${{ vars.NCP_REGISTRY }}/taejae-admissions:${{ env.IMAGE_TAG }} \
+            -t ${{ vars.NCP_REGISTRY }}/taejae-admissions:latest-${{ env.ENVIRONMENT }} \
+            .
+
+      - name: Push Docker image
+        run: |
+          sudo docker push ${{ vars.NCP_REGISTRY }}/taejae-admissions:${{ env.IMAGE_TAG }}
+          sudo docker push ${{ vars.NCP_REGISTRY }}/taejae-admissions:latest-${{ env.ENVIRONMENT }}
+
+      - name: Deploy Container to Web Servers
+        env:
+          NCP_SECRET_KEY: ${{ secrets.NCP_SECRET_KEY }}
+          NCP_ACCESS_KEY: ${{ secrets.NCP_ACCESS_KEY }}
+        run: |
+          container_name="taejae-admissions-${{ env.ENVIRONMENT }}"
+          echo "Deploying container: $container_name"
+
+          # Define deployment function
+          deploy_to_server() {
+            local server_host=$1
+            local server_name=$2
+
+            echo "=========================================="
+            echo "Deploying to $server_name ($server_host)"
+            echo "=========================================="
+
+            # Encode complex secrets to base64 for safe transmission
+            NCP_SECRET_B64=$(echo -n "$NCP_SECRET_KEY" | base64 -w 0)
+
+            # Create env file for deployment (without heredoc to avoid YAML conflicts)
+            echo "export ENVIRONMENT=${{ env.ENVIRONMENT }}" > /tmp/deploy.env
+            echo "export IMAGE_TAG=${{ env.IMAGE_TAG }}" >> /tmp/deploy.env
+            echo "export NCP_REGISTRY=${{ vars.NCP_REGISTRY }}" >> /tmp/deploy.env
+            echo "export CONTAINER_PORT=3100" >> /tmp/deploy.env
+            echo "export CONTAINER_MEMORY_LIMIT=${{ vars.CONTAINER_MEMORY_LIMIT }}" >> /tmp/deploy.env
+            echo "export CONTAINER_MEMORY_SWAP=${{ vars.CONTAINER_MEMORY_SWAP }}" >> /tmp/deploy.env
+            echo "export LOG_MAX_SIZE=${{ vars.LOG_MAX_SIZE }}" >> /tmp/deploy.env
+            echo "export LOG_MAX_FILE=${{ vars.LOG_MAX_FILE }}" >> /tmp/deploy.env
+            echo "export REACT_APP_API_BASE_URL=${{ vars.REACT_APP_API_BASE_URL }}" >> /tmp/deploy.env
+            echo "export GIT_COMMIT=${{ github.sha }}" >> /tmp/deploy.env
+            echo "export NCP_SECRET_B64=$NCP_SECRET_B64" >> /tmp/deploy.env
+            echo "export NCP_ACCESS_KEY=$NCP_ACCESS_KEY" >> /tmp/deploy.env
+
+            # Upload files
+            scp scripts/deploy-to-server.sh ${{ vars.WEB_USER }}@$server_host:/tmp/deploy-to-server.sh
+            scp /tmp/deploy.env ${{ vars.WEB_USER }}@$server_host:/tmp/deploy.env
+
+            # Execute deployment
+            ssh ${{ vars.WEB_USER }}@$server_host 'source /tmp/deploy.env && bash /tmp/deploy-to-server.sh && rm /tmp/deploy.env'
+          }
+
+          # Deploy based on environment
+          if [ "${{ env.ENVIRONMENT }}" == "prod" ]; then
+            # Deploy to both production servers
+            deploy_to_server "${{ vars.WEB_HOST_1 }}" "Production Server 1"
+            deploy_to_server "${{ vars.WEB_HOST_2 }}" "Production Server 2"
+          else
+            # Deploy to single dev server
+            deploy_to_server "${{ vars.WEB_HOST }}" "Development Server"
+          fi
+
+      - name: Verify Deployment on Web Servers
+        run: |
+          container_name="taejae-admissions-${{ env.ENVIRONMENT }}"
+          echo "Verifying deployments..."
+
+          # Define verification function
+          verify_server() {
+            local server_host=$1
+            local server_name=$2
+
+            echo "=========================================="
+            echo "Verifying $server_name ($server_host)"
+            echo "=========================================="
+
+            # Create env file for verification (without heredoc to avoid YAML conflicts)
+            echo "export ENVIRONMENT=${{ env.ENVIRONMENT }}" > /tmp/verify.env
+            echo "export CONTAINER_PORT=3100" >> /tmp/verify.env
+
+            # Upload files
+            scp scripts/verify-deployment.sh ${{ vars.WEB_USER }}@$server_host:/tmp/verify-deployment.sh
+            scp /tmp/verify.env ${{ vars.WEB_USER }}@$server_host:/tmp/verify.env
+
+            # Execute verification
+            ssh ${{ vars.WEB_USER }}@$server_host 'source /tmp/verify.env && bash /tmp/verify-deployment.sh && rm /tmp/verify.env'
+          }
+
+          # Verify based on environment
+          if [ "${{ env.ENVIRONMENT }}" == "prod" ]; then
+            # Verify both production servers
+            verify_server "${{ vars.WEB_HOST_1 }}" "Production Server 1"
+            verify_server "${{ vars.WEB_HOST_2 }}" "Production Server 2"
+          else
+            # Verify single dev server
+            verify_server "${{ vars.WEB_HOST }}" "Development Server"
+          fi
+
+      - name: Cleanup Old Images
+        run: |
+          echo "Cleaning up dangling Docker images..."
+          sudo docker image prune -f
+
+      - name: Deployment Summary
+        run: |
+          echo "🚀 ===== DEPLOYMENT SUMMARY ====="
+          echo "Project: Taejae Admissions"
+          echo "Environment: ${{ env.ENVIRONMENT }}"
+          echo "Registry: ${{ vars.NCP_REGISTRY }}"
+          echo "Image Tag: ${{ env.IMAGE_TAG }}"
+          echo "Container Port: 3100"
+          echo "Memory Allocation: ${{ vars.CONTAINER_MEMORY_LIMIT }}"
+          if [ "${{ env.ENVIRONMENT }}" == "prod" ]; then
+            echo "Web Servers:"
+            echo "  - Server 1: ${{ vars.WEB_HOST_1 }}"
+            echo "  - Server 2: ${{ vars.WEB_HOST_2 }}"
+          else
+            echo "Web Server: ${{ vars.WEB_HOST }}"
+          fi
+          echo "API URL: ${{ vars.REACT_APP_API_BASE_URL }}"
+          echo "Description: ${{ github.event.inputs.description || 'Auto deployment from branch push' }}"
+          echo "Commit SHA: ${{ github.sha }}"
+          echo "Deploy Time: $(date '+%Y-%m-%d %H:%M:%S')"
+          echo "================================"
