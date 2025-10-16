@@ -76,7 +76,7 @@ jobs:
             --password-stdin
 
       - name: Build Docker image
-        run: sudo docker build --build-arg NODE_ENV=${{ env.ENVIRONMENT }} --build-arg REACT_APP_API_BASE_URL=${{ vars.REACT_APP_API_BASE_URL }} --build-arg BUILD_DATE=$(date -u +'%Y-%m-%dT%H:%M:%SZ') --build-arg VCS_REF=${{ github.sha }} --build-arg VERSION=${{ env.IMAGE_TAG }} -t ${{ vars.NCP_REGISTRY }}/taejae-admissions:${{ env.IMAGE_TAG }} -t ${{ vars.NCP_REGISTRY }}/taejae-admissions:latest-${{ env.ENVIRONMENT }} .
+        run: sudo docker buildx build --load --build-arg NODE_ENV=${{ env.ENVIRONMENT }} --build-arg REACT_APP_API_BASE_URL=${{ vars.REACT_APP_API_BASE_URL }} --build-arg BUILD_DATE=$(date -u +'%Y-%m-%dT%H:%M:%SZ') --build-arg VCS_REF=${{ github.sha }} --build-arg VERSION=${{ env.IMAGE_TAG }} -t ${{ vars.NCP_REGISTRY }}/taejae-admissions:${{ env.IMAGE_TAG }} -t ${{ vars.NCP_REGISTRY }}/taejae-admissions:latest-${{ env.ENVIRONMENT }} .
 
       - name: Push Docker image
         run: |
