@@ -99,7 +99,7 @@ const StudentMessagePage = ({ onNavigate }) => {
           <div className="welcome_video_section">
             <h3>환영 메시지 영상</h3>
             <div className="video_wrapper" style={{ textAlign: 'center', marginBottom: '60px' }}>
-              <div style={{ position: 'relative', display: 'inline-block', maxWidth: '800px', width: '100%' }}>
+              <div style={{ position: 'relative', display: 'block', width: '100%' }}>
                 <video
                   ref={videoRef}
                   src="/images/student-message-1.mp4"

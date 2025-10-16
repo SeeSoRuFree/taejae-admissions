@@ -33,7 +33,7 @@ const EventsContactsPage = ({ onNavigate }) => {
       description: '캠퍼스를 직접 방문하여 체험하는 종합 프로그램',
       details: '캠퍼스 투어, 기숙사 견학, 전형 안내, Q&A까지 알찬 현장 체험',
       image: '/images/5-2.png',
-      theme: 'teal',
+      theme: 'green',
       color: '#00A597',
       borderColor: '#00A597',
       fields: ['name', 'school', 'participantType', 'email', 'phone', 'participants', 'preferredDates']
@@ -368,37 +368,97 @@ const EventsContactsPage = ({ onNavigate }) => {
             </p>
           </div>
           
-          <div className="step_cont">
-            <ul>
-              {events.map((event) => (
-                <li key={event.id}>
-                  <div 
-                    className="cont" 
-                    style={{ 
-                      '--border-color': event.borderColor,
-                      '--event-color': event.color 
-                    }}
-                  >
-                    <div className="event-image">
-                      <img src={event.image} alt={event.title} />
-                    </div>
-                    <div className="tit">
-                      <strong>{event.title}</strong>
-                    </div>
-                    <div className="subtitle">{event.subtitle}</div>
-                    <p>{event.description}</p>
-                    <p className="event-details">{event.details}</p>
-                    <button 
-                      className="btn_drop"
-                      onClick={() => handleEventSelect(event)}
-                      aria-label={`${event.title} 신청하기`}
-                    >
-                      <span>지금 신청하기</span>
-                    </button>
-                  </div>
-                </li>
-              ))}
-            </ul>
+          <div className="events_hero_banners_container">
+            {/* 첫 번째: 전체 너비 큰 배너 */}
+            <div 
+              className={`events_hero_banner events_hero_banner_large events_hero_banner_${events[0].theme}`}
+              onClick={() => handleEventSelect(events[0])}
+              style={{ backgroundImage: `url(${events[0].image})` }}
+              aria-label={`${events[0].title} 신청하기`}
+            >
+              <div className="events_hero_banner_overlay"></div>
+              <div className="events_hero_banner_content">
+                <h2>{events[0].title}</h2>
+                <p className="events_hero_subtitle">{events[0].subtitle}</p>
+                <p className="events_hero_description">{events[0].description}</p>
+                <p className="events_hero_details">{events[0].details}</p>
+                <button className="events_hero_btn">
+                  <span>지금 신청하기</span>
+                </button>
+              </div>
+            </div>
+
+            {/* 두 번째, 세 번째: 나란히 배치 */}
+            <div className="events_hero_banners_row">
+              <div 
+                className={`events_hero_banner events_hero_banner_half events_hero_banner_${events[1].theme}`}
+                onClick={() => handleEventSelect(events[1])}
+                style={{ backgroundImage: `url(${events[1].image})` }}
+                aria-label={`${events[1].title} 신청하기`}
+              >
+                <div className="events_hero_banner_overlay"></div>
+                <div className="events_hero_banner_content">
+                  <h3>{events[1].title}</h3>
+                  <p className="events_hero_subtitle">{events[1].subtitle}</p>
+                  <p className="events_hero_description">{events[1].description}</p>
+                  <button className="events_hero_btn">
+                    <span>지금 신청하기</span>
+                  </button>
+                </div>
+              </div>
+              <div 
+                className={`events_hero_banner events_hero_banner_half events_hero_banner_${events[2].theme}`}
+                onClick={() => handleEventSelect(events[2])}
+                style={{ backgroundImage: `url(${events[2].image})` }}
+                aria-label={`${events[2].title} 신청하기`}
+              >
+                <div className="events_hero_banner_overlay"></div>
+                <div className="events_hero_banner_content">
+                  <h3>{events[2].title}</h3>
+                  <p className="events_hero_subtitle">{events[2].subtitle}</p>
+                  <p className="events_hero_description">{events[2].description}</p>
+                  <button className="events_hero_btn">
+                    <span>지금 신청하기</span>
+                  </button>
+                </div>
+              </div>
+            </div>
+
+            {/* 네 번째, 다섯 번째: 나란히 배치 */}
+            <div className="events_hero_banners_row">
+              <div 
+                className={`events_hero_banner events_hero_banner_half events_hero_banner_${events[3].theme}`}
+                onClick={() => handleEventSelect(events[3])}
+                style={{ backgroundImage: `url(${events[3].image})` }}
+                aria-label={`${events[3].title} 신청하기`}
+              >
+                <div className="events_hero_banner_overlay"></div>
+                <div className="events_hero_banner_content">
+                  <h3>{events[3].title}</h3>
+                  <p className="events_hero_subtitle">{events[3].subtitle}</p>
+                  <p className="events_hero_description">{events[3].description}</p>
+                  <button className="events_hero_btn">
+                    <span>지금 신청하기</span>
+                  </button>
+                </div>
+              </div>
+              <div 
+                className={`events_hero_banner events_hero_banner_half events_hero_banner_${events[4].theme}`}
+                onClick={() => handleEventSelect(events[4])}
+                style={{ backgroundImage: `url(${events[4].image})` }}
+                aria-label={`${events[4].title} 신청하기`}
+              >
+                <div className="events_hero_banner_overlay"></div>
+                <div className="events_hero_banner_content">
+                  <h3>{events[4].title}</h3>
+                  <p className="events_hero_subtitle">{events[4].subtitle}</p>
+                  <p className="events_hero_description">{events[4].description}</p>
+                  <button className="events_hero_btn">
+                    <span>지금 신청하기</span>
+                  </button>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
