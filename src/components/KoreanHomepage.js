@@ -1,6 +1,35 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
+import { getNoticesList } from '../api/noticesApi';
 
 const KoreanHomepage = ({ onNavigate }) => {
+  const [notices, setNotices] = useState([]);
+
+  // 공지사항 목록 가져오기 (최신 5개)
+  useEffect(() => {
+    const fetchNotices = async () => {
+      const response = await getNoticesList(0, 5);
+
+      if (response.success && response.data) {
+        setNotices(response.data.content || []);
+      } else {
+        console.error('공지사항 목록을 불러오는데 실패했습니다:', response.error);
+        setNotices([]);
+      }
+    };
+
+    fetchNotices();
+  }, []);
+
+  // 날짜 포맷팅 함수 (ISO -> YYYY.MM.DD)
+  const formatDate = (isoDateString) => {
+    if (!isoDateString) return '';
+    const date = new Date(isoDateString);
+    const year = date.getFullYear();
+    const month = String(date.getMonth() + 1).padStart(2, '0');
+    const day = String(date.getDate()).padStart(2, '0');
+    return `${year}.${month}.${day}`;
+  };
+
   const menuItems = [
     {
       title: "태재 입학전형 특징",
@@ -36,49 +65,6 @@ const KoreanHomepage = ({ onNavigate }) => {
       link: "korean-events-contacts",
       image: "/images/main-5.png",
       theme: "orange"
-    }
-  ];
-
-  const notices = [
-    {
-      title: "2024학년도 신입학 모집요강 발표",
-      date: "2024.08.15"
-    },
-    {
-      title: "입학설명회 개최 안내",
-      date: "2024.08.10"
-    },
-    {
-      title: "서류 접수 기간 연장 안내",
-      date: "2024.08.05"
-    },
-    {
-      title: "2024학년도 추가 모집 안내",
-      date: "2024.07.30"
-    },
-    {
-      title: "면접 일정 및 장소 공지",
-      date: "2024.07.25"
-    },
-    {
-      title: "장학금 신청 안내",
-      date: "2024.07.20"
-    },
-    {
-      title: "기숙사 입사 신청 접수",
-      date: "2024.07.15"
-    },
-    {
-      title: "신입생 오리엔테이션 일정",
-      date: "2024.07.10"
-    },
-    {
-      title: "입학 관련 FAQ 업데이트",
-      date: "2024.07.05"
-    },
-    {
-      title: "등록금 납부 안내",
-      date: "2024.07.01"
     }
   ];
 
@@ -161,21 +147,30 @@ const KoreanHomepage = ({ onNavigate }) => {
               </div>
               
               <div className="notices_premium_grid">
-                {notices.slice(0, 5).map((notice, index) => (
-                  <div 
-                    key={index} 
-                    className="notice_premium_card"
-                    onClick={() => onNavigate(`korean-notices-detail?id=${index + 1}`)}
-                  >
-                    <div className="notice_card_content">
-                      <div className="notice_date_badge">{notice.date}</div>
-                      <h3 className="notice_title">{notice.title}</h3>
-                      <div className="notice_bottom_badges">
-                        <span className="notice_category">입학안내</span>
+                {notices.length > 0 ? (
+                  notices.map((notice) => (
+                    <div
+                      key={notice.id}
+                      className="notice_premium_card"
+                      onClick={() => onNavigate(`korean-notices-detail?id=${notice.id}`)}
+                    >
+                      <div className="notice_card_content">
+                        <div className="notice_date_badge">{formatDate(notice.createdAt)}</div>
+                        <h3 className="notice_title">{notice.title}</h3>
+                        <div className="notice_bottom_badges">
+                          <span className="notice_category">입학안내</span>
+                          {notice.fileCount > 0 && (
+                            <span className="notice_file_badge">📎 {notice.fileCount}</span>
+                          )}
+                        </div>
                       </div>
                     </div>
+                  ))
+                ) : (
+                  <div style={{ gridColumn: '1 / -1', textAlign: 'center', padding: '40px 0', color: '#999' }}>
+                    공지사항이 없습니다.
                   </div>
-                ))}
+                )}
               </div>
               
               <div className="notices_more_section">
