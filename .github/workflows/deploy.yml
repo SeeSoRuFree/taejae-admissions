@@ -23,6 +23,7 @@ on:
 
 env:
   NODE_VERSION: '22.18.0'
+  DOCKER_BUILDKIT: 1
 
 jobs:
   deploy:
@@ -77,7 +78,7 @@ jobs:
 
       - name: Build Docker image
         run: |
-          DOCKER_BUILDKIT=0 sudo -E docker build \
+          sudo docker build \
             --build-arg NODE_ENV=${{ env.ENVIRONMENT }} \
             --build-arg REACT_APP_API_BASE_URL=${{ vars.REACT_APP_API_BASE_URL }} \
             --build-arg BUILD_DATE=$(date -u +'%Y-%m-%dT%H:%M:%SZ') \
