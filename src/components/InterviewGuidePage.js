@@ -131,7 +131,7 @@ const InterviewGuidePage = ({ onNavigate }) => {
           <div className="inner">
             <div className="section-indicator">
               <h3>면접 평가 방법 및 항목</h3>
-              <p className="section-intro">구체적으로 어떤 역량들을 어떻게 평가하는지 알아보세요.</p>
+              <p className="section-intro">아래 항목들을 중심으로 학생부 등 지원서류 및 활동 경험에 대한 질문을 통해 학생의 역량을 종합 평가합니다</p>
             </div>
             
             <div className="competencies-grid">
@@ -140,8 +140,8 @@ const InterviewGuidePage = ({ onNavigate }) => {
                   <img src="/images/icon-100-admissions01.svg" alt="논리적 사고" />
                 </div>
                 <div className="competency-content">
-                  <h4>논리적인 사고를 통한 판단과 의사표현 능력</h4>
-                  <p>체계적이고 논리적인 사고를 통한 문제 분석과 명확한 의사표현 능력</p>
+                  <h4>논리적 분석 및 표현 역량</h4>
+                  <p>논리적인 사고를 통한 판단과 의사표현 능력</p>
                 </div>
               </div>
               
@@ -150,8 +150,8 @@ const InterviewGuidePage = ({ onNavigate }) => {
                   <img src="/images/icon-100-admissions02.svg" alt="문제 해결" />
                 </div>
                 <div className="competency-content">
-                  <h4>유연한 태도로 습득한 지식을 연계하고 주도적으로 문제를 해결하는 역량</h4>
-                  <p>다양한 분야의 지식을 융합하여 창의적으로 문제를 해결하는 능력</p>
+                  <h4>융합적 사고 및 문제 해결 역량</h4>
+                  <p>유연한 태도로 습득한 지식을 활용하여 주도적으로 문제를 해결하는 역량</p>
                 </div>
               </div>
               
@@ -160,8 +160,8 @@ const InterviewGuidePage = ({ onNavigate }) => {
                   <img src="/images/icon-100-admissions03.svg" alt="소통 협업" />
                 </div>
                 <div className="competency-content">
-                  <h4>동료와 효과적으로 소통하며 협력하여 공동의 목표를 이뤄가는 능력</h4>
-                  <p>타인과 효과적으로 소통하며 협력하여 공동의 목표를 달성하는 능력</p>
+                  <h4>소통 및 협업 역량</h4>
+                  <p>동료와 효과적으로 소통하며 협력하여 공동의 목표를 이뤄가는 능력</p>
                 </div>
               </div>
               
@@ -170,8 +170,18 @@ const InterviewGuidePage = ({ onNavigate }) => {
                   <img src="/images/icon-100-admissions01.svg" alt="자기계발 리더십" />
                 </div>
                 <div className="competency-content">
-                  <h4>자기 주도적인 성장 의지와 노력, 주변에 긍정적 영향을 미치는 리더십</h4>
-                  <p>지속적인 자기계발 의지와 타인에게 긍정적 영향을 미치는 리더십</p>
+                  <h4>자기계발 역량 및 리더십</h4>
+                  <p>자기 주도적인 성장 의지와 노력, 주변에 긍정적인 영향을 미치는 리더십</p>
+                </div>
+              </div>
+              
+              <div className="competency-item">
+                <div className="competency-icon">
+                  <img src="/images/icon-100-admissions02.svg" alt="성장 가능성" />
+                </div>
+                <div className="competency-content">
+                  <h4>성장 가능성</h4>
+                  <p>미래 태재인으로서 지속적으로 발전할 수 있는 잠재력과 가능성</p>
                 </div>
               </div>
             </div>
@@ -198,7 +208,7 @@ const InterviewGuidePage = ({ onNavigate }) => {
 
               <div className="process-integration">
                 <div className="process-diagram">
-                  <img src="/images/img_wto01_diagram.svg" alt="면접 평가 과정" />
+                  <img src="/images/interview_evaluation_focus.svg" alt="면접 평가 주안점" />
                 </div>
                 <div className="process-flow-simple">
                   <div className="process-steps-inline">
@@ -224,11 +234,7 @@ const InterviewGuidePage = ({ onNavigate }) => {
         <div className="journey-section meeting-section-simple">
           <div className="inner">
             <h3>대학과 지원자의 첫 만남의 장</h3>
-            <ul className="meeting-points-list">
-              <li>단순 입시 평가가 아닌, 대학과 지원자가 처음으로 직접 마주하는 기회</li>
-              <li>지원자가 태재대학교의 교수진, 교육 환경, 철학을 직접 경험하고 느낄 수 있는 장</li>
-              <li>지원자에게도 태재대학교를 평가·판단하여 선택할 기회를 제공하는 시간</li>
-            </ul>
+            <p className="meeting-description">단순 입시 평가가 아닌, 대학과 지원자가 처음으로 직접 마주하는 기회입니다. 지원자가 태재대학교의 교수진, 교육 환경, 철학을 직접 경험하고 느낄 수 있는 장이며, 지원자에게도 태재대학교를 평가·판단하여 선택할 기회를 제공하는 시간입니다</p>
           </div>
         </div>
       </div>
@@ -251,7 +257,7 @@ const InterviewGuidePage = ({ onNavigate }) => {
                 <h4>면접 유형별 특징</h4>
                 <div className="interview_types_overview">
                   <div className="types_visual">
-                    <img src="/images/img_wto34_triangle.svg" alt="면접 유형 구조" />
+                    <img src="/images/interview_types_features.svg" alt="면접 유형별 특징" />
                   </div>
                   <div className="types_description">
                     <p>면접은 전형별 특성에 따라 온라인 그룹 토론과 개인 면접 크게 두 가지 유형이며 개인면접은 전형에 따라 개별심층면접이나 온라인 AI-assist 면접이 함께 진행됩니다. 그룹 토론에서는 영어 제시문 등이 활용되며 준비 시간 이후에 온라인 상에서 6명 정도의 그룹으로 토론을 합니다. 그룹 토론의 토론 장면이나 AI-assist 면접의 답변 장면은 녹화하여 면접위원이 차후에 평가하게 됩니다.</p>
@@ -270,7 +276,6 @@ const InterviewGuidePage = ({ onNavigate }) => {
                       <div className="type_header" onClick={() => handleTypeDetailClick(index)}>
                         <div className="type_badge">
                           <div className="badge_icon_container">
-                            <img src={`/images/ico-100-cpog0${index + 1}.svg`} alt={type.title} className="type_icon" />
                             <span className="badge_number">{index + 1}</span>
                           </div>
                         </div>

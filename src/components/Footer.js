@@ -102,14 +102,12 @@ const Footer = () => {
       
       <div className="foot_util">
         <ul className="inform">
-          <li><a href="https://www.taejae.ac.kr/alimi" target="_blank">대학 알리미</a></li>
-          <li><a href="https://www.taejae.ac.kr/privacy" target="_blank"><strong>개인정보처리방침</strong></a></li>
-          <li><a href="https://www.taejae.ac.kr/careers" target="_blank">채용</a></li>
+          <li><a href="https://www.taejae.ac.kr/" target="_blank">태재대학교 홈페이지</a></li>
         </ul>
         
         <div className="sns_wrap">
           <a href="https://www.youtube.com/@taejaeuniversity" className="lnk_youtube" target="_blank" rel="noopener noreferrer">youtube</a>
-          <a href="https://www.instagram.com/taejae_university/" className="lnk_instagram" target="_blank" rel="noopener noreferrer">instagram</a>
+          <a href="https://www.instagram.com/taejae_admissions/?igsh=ODl6NDQ2ODRwNThl" className="lnk_instagram" target="_blank" rel="noopener noreferrer">instagram</a>
         </div>
       </div>
       

@@ -1,0 +1,67 @@
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="centerGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#501D83;stop-opacity:0.1" />
+      <stop offset="100%" style="stop-color:#501D83;stop-opacity:0.05" />
+    </linearGradient>
+    <linearGradient id="competencyGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#00A597;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#00A597;stop-opacity:0.6" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background circle for center concept -->
+  <circle cx="300" cy="200" r="90" fill="url(#centerGradient)" stroke="#501D83" stroke-width="2" stroke-dasharray="5,5"/>
+  
+  <!-- Center concept -->
+  <text x="300" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#501D83">생각과 동기</text>
+  <text x="300" y="205" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#501D83">어떤 생각을 가지고</text>
+  <text x="300" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#501D83">있는가?</text>
+  
+  <!-- Four competency areas -->
+  
+  <!-- 1. 논리적 사고력 (상단) -->
+  <circle cx="300" cy="80" r="45" fill="url(#competencyGradient)" stroke="#00A597" stroke-width="2"/>
+  <text x="300" y="76" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="white">논리적</text>
+  <text x="300" y="92" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="white">사고력</text>
+  
+  <!-- Connection line to center -->
+  <line x1="300" y1="125" x2="300" y2="155" stroke="#501D83" stroke-width="2" opacity="0.7"/>
+  <circle cx="300" cy="140" r="4" fill="#501D83"/>
+  
+  <!-- 2. 문제해결 역량 (우측) -->
+  <circle cx="480" cy="200" r="45" fill="url(#competencyGradient)" stroke="#00A597" stroke-width="2"/>
+  <text x="480" y="196" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="white">문제해결</text>
+  <text x="480" y="212" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="white">역량</text>
+  
+  <!-- Connection line to center -->
+  <line x1="435" y1="200" x2="395" y2="200" stroke="#501D83" stroke-width="2" opacity="0.7"/>
+  <circle cx="415" cy="200" r="4" fill="#501D83"/>
+  
+  <!-- 3. 소통 협업 능력 (하단) -->
+  <circle cx="300" cy="320" r="45" fill="url(#competencyGradient)" stroke="#00A597" stroke-width="2"/>
+  <text x="300" y="316" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="white">소통 협업</text>
+  <text x="300" y="332" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="white">능력</text>
+  
+  <!-- Connection line to center -->
+  <line x1="300" y1="275" x2="300" y2="245" stroke="#501D83" stroke-width="2" opacity="0.7"/>
+  <circle cx="300" cy="260" r="4" fill="#501D83"/>
+  
+  <!-- 4. 자기계발 리더십 (좌측) -->
+  <circle cx="120" cy="200" r="45" fill="url(#competencyGradient)" stroke="#00A597" stroke-width="2"/>
+  <text x="120" y="196" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="white">자기계발</text>
+  <text x="120" y="212" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="white">리더십</text>
+  
+  <!-- Connection line to center -->
+  <line x1="165" y1="200" x2="205" y2="200" stroke="#501D83" stroke-width="2" opacity="0.7"/>
+  <circle cx="185" cy="200" r="4" fill="#501D83"/>
+  
+  <!-- Outer decorative elements -->
+  <circle cx="70" cy="100" r="10" fill="#501D83" opacity="0.3"/>
+  <circle cx="530" cy="100" r="10" fill="#00A597" opacity="0.3"/>
+  <circle cx="70" cy="300" r="10" fill="#00A597" opacity="0.3"/>
+  <circle cx="530" cy="300" r="10" fill="#501D83" opacity="0.3"/>
+  
+  <!-- Title at bottom -->
+  <text x="300" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2d3748">면접 평가 주안점</text>
+</svg>

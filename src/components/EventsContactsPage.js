@@ -350,8 +350,7 @@ const EventsContactsPage = ({ onNavigate }) => {
               </div>
               <div className="desc">
                 <p className="main_desc">
-                  다양한 형태의 입학 설명회와 상담 프로그램을 통해<br/>
-                  태재대학교를 더 자세히 알아보세요.
+                  다양한 형태의 입학 설명회와 상담 프로그램을 통해 태재대학교를 더 자세히 알아보세요.
                 </p>
               </div>
             </div>

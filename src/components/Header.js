@@ -129,154 +129,159 @@ const Header = ({ onAdmissionsClick, onBackToUniversity, currentView, onNavigate
   const menuItems = currentLanguage === 'en' ? englishMenuItems : koreanMenuItems;
 
   return (
-    <nav className="floating-nav">
-      {/* 로고 섹션 */}
-      <div className="logotype-contain">
-        <img 
-          src="/resources/img/taejae-logo-2line.png"
-          alt="Taejae University"
-          className="nav-logo"
-          onClick={handleLogoClick}
-        />
-      </div>
+    <>
+      <nav className="floating-nav">
+        {/* 로고 섹션 */}
+        <div className="logotype-contain">
+          <img 
+            src="/resources/img/taejae-logo-2line.png"
+            alt="Taejae University"
+            className="nav-logo"
+            onClick={handleLogoClick}
+          />
+        </div>
 
-      {/* 링크 컨테이너 */}
-      <div 
-        className="links-contain"
-        onMouseLeave={() => setHoveredMenu(null)}
-      >
-        {/* 텍스트 링크들 */}
-        <div className="text-links">
-          {menuItems.map((item) => (
-            <div 
-              key={item.id} 
-              className="nav-link"
-              onMouseEnter={() => item.subItems.length > 0 ? setHoveredMenu(item.id) : setHoveredMenu(null)}
-            >
-              <p 
-                className={hoveredMenu === item.id ? 'hovered' : ''}
-                onClick={() => handleMenuClick(item.id)}
+        {/* 링크 컨테이너 */}
+        <div 
+          className="links-contain"
+          onMouseLeave={() => setHoveredMenu(null)}
+        >
+          {/* 텍스트 링크들 */}
+          <div className="text-links">
+            {menuItems.map((item) => (
+              <div 
+                key={item.id} 
+                className="nav-link"
+                onMouseEnter={() => item.subItems.length > 0 ? setHoveredMenu(item.id) : setHoveredMenu(null)}
               >
-                {item.title}
-              </p>
-            </div>
-          ))}
-        </div>
-
-        {/* 전체 너비 드롭다운 영역 */}
-        {hoveredMenu && (
-          <div 
-            className="full-width-dropdown"
-          >
-            <div className="dropdown-content">
-              {/* 좌측: 메뉴명 */}
-              <div className="dropdown-left">
-                <h3 className="dropdown-menu-title">
-                  {menuItems.find(item => item.id === hoveredMenu)?.title}
-                </h3>
+                <p 
+                  className={hoveredMenu === item.id ? 'hovered' : ''}
+                  onClick={() => handleMenuClick(item.id)}
+                >
+                  {item.title}
+                </p>
               </div>
-              
-              {/* 우측: 서브메뉴 리스트 */}
-              <div className="dropdown-right">
-                {menuItems
-                  .find(item => item.id === hoveredMenu)
-                  ?.subItems.map((subItem) => (
-                    <div 
-                      key={subItem.id}
-                      className="full-dropdown-item"
-                      onClick={() => handleMenuClick(subItem.id)}
-                    >
-                      {subItem.title}
-                    </div>
-                  ))}
-              </div>
-            </div>
+            ))}
           </div>
-        )}
 
-      </div>
+          {/* 전체 너비 드롭다운 영역 */}
+          {hoveredMenu && (
+            <div 
+              className="full-width-dropdown"
+            >
+              <div className="dropdown-content">
+                {/* 좌측: 메뉴명 */}
+                <div className="dropdown-left">
+                  <h3 className="dropdown-menu-title">
+                    {menuItems.find(item => item.id === hoveredMenu)?.title}
+                  </h3>
+                </div>
+                
+                {/* 우측: 서브메뉴 리스트 */}
+                <div className="dropdown-right">
+                  {menuItems
+                    .find(item => item.id === hoveredMenu)
+                    ?.subItems.map((subItem) => (
+                      <div 
+                        key={subItem.id}
+                        className="full-dropdown-item"
+                        onClick={() => handleMenuClick(subItem.id)}
+                      >
+                        {subItem.title}
+                      </div>
+                    ))}
+                </div>
+              </div>
+            </div>
+          )}
 
-      {/* Language Toggle */}
-      <div className="language-toggle">
-        {currentLanguage === 'ko' ? (
-          <button 
-            className="lang-btn"
-            onClick={() => onLanguageChange && onLanguageChange('en')}
-          >
-            EN
-          </button>
-        ) : (
-          <button 
-            className="lang-btn"
-            onClick={() => onLanguageChange && onLanguageChange('ko')}
-          >
-            KO
-          </button>
-        )}
-      </div>
-
-      {/* Mobile Menu Button */}
-      <div className="mobile-menu-trigger" onClick={toggleMobileMenu}>
-        <div className={`hamburger-icon ${isMobileMenuOpen ? 'open' : ''}`}>
-          <span></span>
-          <span></span>
-          <span></span>
         </div>
-      </div>
 
-      {/* Mobile Menu Dropdown */}
-      {isMobileMenuOpen && (
-        <>
-          <div className="mobile-menu-overlay" onClick={toggleMobileMenu}></div>
-          <div className="mobile-menu-dropdown">
-            <div className="mobile-menu-content">
-              {menuItems.map((item) => (
-                <div key={item.id} className="mobile-nav-item">
-                  <div 
-                    className="mobile-nav-main"
-                    onClick={() => item.subItems.length === 0 ? handleMenuClick(item.id) : toggleSubmenu(item.id)}
-                  >
-                    <span>{item.title}</span>
+        {/* Language Toggle */}
+        <div className="language-toggle">
+          {currentLanguage === 'ko' ? (
+            <button 
+              className="lang-btn"
+              onClick={() => onLanguageChange && onLanguageChange('en')}
+            >
+              EN
+            </button>
+          ) : (
+            <button 
+              className="lang-btn"
+              onClick={() => onLanguageChange && onLanguageChange('ko')}
+            >
+              KO
+            </button>
+          )}
+        </div>
+
+        {/* Mobile Menu Button */}
+        <div className="mobile-menu-trigger" onClick={toggleMobileMenu}>
+          <div className={`hamburger-icon ${isMobileMenuOpen ? 'open' : ''}`}>
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+        </div>
+
+        {/* Mobile Menu Dropdown */}
+        {isMobileMenuOpen && (
+          <>
+            <div className="mobile-menu-overlay" onClick={toggleMobileMenu}></div>
+            <div className="mobile-menu-dropdown">
+              <div className="mobile-menu-content">
+                {menuItems.map((item) => (
+                  <div key={item.id} className="mobile-nav-item">
+                    <div 
+                      className="mobile-nav-main"
+                      onClick={() => item.subItems.length === 0 ? handleMenuClick(item.id) : toggleSubmenu(item.id)}
+                    >
+                      <span>{item.title}</span>
+                      {item.subItems.length > 0 && (
+                        <span className={`mobile-expand-icon ${expandedMenu === item.id ? 'expanded' : ''}`}>▼</span>
+                      )}
+                    </div>
                     {item.subItems.length > 0 && (
-                      <span className={`mobile-expand-icon ${expandedMenu === item.id ? 'expanded' : ''}`}>▼</span>
+                      <div className={`mobile-dropdown-submenu ${expandedMenu === item.id ? 'expanded' : ''}`}>
+                        {item.subItems.map((subItem) => (
+                          <div 
+                            key={subItem.id}
+                            className="mobile-dropdown-item"
+                            onClick={() => handleMenuClick(subItem.id)}
+                          >
+                            {subItem.title}
+                          </div>
+                        ))}
+                      </div>
                     )}
                   </div>
-                  {item.subItems.length > 0 && (
-                    <div className={`mobile-dropdown-submenu ${expandedMenu === item.id ? 'expanded' : ''}`}>
-                      {item.subItems.map((subItem) => (
-                        <div 
-                          key={subItem.id}
-                          className="mobile-dropdown-item"
-                          onClick={() => handleMenuClick(subItem.id)}
-                        >
-                          {subItem.title}
-                        </div>
-                      ))}
-                    </div>
-                  )}
-                </div>
-              ))}
+                ))}
+              </div>
             </div>
-          </div>
-        </>
-      )}
+          </>
+        )}
 
-      {/* 내부 광택 효과 */}
-      <div className="nav-inner-glow"></div>
+        {/* 내부 광택 효과 */}
+        <div className="nav-inner-glow"></div>
+      </nav>
 
-      {/* Application Period Modal */}
+      {/* Application Period Modal - nav 밖으로 이동 */}
       {showApplicationModal && (
         <div className="modal_overlay" onClick={() => setShowApplicationModal(false)}>
           <div className="modal_content" onClick={(e) => e.stopPropagation()}>
             <div className="modal_header">
-              <h3>입학신청 안내</h3>
+              <h3>접수기간 세부 안내</h3>
             </div>
             <div className="modal_body">
-              <p>현재는 신청기간이 아닙니다.</p>
-              <p>입학신청 기간 동안만 신청서 작성이 가능합니다.</p>
+              <h4>접수기간</h4>
               <p className="modal_period_info">
-                신청기간 중에만 버튼이 활성화됩니다.<br/>
-                접수기간: 2024년 12월 1일 ~ 2024년 12월 31일
+                <strong>2025년 12월 1일 ~ 2026년 1월 2일</strong><br/>
+                (태재미래인재, 자기혁신인재, 사회통합전형)
+              </p>
+              <p className="modal_period_info">
+                <strong>2026년 6월 1일~ 6월 19일</strong><br/>
+                (글로벌인재전형)
               </p>
             </div>
             <div className="modal_footer">
@@ -290,7 +295,7 @@ const Header = ({ onAdmissionsClick, onBackToUniversity, currentView, onNavigate
           </div>
         </div>
       )}
-    </nav>
+    </>
   );
 };
 

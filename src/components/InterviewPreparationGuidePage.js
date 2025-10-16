@@ -29,11 +29,12 @@ const InterviewPreparationGuidePage = ({ onNavigate }) => {
           {/* 면접 준비 핵심 원칙 */}
           <div className="content_block overview_block">
             <div className="text_content">
-              <h3>면접 준비 핵심 원칙</h3>
               <div className="content_text">
                 <p>
-                  태재대학교 면접을 위해서는 <strong>학교 교육과정 외에 별도의 준비는 필요 없습니다.</strong><br/>
-                  면접은 단순히 질문에 답하는 자리가 아니라, 자신의 생각을 논리적으로 표현하고 소통하는 과정입니다.
+                  태재대학교면접을 위해서는 학교 교육과정 외에 별도의 준비는 필요 없습니다.
+                  고교생활 수업 중 접하게 되는 다양한 주제에 대해서 자신만의 생각을 되짚어보고 말로 표현하는 기회를 많이 갖도록 해보세요.
+                  수업 중 발표나 친구들과 대화에서 논리적으로 말하는 연습, 상대방을 경청하며 자신의 생각으로 소통하는 연습 등 학교생활 속에서 다양한 기회를 활용할 수 있습니다.
+                  이러한 과정은 고교 교육에서 강조하는 종합적인 사고역량, 창의적 역량, 의사소통역량, 소통공감 역량 등을 함양하는 노력의 과정이기도 합니다.
                 </p>
                 <div className="key_points">
                   <div className="key_point">
@@ -46,7 +47,7 @@ const InterviewPreparationGuidePage = ({ onNavigate }) => {
                   </div>
                   <div className="key_point">
                     <span className="point_icon">📚</span>
-                    <span>비판적 독서와 친구와의 대화를 통한 사고력 향상</span>
+                    <span>고교학업과 면접 모두에 도움이 되는 통합적 사고 연습하기</span>
                   </div>
                 </div>
               </div>
@@ -65,14 +66,12 @@ const InterviewPreparationGuidePage = ({ onNavigate }) => {
               <h3>면접 준비 안내</h3>
               <div className="content_text">
                 <p>
-                  학교 수업과 교내 생활에서 주어지는 다양한 학업 및 학업외 기회를 활용하는 평소의 학교생활이 중요합니다. 
-                  고교 교육에서 강조하는 <em>종합적인 사고역량, 창의적 역량, 의사소통역량, 소통공감 역량</em> 등을 함양하는 노력이 
-                  면접에서도 자신감을 갖게 할 것입니다.
+                  비판적 책읽기로 자기만의 생각으로 정리하고 친구와 대화하기 등의 평소 독서습관도 중요합니다. 또한 평소 고등학교에서 자신이 수행하는 과제에 대해 스스로 질문하고 의미를 이야기할 수 있고 우리 주변에서 일어나는 사회, 국제문제 등에 대해서도 자신의 생각을 정리해보는 경험 등은 고교 학업 뿿 아니라 태재대학교 면접에서도 자신감을 갖게 할 것입니다.
                 </p>
                 <ul className="preparation_highlights">
+                  <li>비판적 독서와 친구와의 대화를 통한 사고력 향상</li>
                   <li>평소 고등학교에서 자신이 수행하는 과제에 대해 스스로 질문하기</li>
                   <li>우리 주변에서 일어나는 사회, 국제문제에 대한 자신의 생각 정리하기</li>
-                  <li>고교 학업과 면접 모두에 도움이 되는 통합적 사고 연습하기</li>
                 </ul>
               </div>
             </div>
@@ -85,8 +84,8 @@ const InterviewPreparationGuidePage = ({ onNavigate }) => {
       <div className="section wide detailed_guide_section">
         <div className="inner">
           <div className="tit_txt_box type3">
-            <strong className="tit">5단계 면접 준비 가이드</strong>
-            <p className="txt">체계적인 면접 준비를 위한 단계별 가이드입니다</p>
+            <strong className="tit">[태재 5단계 면접 준비 가이드]</strong>
+            <p className="txt">면접은 단순히 질문에 답하는 자리가 아니라, 자신의 생각을 논리적으로 표현하고, 소통하는 과정입니다. 학교 외에서 별도로 면접을 위한 준비할 필요가 없으며, 학교 수업과 교내 생활에서 주어지는 다양한 학업 및 학업외기회를 활용하는 평소의 학교생활이 중요합니다. 면접에 도움이 될수 있는 고교생활에 대해 알아봅니다.</p>
           </div>
           
           <div className="guide_steps_grid">

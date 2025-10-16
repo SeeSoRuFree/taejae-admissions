@@ -204,6 +204,9 @@
   font-size: 16px;
   line-height: 24px;
   margin-bottom: 12px;
+}
+
+.events-programs-section .step_cont > ul > li .cont p:first-of-type {
   flex-grow: 1;
 }
 
@@ -511,12 +514,12 @@
 }
 
 .modal_body {
-  padding: 60px 40px 40px;
+  padding: 20px 40px 40px;
 }
 
 .modal_header {
   text-align: left;
-  margin-bottom: 40px;
+  margin-bottom: 0px;
   padding-bottom: 24px;
   border-bottom: 1px solid #E5E5E5;
 }

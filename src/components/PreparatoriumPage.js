@@ -7,13 +7,13 @@ const PreparatoriumPage = ({ onNavigate }) => {
       <div className="section wide adm_prcs documents_hero">
         <div className="visual">
           <div className="img_wrap">
-            <img src="/images/main-5.png" alt="대학 예비학교 (Praeparatorium)" />
+            <img src="/images/main-5.png" alt="태재 예비대학" />
           </div>
           <div className="cont_wrap">
             <div className="inner">
               <div className="tit_section">
                 <div className="sub_tit">PRAEPARATORIUM</div>
-                <h2>대학 예비학교 (Praeparatorium)</h2>
+                <h2>태재 예비대학</h2>
                 <h3>3월부터 시작되는 15주간 예비학교 프로그램으로 완벽한 준비를 마치세요</h3>
               </div>
             </div>
@@ -59,6 +59,28 @@ const PreparatoriumPage = ({ onNavigate }) => {
             </div>
           </div>
 
+        </div>
+      </div>
+
+      {/* 프로그램 소개 영상 섹션 */}
+      <div className="section wide video_section">
+        <div className="inner">
+          <div className="tit_txt_box type3">
+            <strong className="tit">프로그램 소개 영상</strong>
+            <p className="txt">태재 예비대학 프로그램에 대해 더 자세히 알아보세요</p>
+          </div>
+          
+          <div className="video_container">
+            <div className="video_wrapper">
+              <iframe
+                src="https://www.youtube.com/embed/inmWq6IE5cU"
+                title="태재 예비대학 프로그램 소개"
+                frameBorder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowFullScreen
+              ></iframe>
+            </div>
+          </div>
         </div>
       </div>
 

@@ -728,8 +728,8 @@ body.admissions-gateway * {
   position: fixed;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
+  right: 0;
+  bottom: 0;
   background-color: rgba(0, 0, 0, 0.6);
   display: flex;
   justify-content: center;
@@ -773,6 +773,7 @@ body.admissions-gateway * {
 .modal_header {
   padding: 24px 24px 16px;
   border-bottom: 1px solid #e9ecef;
+  margin-bottom: 0px;
 }
 
 .modal_header h3 {
@@ -784,7 +785,7 @@ body.admissions-gateway * {
 }
 
 .modal_body {
-  padding: 24px;
+  padding: 20px 40px 40px;
   text-align: center;
   line-height: 1.6;
 }
@@ -797,6 +798,10 @@ body.admissions-gateway * {
 
 .modal_body p:last-child {
   margin-bottom: 0;
+}
+
+.modal_body h4 {
+  margin-top: 0;
 }
 
 .modal_close {
@@ -4728,8 +4733,8 @@ button {
 .full-dropdown-item {
   padding: 12px 20px;
   font-family: 'Instrument Sans', sans-serif;
-  font-weight: 400;
-  font-size: 16px;
+  font-weight: 600;
+  font-size: 17px;
   line-height: 1.4;
   color: #333;
   cursor: pointer;
@@ -4738,7 +4743,7 @@ button {
 }
 
 .full-dropdown-item:hover {
-  font-weight: 500;
+  font-weight: 700;
 }
 
 /* Dropdown Items */
@@ -4906,8 +4911,8 @@ button {
 .mobile-dropdown-item {
   padding: 12px 20px 12px 40px;
   font-family: 'Instrument Sans', sans-serif;
-  font-size: 14px;
-  font-weight: 400;
+  font-size: 15px;
+  font-weight: 600;
   color: #555;
   cursor: pointer;
   transition: all 0.2s ease;
@@ -4921,6 +4926,7 @@ button {
 .mobile-dropdown-item:hover {
   background: rgba(80, 29, 131, 0.08);
   color: #501D83;
+  font-weight: 700;
 }
 
 /* 버튼 링크들 (오른쪽 영역) */
@@ -12389,7 +12395,7 @@ body .container .section.wide.adm_prcs .prcs_list li p {
   display: flex;
   align-items: center;
   gap: 8px;
-  font-size: 14px;
+  font-size: 15px;
   color: #6b7280;
 }
 
@@ -12437,7 +12443,7 @@ body .container .section.wide.adm_prcs .prcs_list li p {
 }
 
 .interview_types_detail .content_section h5 {
-  font-size: 16px;
+  font-size: 17px;
   font-weight: 600;
   margin-bottom: 12px;
   color: #374151;
@@ -12455,9 +12461,9 @@ body .container .section.wide.adm_prcs .prcs_list li p {
 }
 
 .interview_types_detail .content_section p {
-  font-size: 15px;
-  line-height: 1.6;
-  color: #4b5563;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #374151;
 }
 
 .interview_types_detail .process_list {
@@ -12469,9 +12475,9 @@ body .container .section.wide.adm_prcs .prcs_list li p {
 .interview_types_detail .process_list li {
   position: relative;
   padding: 12px 0 12px 24px;
-  font-size: 15px;
-  line-height: 1.6;
-  color: #4b5563;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #374151;
   border-left: 2px solid #e5e7eb;
 }
 
@@ -13640,8 +13646,8 @@ body .container .section.wide.adm_prcs .prcs_list li p {
   position: fixed;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
+  right: 0;
+  bottom: 0;
   background: rgba(0, 0, 0, 0.7);
   display: flex;
   align-items: center;
@@ -13688,7 +13694,7 @@ body .container .section.wide.adm_prcs .prcs_list li p {
 }
 
 .modal_header {
-  margin-bottom: 40px;
+  margin-bottom: 0px;
   text-align: center;
   border-bottom: 2px solid #e5e7eb;
   padding-bottom: 30px;
@@ -17930,6 +17936,55 @@ body .container .section.wide.adm_prcs .prcs_list li p {
   line-height: 1.4;
 }
 
+/* Guide Step Card Content */
+.guide_step_card .step_content {
+  text-align: left;
+  margin-top: 20px;
+  max-width: 100%;
+}
+
+.guide_step_card .step_content p {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #374151;
+  margin-bottom: 16px;
+}
+
+.guide_step_card .step_list {
+  margin: 16px 0;
+  padding-left: 20px;
+  list-style: disc;
+}
+
+.guide_step_card .step_list li {
+  font-size: 15px;
+  line-height: 1.5;
+  color: #4B5563;
+  margin-bottom: 8px;
+}
+
+.guide_step_card .step_note {
+  font-style: italic;
+  color: #6B7280;
+  font-size: 14px;
+  margin-top: 20px;
+}
+
+.guide_step_card .question_examples {
+  background: #F9FAFB;
+  padding: 20px;
+  border-radius: 8px;
+  margin: 16px 0;
+}
+
+.guide_step_card .practice_tip {
+  background: #EFF6FF;
+  border-left: 4px solid #3B82F6;
+  padding: 16px;
+  border-radius: 0 8px 8px 0;
+  margin: 16px 0;
+}
+
 /* Step Content */
 .step_content p {
   font-size: 16px;
@@ -18040,6 +18095,28 @@ body .container .section.wide.adm_prcs .prcs_list li p {
   
   .step_header h4 {
     font-size: 20px;
+  }
+  
+  /* Mobile styles for guide step card content */
+  .guide_step_card .step_content p {
+    font-size: 15px;
+    line-height: 1.5;
+  }
+  
+  .guide_step_card .step_list li {
+    font-size: 14px;
+  }
+  
+  .guide_step_card .step_note {
+    font-size: 13px;
+  }
+  
+  .guide_step_card .question_examples {
+    padding: 15px;
+  }
+  
+  .guide_step_card .practice_tip {
+    padding: 12px;
   }
 }
 
@@ -19470,9 +19547,9 @@ body .container .section.wide.adm_prcs .prcs_list li p {
 }
 
 .section-header p {
-  font-size: 16px;
-  color: #4a5568;
-  line-height: 1.6;
+  font-size: 18px;
+  color: #374151;
+  line-height: 1.7;
   margin: 16px auto 0;
   max-width: 800px;
 }
@@ -19510,7 +19587,7 @@ body .container .section.wide.adm_prcs .prcs_list li p {
 }
 
 .competency-content h4 {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 700;
   color: #2d3748;
   margin: 0 0 8px 0;
@@ -19518,9 +19595,9 @@ body .container .section.wide.adm_prcs .prcs_list li p {
 }
 
 .competency-content p {
-  font-size: 16px;
-  color: #4a5568;
-  line-height: 1.6;
+  font-size: 17px;
+  color: #374151;
+  line-height: 1.7;
   margin: 0;
 }
 
@@ -19643,9 +19720,9 @@ body .container .section.wide.adm_prcs .prcs_list li p {
 }
 
 .section-intro {
-  font-size: 16px;
-  color: #4a5568;
-  line-height: 1.6;
+  font-size: 18px;
+  color: #374151;
+  line-height: 1.7;
   margin: 0;
   max-width: 600px;
   margin: 0 auto;
@@ -19702,49 +19779,72 @@ body .container .section.wide.adm_prcs .prcs_list li p {
   margin-bottom: 0;
 }
 
+/* Video Section Styles */
+.video_section {
+  padding: 80px 0;
+  background: #f8f9fa;
+}
+
+.video_container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.video_wrapper {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  background: #000;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+.video_wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+/* Responsive adjustments for video section */
+@media screen and (max-width: 768px) {
+  .video_section {
+    padding: 60px 0;
+  }
+  
+  .video_container {
+    margin: 0 20px;
+  }
+}
+
 /* Meeting Section Styles */
 .meeting-section-simple {
-  background: rgba(248, 250, 252, 0.6);
-  border-top: 1px solid rgba(107, 44, 145, 0.1);
-  padding: 60px 0;
-}
-
-.meeting-section-simple h3 {
-  font-size: 1.75rem;
-  font-weight: 700;
-  color: #501D83;
-  margin-bottom: 32px;
-  text-align: center;
-}
-
-.meeting-points-list {
-  max-width: 900px;
-  margin: 0 auto;
-  list-style: none;
-  padding: 0;
-}
-
-.meeting-points-list li {
-  font-size: 1.125rem;
-  line-height: 1.7;
-  color: #2d3748;
-  margin-bottom: 24px;
-  padding-left: 24px;
+  background: linear-gradient(135deg, #501D83 0%, #00A597 100%) !important;
+  background-color: #501D83 !important; /* Fallback color */
+  padding: 60px 0 !important;
   position: relative;
 }
 
-.meeting-points-list li:before {
-  content: "•";
-  color: #501D83;
-  font-weight: bold;
-  font-size: 1.5rem;
-  position: absolute;
-  left: 0;
-  top: -2px;
+.meeting-section-simple h3 {
+  font-size: 1.75rem !important;
+  font-weight: 700 !important;
+  color: white !important;
+  margin-bottom: 32px !important;
+  text-align: center !important;
 }
 
-.meeting-points-list li:last-child {
-  margin-bottom: 0;
+.meeting-description {
+  max-width: 900px !important;
+  margin: 0 auto !important;
+  font-size: 1.125rem !important;
+  line-height: 1.7 !important;
+  color: white !important;
+  text-align: center !important;
+  padding: 0 20px !important;
 }
 
 /* Interview Types Unified Section */
@@ -20057,7 +20157,7 @@ body .container .section.wide.adm_prcs .prcs_list li p {
 }
 
 .types_visual img {
-  width: 120px;
+  width: 400px;
   height: auto;
 }
 
@@ -20081,7 +20181,7 @@ body .container .section.wide.adm_prcs .prcs_list li p {
 .process-diagram img {
   max-width: 100%;
   height: auto;
-  max-height: 200px;
+  max-height: 300px;
 }
 
 

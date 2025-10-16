@@ -1,6 +1,15 @@
 import React from 'react';
 
 const DocumentsPage = ({ onNavigate }) => {
+  
+  const handleDownload = (filename) => {
+    const link = document.createElement('a');
+    link.href = `/pdf/${filename}`;
+    link.download = filename;
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  };
 
   return (
     <div className="container sub_cont">
@@ -56,7 +65,11 @@ const DocumentsPage = ({ onNavigate }) => {
           </div>
 
           <div className="btn_area">
-            <button type="button" className="btn_drop purple">
+            <button 
+              type="button" 
+              className="btn_drop purple"
+              onClick={() => handleDownload('Self Development Plan (서식 예시).pdf')}
+            >
               <span>Self Development Plan 서식 예시</span>
             </button>
           </div>
@@ -85,7 +98,11 @@ const DocumentsPage = ({ onNavigate }) => {
           </div>
 
           <div className="btn_area">
-            <button type="button" className="btn_drop teal">
+            <button 
+              type="button" 
+              className="btn_drop teal"
+              onClick={() => handleDownload('자기혁신성과자료(서식예시).pdf')}
+            >
               <span>자기혁신성과자료 서식 예시</span>
             </button>
           </div>
@@ -110,7 +127,11 @@ const DocumentsPage = ({ onNavigate }) => {
           </div>
 
           <div className="btn_area">
-            <button type="button" className="btn_drop violet">
+            <button 
+              type="button" 
+              className="btn_drop violet"
+              onClick={() => handleDownload('활동내용보고서(서식예시).pdf')}
+            >
               <span>활동내용보고서 서식 예시</span>
             </button>
           </div>
