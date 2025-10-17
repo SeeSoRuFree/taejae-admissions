@@ -5361,6 +5361,12 @@ body.admissions-gateway {
 }
 
 /* Notice Detail Page Styles */
+.container.sub_cont.notice_detail_page .inner {
+  max-width: 900px !important;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
 .notice_breadcrumb {
   display: flex;
   align-items: center;
@@ -20528,5 +20534,67 @@ body .container .section.wide.adm_prcs .prcs_list li p {
   .info_paragraph {
     font-size: 1rem;
   }
+}
+
+/* Mobile PDF Notice Styles */
+.mobile_pdf_notice {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 60px 20px;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  border-radius: 12px;
+  border: 2px dashed #dee2e6;
+  min-height: 300px;
+}
+
+.mobile_pdf_icon {
+  font-size: 4rem;
+  margin-bottom: 24px;
+  opacity: 0.7;
+}
+
+.mobile_pdf_notice h4 {
+  color: #495057;
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 16px;
+  line-height: 1.4;
+}
+
+.mobile_pdf_notice p {
+  color: #6c757d;
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 32px;
+  max-width: 280px;
+}
+
+.mobile_pdf_download_btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 16px 24px;
+  background: linear-gradient(135deg, #501D83 0%, #6B2C91 100%);
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(80, 29, 131, 0.2);
+}
+
+.mobile_pdf_download_btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(80, 29, 131, 0.3);
+  text-decoration: none;
+  color: white;
+}
+
+.mobile_pdf_download_btn:active {
+  transform: translateY(0);
 }
 
